@@ -1,0 +1,32 @@
+An estimation analysis on how long it is expected to take to vaccinate 150 000 persons using centralized vaccination
+
+----------------------------------------------------------
+It takes 3015 time units to vaccinate 1000 recidents
+
+We then estimate that to vaccinate 150 000, it can take 150 * 3015 = 452 250 time units
+
+In our simulation a time unit corresponds to 1 minute, 
+and we only have available 8 working hours in one day.
+meaning that it can take:
+
+-> 452 250 minutes
+-> 452 250 / 60 = 7 538 hours
+-> 7 538 / 8 = 943 days
+-> 943 / 5 = 189 weeks
+-> 189 / 52 = up to 4 years
+To vaccinate a population of 150 000 recidents.
+
+----------------------------------------------------------
+It takes 30015 time units to vaccinate 10 000 recidents
+
+We then estimate that to vaccinate 150 000, it can take 15 * 30015 = 450 225 time units
+
+In our simulation a time unit corresponds to 1 minute, 
+and we only have available 8 working hours in one day, and 5 working days in one week.
+meaning that it can take:
+-> 450 225 minutes
+-> 450 225 / 60 = 7 504 hours
+-> 7 504 / 8 = 938 days
+-> 938 / 5 = 188 weeks
+-> 188 / 52 = up to 4 years
+To vaccinate a population of 150 000 recidents.
