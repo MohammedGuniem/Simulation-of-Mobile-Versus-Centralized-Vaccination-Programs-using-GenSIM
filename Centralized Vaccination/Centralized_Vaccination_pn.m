@@ -1,26 +1,26 @@
-% verstion - 1.0
-% Centeralized Vaccination Program
+% MSF: Centeralized Vaccination Program
 
 clear all; 
 clc;
 
 global global_info
 global_info.MAX_LOOP = 3000; % Stoping after several steps
-
-% t1 = Registration
-% t2 = Vaccine
-% t3 = Wait
     
 pns = pnstruct('Centralized_Vaccination_pn_pdf');
 
 % initial tokens
-dyn.m0 = {'p1',1000, 'p2',10, 'p4',1000, 'p5',10, 'p7',20};
-dyn.ft = {'Registration',5, 'Vaccine',10, 'Wait',30};
+n = 100
+dyn.m0 = {'p1',n, 'p2',0, 'p3',0, 'p4',0, 'p5',n};
+dyn.ft = {'tREGISTRATION',5, 'tVACCINATION',10, 'tWAITING',30};
+dyn.re = {'Staff',15,inf,'Health_Workers',15,inf,'Waiting_Rooms',30,inf}; 
 
 pni = initialdynamics(pns, dyn); 
 
-Sim_Results = gpensim(pni); % perform simulation runs
-prnss(Sim_Results);  % print the simulation results 
-plotp(Sim_Results, {'p1','p2','p3','p4','p5','p6','p7','p8'}); % plot the results
+sim = gpensim(pni); % perform simulation runs
+prnss(sim);  % print the simulation results 
+plotp(sim, {'p1','p2','p3','p4','p5'}); % plot the results
 %cotree(pni, 1, 1) % reachability tree, text disp and graphical disp
+prnschedule(sim);
+occupancy(sim, {'tREGISTRATION', 'tVACCINATION', 'tWAITING'});
+plotGC(sim); % plot the Gantt Chart
 
