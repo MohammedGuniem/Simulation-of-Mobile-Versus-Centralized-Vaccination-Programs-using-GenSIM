@@ -5,7 +5,7 @@ clear all;
 clc;
 
 global global_info
-global_info.MAX_LOOP = 30000; % Stoping after several steps
+global_info.MAX_LOOP = 3000; % Stoping after several steps
 
 % t1 = Registration
 % t2 = Vaccine
@@ -14,7 +14,7 @@ global_info.MAX_LOOP = 30000; % Stoping after several steps
 pns = pnstruct('Centralized_Vaccination_pn_pdf');
 
 % initial tokens
-dyn.m0 = {'p1',10000, 'p2',10, 'p4',10000, 'p5',10, 'p7',20};
+dyn.m0 = {'p1',1000, 'p2',10, 'p4',1000, 'p5',10, 'p7',20};
 dyn.ft = {'Registration',5, 'Vaccine',10, 'Wait',30};
 
 pni = initialdynamics(pns, dyn); 

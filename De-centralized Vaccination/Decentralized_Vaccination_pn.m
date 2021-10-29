@@ -5,24 +5,16 @@ clear all;
 clc;
 
 global global_info
-global_info.MAX_LOOP = 10000; % Stoping after several steps
+global_info.MAX_LOOP = 3000; % Stoping after several steps
 
 % t1 = Visit
 % t2 = Vaccine
 % t3 = Done
 
-%global_info.STOP_AT = 105;
-%global_info.STOP_AT = current_clock(3) + [0 0 15];
-%global_info.REAL_TIME = 1; %real time run
-% all times are in minuttes or we can use the computer(real time) clock, as
-% follows: global_info.REAL_TIME = 1
-% ('allothers', number) can be used to refer for many with commen firetime
-%dyn.ft = {'Registration', 1, 'allothers', 1}
-
 pns = pnstruct('Decentralized_Vaccination_pn_pdf');
 
 % initial tokens
-dyn.m0 = {'p1',150, 'p2',15, 'p3',2, 'p4',150};
+dyn.m0 = {'p1',1000, 'p2',15, 'p3',2, 'p4',1000};
 dyn.ft = {'visit', 10, 'vaccine',15};
 
 pni = initialdynamics(pns, dyn);
