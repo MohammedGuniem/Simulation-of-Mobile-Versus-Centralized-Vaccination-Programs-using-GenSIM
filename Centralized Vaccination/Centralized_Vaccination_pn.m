@@ -4,12 +4,12 @@ clear all;
 clc;
 
 global global_info
-global_info.MAX_LOOP = 3000; % Stoping after several steps
+global_info.MAX_LOOP = 2000; % Stoping after several steps
     
 pns = pnstruct('Centralized_Vaccination_pn_pdf');
 
 % initial tokens
-n = 100
+n = 1000
 dyn.m0 = {'p1',n, 'p2',0, 'p3',0, 'p4',0, 'p5',n};
 dyn.ft = {'tREGISTRATION',5, 'tVACCINATION',10, 'tWAITING',30};
 dyn.re = {'Staff',15,inf,'Health_Workers',15,inf,'Waiting_Rooms',30,inf}; 

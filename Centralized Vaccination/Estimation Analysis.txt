@@ -1,0 +1,6 @@
+To vaccinate 1000 residents, the simulation to 2318.75 time units (minutes)
+It can then be estimated to take (2318.75)*(150) = 347 812,5 minutes to vaccinate all residents in Stavanger.
+-> 347 813 work minutes = 5 797 work hours = 242 work days
+
+But every staff and/or health worker can only work 8 hours a day
+-> 347 813 work minutes = 5 797 work hours = 725 days
