@@ -4,13 +4,23 @@ clear all;
 clc;
 
 global global_info
-global_info.MAX_LOOP = 2000; % Stoping after several steps
+
+% Change the MAX_LOOP to 150*2000 if you want to make a full run for the
+% 150 000 residents of Stavanger.
+global_info.MAX_LOOP = 6000; % Stoping after several steps
     
 pns = pnstruct('Centralized_Vaccination_pn_pdf');
 
 % initial tokens
-n = 1000
-dyn.m0 = {'p1',n, 'p2',0, 'p3',0, 'p4',0, 'p5',n};
+
+%Change to 150000 to simulate full run of the 150 000 residents of
+%Stavanger.
+num_of_residents = 3000 
+
+% Assuming we have enough vaccines to everybody
+num_of_vaccines = num_of_residents
+
+dyn.m0 = {'p1',num_of_residents, 'p2',0, 'p3',0, 'p4',0, 'p5',num_of_vaccines};
 dyn.ft = {'tREGISTRATION',5, 'tVACCINATION',10, 'tWAITING',30};
 dyn.re = {'Staff',15,inf,'Health_Workers',15,inf,'Waiting_Rooms',30,inf}; 
 
@@ -20,7 +30,7 @@ sim = gpensim(pni); % perform simulation runs
 prnss(sim);  % print the simulation results 
 plotp(sim, {'p1','p2','p3','p4','p5'}); % plot the results
 %cotree(pni, 1, 1) % reachability tree, text disp and graphical disp
-prnschedule(sim);
+%prnschedule(sim);
 occupancy(sim, {'tREGISTRATION', 'tVACCINATION', 'tWAITING'});
 plotGC(sim); % plot the Gantt Chart
 
