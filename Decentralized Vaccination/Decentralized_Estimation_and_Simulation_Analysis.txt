@@ -1,0 +1,10 @@
+*** Decentralized Estimation and Simulation Analysis ***
+
+-> To vaccinate 900 residents, the simulation to 660 time units (minutes)
+
+-> It can then be estimated to take (660)/(900) = 0,74 minutes to vaccinate one resident.
+-> To vaccinate all residents can be estimated to take 150 000 * 0,74 = 111 000 minutes
+-> 111 000 work minutes = 1 850 work hours = 77 days
+
+-> But every staff and/or health worker can only work 8 hours a day
+-> 111 000 work minutes = 1 850 work hours = 232 work days
