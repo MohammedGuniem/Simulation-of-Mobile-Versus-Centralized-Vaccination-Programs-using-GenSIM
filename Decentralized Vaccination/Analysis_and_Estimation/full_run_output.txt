@@ -1,0 +1,5213 @@
+State: 833
+Fired Transition: tVISIT
+Current State: 56175p1 + 15p3 + 225p4 + 56400p5 + 93600p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-833 ....
+At time: 68655,  Enabled transitions are:    tVACCINATION
+At time: 68655,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 68805   **
+State: 834
+Fired Transition: tVACCINATION
+Current State: 56175p1 + 15p2 + 56175p5 + 93825p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-834 ....
+At time: 68805,  Enabled transitions are:    tVISIT
+At time: 68805,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 68820   **
+State: 835
+Fired Transition: tVISIT
+Current State: 55950p1 + 15p3 + 225p4 + 56175p5 + 93825p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-835 ....
+At time: 68820,  Enabled transitions are:    tVACCINATION
+At time: 68820,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 68970   **
+State: 836
+Fired Transition: tVACCINATION
+Current State: 55950p1 + 15p2 + 55950p5 + 94050p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-836 ....
+At time: 68970,  Enabled transitions are:    tVISIT
+At time: 68970,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 68985   **
+State: 837
+Fired Transition: tVISIT
+Current State: 55725p1 + 15p3 + 225p4 + 55950p5 + 94050p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-837 ....
+At time: 68985,  Enabled transitions are:    tVACCINATION
+At time: 68985,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 69135   **
+State: 838
+Fired Transition: tVACCINATION
+Current State: 55725p1 + 15p2 + 55725p5 + 94275p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-838 ....
+At time: 69135,  Enabled transitions are:    tVISIT
+At time: 69135,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 69150   **
+State: 839
+Fired Transition: tVISIT
+Current State: 55500p1 + 15p3 + 225p4 + 55725p5 + 94275p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-839 ....
+At time: 69150,  Enabled transitions are:    tVACCINATION
+At time: 69150,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 69300   **
+State: 840
+Fired Transition: tVACCINATION
+Current State: 55500p1 + 15p2 + 55500p5 + 94500p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-840 ....
+At time: 69300,  Enabled transitions are:    tVISIT
+At time: 69300,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 69315   **
+State: 841
+Fired Transition: tVISIT
+Current State: 55275p1 + 15p3 + 225p4 + 55500p5 + 94500p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-841 ....
+At time: 69315,  Enabled transitions are:    tVACCINATION
+At time: 69315,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 69465   **
+State: 842
+Fired Transition: tVACCINATION
+Current State: 55275p1 + 15p2 + 55275p5 + 94725p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-842 ....
+At time: 69465,  Enabled transitions are:    tVISIT
+At time: 69465,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 69480   **
+State: 843
+Fired Transition: tVISIT
+Current State: 55050p1 + 15p3 + 225p4 + 55275p5 + 94725p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-843 ....
+At time: 69480,  Enabled transitions are:    tVACCINATION
+At time: 69480,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 69630   **
+State: 844
+Fired Transition: tVACCINATION
+Current State: 55050p1 + 15p2 + 55050p5 + 94950p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-844 ....
+At time: 69630,  Enabled transitions are:    tVISIT
+At time: 69630,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 69645   **
+State: 845
+Fired Transition: tVISIT
+Current State: 54825p1 + 15p3 + 225p4 + 55050p5 + 94950p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-845 ....
+At time: 69645,  Enabled transitions are:    tVACCINATION
+At time: 69645,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 69795   **
+State: 846
+Fired Transition: tVACCINATION
+Current State: 54825p1 + 15p2 + 54825p5 + 95175p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-846 ....
+At time: 69795,  Enabled transitions are:    tVISIT
+At time: 69795,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 69810   **
+State: 847
+Fired Transition: tVISIT
+Current State: 54600p1 + 15p3 + 225p4 + 54825p5 + 95175p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-847 ....
+At time: 69810,  Enabled transitions are:    tVACCINATION
+At time: 69810,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 69960   **
+State: 848
+Fired Transition: tVACCINATION
+Current State: 54600p1 + 15p2 + 54600p5 + 95400p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-848 ....
+At time: 69960,  Enabled transitions are:    tVISIT
+At time: 69960,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 69975   **
+State: 849
+Fired Transition: tVISIT
+Current State: 54375p1 + 15p3 + 225p4 + 54600p5 + 95400p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-849 ....
+At time: 69975,  Enabled transitions are:    tVACCINATION
+At time: 69975,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 70125   **
+State: 850
+Fired Transition: tVACCINATION
+Current State: 54375p1 + 15p2 + 54375p5 + 95625p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-850 ....
+At time: 70125,  Enabled transitions are:    tVISIT
+At time: 70125,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 70140   **
+State: 851
+Fired Transition: tVISIT
+Current State: 54150p1 + 15p3 + 225p4 + 54375p5 + 95625p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-851 ....
+At time: 70140,  Enabled transitions are:    tVACCINATION
+At time: 70140,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 70290   **
+State: 852
+Fired Transition: tVACCINATION
+Current State: 54150p1 + 15p2 + 54150p5 + 95850p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-852 ....
+At time: 70290,  Enabled transitions are:    tVISIT
+At time: 70290,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 70305   **
+State: 853
+Fired Transition: tVISIT
+Current State: 53925p1 + 15p3 + 225p4 + 54150p5 + 95850p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-853 ....
+At time: 70305,  Enabled transitions are:    tVACCINATION
+At time: 70305,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 70455   **
+State: 854
+Fired Transition: tVACCINATION
+Current State: 53925p1 + 15p2 + 53925p5 + 96075p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-854 ....
+At time: 70455,  Enabled transitions are:    tVISIT
+At time: 70455,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 70470   **
+State: 855
+Fired Transition: tVISIT
+Current State: 53700p1 + 15p3 + 225p4 + 53925p5 + 96075p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-855 ....
+At time: 70470,  Enabled transitions are:    tVACCINATION
+At time: 70470,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 70620   **
+State: 856
+Fired Transition: tVACCINATION
+Current State: 53700p1 + 15p2 + 53700p5 + 96300p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-856 ....
+At time: 70620,  Enabled transitions are:    tVISIT
+At time: 70620,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 70635   **
+State: 857
+Fired Transition: tVISIT
+Current State: 53475p1 + 15p3 + 225p4 + 53700p5 + 96300p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-857 ....
+At time: 70635,  Enabled transitions are:    tVACCINATION
+At time: 70635,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 70785   **
+State: 858
+Fired Transition: tVACCINATION
+Current State: 53475p1 + 15p2 + 53475p5 + 96525p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-858 ....
+At time: 70785,  Enabled transitions are:    tVISIT
+At time: 70785,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 70800   **
+State: 859
+Fired Transition: tVISIT
+Current State: 53250p1 + 15p3 + 225p4 + 53475p5 + 96525p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-859 ....
+At time: 70800,  Enabled transitions are:    tVACCINATION
+At time: 70800,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 70950   **
+State: 860
+Fired Transition: tVACCINATION
+Current State: 53250p1 + 15p2 + 53250p5 + 96750p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-860 ....
+At time: 70950,  Enabled transitions are:    tVISIT
+At time: 70950,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 70965   **
+State: 861
+Fired Transition: tVISIT
+Current State: 53025p1 + 15p3 + 225p4 + 53250p5 + 96750p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-861 ....
+At time: 70965,  Enabled transitions are:    tVACCINATION
+At time: 70965,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 71115   **
+State: 862
+Fired Transition: tVACCINATION
+Current State: 53025p1 + 15p2 + 53025p5 + 96975p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-862 ....
+At time: 71115,  Enabled transitions are:    tVISIT
+At time: 71115,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 71130   **
+State: 863
+Fired Transition: tVISIT
+Current State: 52800p1 + 15p3 + 225p4 + 53025p5 + 96975p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-863 ....
+At time: 71130,  Enabled transitions are:    tVACCINATION
+At time: 71130,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 71280   **
+State: 864
+Fired Transition: tVACCINATION
+Current State: 52800p1 + 15p2 + 52800p5 + 97200p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-864 ....
+At time: 71280,  Enabled transitions are:    tVISIT
+At time: 71280,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 71295   **
+State: 865
+Fired Transition: tVISIT
+Current State: 52575p1 + 15p3 + 225p4 + 52800p5 + 97200p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-865 ....
+At time: 71295,  Enabled transitions are:    tVACCINATION
+At time: 71295,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 71445   **
+State: 866
+Fired Transition: tVACCINATION
+Current State: 52575p1 + 15p2 + 52575p5 + 97425p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-866 ....
+At time: 71445,  Enabled transitions are:    tVISIT
+At time: 71445,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 71460   **
+State: 867
+Fired Transition: tVISIT
+Current State: 52350p1 + 15p3 + 225p4 + 52575p5 + 97425p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-867 ....
+At time: 71460,  Enabled transitions are:    tVACCINATION
+At time: 71460,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 71610   **
+State: 868
+Fired Transition: tVACCINATION
+Current State: 52350p1 + 15p2 + 52350p5 + 97650p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-868 ....
+At time: 71610,  Enabled transitions are:    tVISIT
+At time: 71610,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 71625   **
+State: 869
+Fired Transition: tVISIT
+Current State: 52125p1 + 15p3 + 225p4 + 52350p5 + 97650p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-869 ....
+At time: 71625,  Enabled transitions are:    tVACCINATION
+At time: 71625,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 71775   **
+State: 870
+Fired Transition: tVACCINATION
+Current State: 52125p1 + 15p2 + 52125p5 + 97875p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-870 ....
+At time: 71775,  Enabled transitions are:    tVISIT
+At time: 71775,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 71790   **
+State: 871
+Fired Transition: tVISIT
+Current State: 51900p1 + 15p3 + 225p4 + 52125p5 + 97875p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-871 ....
+At time: 71790,  Enabled transitions are:    tVACCINATION
+At time: 71790,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 71940   **
+State: 872
+Fired Transition: tVACCINATION
+Current State: 51900p1 + 15p2 + 51900p5 + 98100p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-872 ....
+At time: 71940,  Enabled transitions are:    tVISIT
+At time: 71940,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 71955   **
+State: 873
+Fired Transition: tVISIT
+Current State: 51675p1 + 15p3 + 225p4 + 51900p5 + 98100p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-873 ....
+At time: 71955,  Enabled transitions are:    tVACCINATION
+At time: 71955,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 72105   **
+State: 874
+Fired Transition: tVACCINATION
+Current State: 51675p1 + 15p2 + 51675p5 + 98325p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-874 ....
+At time: 72105,  Enabled transitions are:    tVISIT
+At time: 72105,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 72120   **
+State: 875
+Fired Transition: tVISIT
+Current State: 51450p1 + 15p3 + 225p4 + 51675p5 + 98325p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-875 ....
+At time: 72120,  Enabled transitions are:    tVACCINATION
+At time: 72120,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 72270   **
+State: 876
+Fired Transition: tVACCINATION
+Current State: 51450p1 + 15p2 + 51450p5 + 98550p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-876 ....
+At time: 72270,  Enabled transitions are:    tVISIT
+At time: 72270,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 72285   **
+State: 877
+Fired Transition: tVISIT
+Current State: 51225p1 + 15p3 + 225p4 + 51450p5 + 98550p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-877 ....
+At time: 72285,  Enabled transitions are:    tVACCINATION
+At time: 72285,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 72435   **
+State: 878
+Fired Transition: tVACCINATION
+Current State: 51225p1 + 15p2 + 51225p5 + 98775p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-878 ....
+At time: 72435,  Enabled transitions are:    tVISIT
+At time: 72435,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 72450   **
+State: 879
+Fired Transition: tVISIT
+Current State: 51000p1 + 15p3 + 225p4 + 51225p5 + 98775p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-879 ....
+At time: 72450,  Enabled transitions are:    tVACCINATION
+At time: 72450,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 72600   **
+State: 880
+Fired Transition: tVACCINATION
+Current State: 51000p1 + 15p2 + 51000p5 + 99000p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-880 ....
+At time: 72600,  Enabled transitions are:    tVISIT
+At time: 72600,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 72615   **
+State: 881
+Fired Transition: tVISIT
+Current State: 50775p1 + 15p3 + 225p4 + 51000p5 + 99000p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-881 ....
+At time: 72615,  Enabled transitions are:    tVACCINATION
+At time: 72615,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 72765   **
+State: 882
+Fired Transition: tVACCINATION
+Current State: 50775p1 + 15p2 + 50775p5 + 99225p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-882 ....
+At time: 72765,  Enabled transitions are:    tVISIT
+At time: 72765,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 72780   **
+State: 883
+Fired Transition: tVISIT
+Current State: 50550p1 + 15p3 + 225p4 + 50775p5 + 99225p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-883 ....
+At time: 72780,  Enabled transitions are:    tVACCINATION
+At time: 72780,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 72930   **
+State: 884
+Fired Transition: tVACCINATION
+Current State: 50550p1 + 15p2 + 50550p5 + 99450p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-884 ....
+At time: 72930,  Enabled transitions are:    tVISIT
+At time: 72930,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 72945   **
+State: 885
+Fired Transition: tVISIT
+Current State: 50325p1 + 15p3 + 225p4 + 50550p5 + 99450p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-885 ....
+At time: 72945,  Enabled transitions are:    tVACCINATION
+At time: 72945,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 73095   **
+State: 886
+Fired Transition: tVACCINATION
+Current State: 50325p1 + 15p2 + 50325p5 + 99675p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-886 ....
+At time: 73095,  Enabled transitions are:    tVISIT
+At time: 73095,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 73110   **
+State: 887
+Fired Transition: tVISIT
+Current State: 50100p1 + 15p3 + 225p4 + 50325p5 + 99675p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-887 ....
+At time: 73110,  Enabled transitions are:    tVACCINATION
+At time: 73110,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 73260   **
+State: 888
+Fired Transition: tVACCINATION
+Current State: 50100p1 + 15p2 + 50100p5 + 99900p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-888 ....
+At time: 73260,  Enabled transitions are:    tVISIT
+At time: 73260,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 73275   **
+State: 889
+Fired Transition: tVISIT
+Current State: 49875p1 + 15p3 + 225p4 + 50100p5 + 99900p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-889 ....
+At time: 73275,  Enabled transitions are:    tVACCINATION
+At time: 73275,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 73425   **
+State: 890
+Fired Transition: tVACCINATION
+Current State: 49875p1 + 15p2 + 49875p5 + 100125p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-890 ....
+At time: 73425,  Enabled transitions are:    tVISIT
+At time: 73425,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 73440   **
+State: 891
+Fired Transition: tVISIT
+Current State: 49650p1 + 15p3 + 225p4 + 49875p5 + 100125p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-891 ....
+At time: 73440,  Enabled transitions are:    tVACCINATION
+At time: 73440,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 73590   **
+State: 892
+Fired Transition: tVACCINATION
+Current State: 49650p1 + 15p2 + 49650p5 + 100350p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-892 ....
+At time: 73590,  Enabled transitions are:    tVISIT
+At time: 73590,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 73605   **
+State: 893
+Fired Transition: tVISIT
+Current State: 49425p1 + 15p3 + 225p4 + 49650p5 + 100350p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-893 ....
+At time: 73605,  Enabled transitions are:    tVACCINATION
+At time: 73605,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 73755   **
+State: 894
+Fired Transition: tVACCINATION
+Current State: 49425p1 + 15p2 + 49425p5 + 100575p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-894 ....
+At time: 73755,  Enabled transitions are:    tVISIT
+At time: 73755,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 73770   **
+State: 895
+Fired Transition: tVISIT
+Current State: 49200p1 + 15p3 + 225p4 + 49425p5 + 100575p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-895 ....
+At time: 73770,  Enabled transitions are:    tVACCINATION
+At time: 73770,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 73920   **
+State: 896
+Fired Transition: tVACCINATION
+Current State: 49200p1 + 15p2 + 49200p5 + 100800p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-896 ....
+At time: 73920,  Enabled transitions are:    tVISIT
+At time: 73920,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 73935   **
+State: 897
+Fired Transition: tVISIT
+Current State: 48975p1 + 15p3 + 225p4 + 49200p5 + 100800p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-897 ....
+At time: 73935,  Enabled transitions are:    tVACCINATION
+At time: 73935,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 74085   **
+State: 898
+Fired Transition: tVACCINATION
+Current State: 48975p1 + 15p2 + 48975p5 + 101025p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-898 ....
+At time: 74085,  Enabled transitions are:    tVISIT
+At time: 74085,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 74100   **
+State: 899
+Fired Transition: tVISIT
+Current State: 48750p1 + 15p3 + 225p4 + 48975p5 + 101025p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-899 ....
+At time: 74100,  Enabled transitions are:    tVACCINATION
+At time: 74100,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 74250   **
+State: 900
+Fired Transition: tVACCINATION
+Current State: 48750p1 + 15p2 + 48750p5 + 101250p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-900 ....
+At time: 74250,  Enabled transitions are:    tVISIT
+At time: 74250,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 74265   **
+State: 901
+Fired Transition: tVISIT
+Current State: 48525p1 + 15p3 + 225p4 + 48750p5 + 101250p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-901 ....
+At time: 74265,  Enabled transitions are:    tVACCINATION
+At time: 74265,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 74415   **
+State: 902
+Fired Transition: tVACCINATION
+Current State: 48525p1 + 15p2 + 48525p5 + 101475p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-902 ....
+At time: 74415,  Enabled transitions are:    tVISIT
+At time: 74415,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 74430   **
+State: 903
+Fired Transition: tVISIT
+Current State: 48300p1 + 15p3 + 225p4 + 48525p5 + 101475p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-903 ....
+At time: 74430,  Enabled transitions are:    tVACCINATION
+At time: 74430,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 74580   **
+State: 904
+Fired Transition: tVACCINATION
+Current State: 48300p1 + 15p2 + 48300p5 + 101700p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-904 ....
+At time: 74580,  Enabled transitions are:    tVISIT
+At time: 74580,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 74595   **
+State: 905
+Fired Transition: tVISIT
+Current State: 48075p1 + 15p3 + 225p4 + 48300p5 + 101700p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-905 ....
+At time: 74595,  Enabled transitions are:    tVACCINATION
+At time: 74595,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 74745   **
+State: 906
+Fired Transition: tVACCINATION
+Current State: 48075p1 + 15p2 + 48075p5 + 101925p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-906 ....
+At time: 74745,  Enabled transitions are:    tVISIT
+At time: 74745,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 74760   **
+State: 907
+Fired Transition: tVISIT
+Current State: 47850p1 + 15p3 + 225p4 + 48075p5 + 101925p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-907 ....
+At time: 74760,  Enabled transitions are:    tVACCINATION
+At time: 74760,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 74910   **
+State: 908
+Fired Transition: tVACCINATION
+Current State: 47850p1 + 15p2 + 47850p5 + 102150p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-908 ....
+At time: 74910,  Enabled transitions are:    tVISIT
+At time: 74910,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 74925   **
+State: 909
+Fired Transition: tVISIT
+Current State: 47625p1 + 15p3 + 225p4 + 47850p5 + 102150p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-909 ....
+At time: 74925,  Enabled transitions are:    tVACCINATION
+At time: 74925,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 75075   **
+State: 910
+Fired Transition: tVACCINATION
+Current State: 47625p1 + 15p2 + 47625p5 + 102375p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-910 ....
+At time: 75075,  Enabled transitions are:    tVISIT
+At time: 75075,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 75090   **
+State: 911
+Fired Transition: tVISIT
+Current State: 47400p1 + 15p3 + 225p4 + 47625p5 + 102375p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-911 ....
+At time: 75090,  Enabled transitions are:    tVACCINATION
+At time: 75090,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 75240   **
+State: 912
+Fired Transition: tVACCINATION
+Current State: 47400p1 + 15p2 + 47400p5 + 102600p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-912 ....
+At time: 75240,  Enabled transitions are:    tVISIT
+At time: 75240,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 75255   **
+State: 913
+Fired Transition: tVISIT
+Current State: 47175p1 + 15p3 + 225p4 + 47400p5 + 102600p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-913 ....
+At time: 75255,  Enabled transitions are:    tVACCINATION
+At time: 75255,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 75405   **
+State: 914
+Fired Transition: tVACCINATION
+Current State: 47175p1 + 15p2 + 47175p5 + 102825p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-914 ....
+At time: 75405,  Enabled transitions are:    tVISIT
+At time: 75405,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 75420   **
+State: 915
+Fired Transition: tVISIT
+Current State: 46950p1 + 15p3 + 225p4 + 47175p5 + 102825p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-915 ....
+At time: 75420,  Enabled transitions are:    tVACCINATION
+At time: 75420,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 75570   **
+State: 916
+Fired Transition: tVACCINATION
+Current State: 46950p1 + 15p2 + 46950p5 + 103050p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-916 ....
+At time: 75570,  Enabled transitions are:    tVISIT
+At time: 75570,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 75585   **
+State: 917
+Fired Transition: tVISIT
+Current State: 46725p1 + 15p3 + 225p4 + 46950p5 + 103050p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-917 ....
+At time: 75585,  Enabled transitions are:    tVACCINATION
+At time: 75585,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 75735   **
+State: 918
+Fired Transition: tVACCINATION
+Current State: 46725p1 + 15p2 + 46725p5 + 103275p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-918 ....
+At time: 75735,  Enabled transitions are:    tVISIT
+At time: 75735,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 75750   **
+State: 919
+Fired Transition: tVISIT
+Current State: 46500p1 + 15p3 + 225p4 + 46725p5 + 103275p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-919 ....
+At time: 75750,  Enabled transitions are:    tVACCINATION
+At time: 75750,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 75900   **
+State: 920
+Fired Transition: tVACCINATION
+Current State: 46500p1 + 15p2 + 46500p5 + 103500p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-920 ....
+At time: 75900,  Enabled transitions are:    tVISIT
+At time: 75900,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 75915   **
+State: 921
+Fired Transition: tVISIT
+Current State: 46275p1 + 15p3 + 225p4 + 46500p5 + 103500p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-921 ....
+At time: 75915,  Enabled transitions are:    tVACCINATION
+At time: 75915,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 76065   **
+State: 922
+Fired Transition: tVACCINATION
+Current State: 46275p1 + 15p2 + 46275p5 + 103725p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-922 ....
+At time: 76065,  Enabled transitions are:    tVISIT
+At time: 76065,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 76080   **
+State: 923
+Fired Transition: tVISIT
+Current State: 46050p1 + 15p3 + 225p4 + 46275p5 + 103725p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-923 ....
+At time: 76080,  Enabled transitions are:    tVACCINATION
+At time: 76080,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 76230   **
+State: 924
+Fired Transition: tVACCINATION
+Current State: 46050p1 + 15p2 + 46050p5 + 103950p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-924 ....
+At time: 76230,  Enabled transitions are:    tVISIT
+At time: 76230,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 76245   **
+State: 925
+Fired Transition: tVISIT
+Current State: 45825p1 + 15p3 + 225p4 + 46050p5 + 103950p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-925 ....
+At time: 76245,  Enabled transitions are:    tVACCINATION
+At time: 76245,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 76395   **
+State: 926
+Fired Transition: tVACCINATION
+Current State: 45825p1 + 15p2 + 45825p5 + 104175p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-926 ....
+At time: 76395,  Enabled transitions are:    tVISIT
+At time: 76395,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 76410   **
+State: 927
+Fired Transition: tVISIT
+Current State: 45600p1 + 15p3 + 225p4 + 45825p5 + 104175p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-927 ....
+At time: 76410,  Enabled transitions are:    tVACCINATION
+At time: 76410,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 76560   **
+State: 928
+Fired Transition: tVACCINATION
+Current State: 45600p1 + 15p2 + 45600p5 + 104400p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-928 ....
+At time: 76560,  Enabled transitions are:    tVISIT
+At time: 76560,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 76575   **
+State: 929
+Fired Transition: tVISIT
+Current State: 45375p1 + 15p3 + 225p4 + 45600p5 + 104400p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-929 ....
+At time: 76575,  Enabled transitions are:    tVACCINATION
+At time: 76575,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 76725   **
+State: 930
+Fired Transition: tVACCINATION
+Current State: 45375p1 + 15p2 + 45375p5 + 104625p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-930 ....
+At time: 76725,  Enabled transitions are:    tVISIT
+At time: 76725,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 76740   **
+State: 931
+Fired Transition: tVISIT
+Current State: 45150p1 + 15p3 + 225p4 + 45375p5 + 104625p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-931 ....
+At time: 76740,  Enabled transitions are:    tVACCINATION
+At time: 76740,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 76890   **
+State: 932
+Fired Transition: tVACCINATION
+Current State: 45150p1 + 15p2 + 45150p5 + 104850p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-932 ....
+At time: 76890,  Enabled transitions are:    tVISIT
+At time: 76890,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 76905   **
+State: 933
+Fired Transition: tVISIT
+Current State: 44925p1 + 15p3 + 225p4 + 45150p5 + 104850p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-933 ....
+At time: 76905,  Enabled transitions are:    tVACCINATION
+At time: 76905,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 77055   **
+State: 934
+Fired Transition: tVACCINATION
+Current State: 44925p1 + 15p2 + 44925p5 + 105075p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-934 ....
+At time: 77055,  Enabled transitions are:    tVISIT
+At time: 77055,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 77070   **
+State: 935
+Fired Transition: tVISIT
+Current State: 44700p1 + 15p3 + 225p4 + 44925p5 + 105075p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-935 ....
+At time: 77070,  Enabled transitions are:    tVACCINATION
+At time: 77070,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 77220   **
+State: 936
+Fired Transition: tVACCINATION
+Current State: 44700p1 + 15p2 + 44700p5 + 105300p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-936 ....
+At time: 77220,  Enabled transitions are:    tVISIT
+At time: 77220,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 77235   **
+State: 937
+Fired Transition: tVISIT
+Current State: 44475p1 + 15p3 + 225p4 + 44700p5 + 105300p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-937 ....
+At time: 77235,  Enabled transitions are:    tVACCINATION
+At time: 77235,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 77385   **
+State: 938
+Fired Transition: tVACCINATION
+Current State: 44475p1 + 15p2 + 44475p5 + 105525p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-938 ....
+At time: 77385,  Enabled transitions are:    tVISIT
+At time: 77385,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 77400   **
+State: 939
+Fired Transition: tVISIT
+Current State: 44250p1 + 15p3 + 225p4 + 44475p5 + 105525p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-939 ....
+At time: 77400,  Enabled transitions are:    tVACCINATION
+At time: 77400,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 77550   **
+State: 940
+Fired Transition: tVACCINATION
+Current State: 44250p1 + 15p2 + 44250p5 + 105750p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-940 ....
+At time: 77550,  Enabled transitions are:    tVISIT
+At time: 77550,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 77565   **
+State: 941
+Fired Transition: tVISIT
+Current State: 44025p1 + 15p3 + 225p4 + 44250p5 + 105750p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-941 ....
+At time: 77565,  Enabled transitions are:    tVACCINATION
+At time: 77565,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 77715   **
+State: 942
+Fired Transition: tVACCINATION
+Current State: 44025p1 + 15p2 + 44025p5 + 105975p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-942 ....
+At time: 77715,  Enabled transitions are:    tVISIT
+At time: 77715,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 77730   **
+State: 943
+Fired Transition: tVISIT
+Current State: 43800p1 + 15p3 + 225p4 + 44025p5 + 105975p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-943 ....
+At time: 77730,  Enabled transitions are:    tVACCINATION
+At time: 77730,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 77880   **
+State: 944
+Fired Transition: tVACCINATION
+Current State: 43800p1 + 15p2 + 43800p5 + 106200p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-944 ....
+At time: 77880,  Enabled transitions are:    tVISIT
+At time: 77880,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 77895   **
+State: 945
+Fired Transition: tVISIT
+Current State: 43575p1 + 15p3 + 225p4 + 43800p5 + 106200p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-945 ....
+At time: 77895,  Enabled transitions are:    tVACCINATION
+At time: 77895,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 78045   **
+State: 946
+Fired Transition: tVACCINATION
+Current State: 43575p1 + 15p2 + 43575p5 + 106425p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-946 ....
+At time: 78045,  Enabled transitions are:    tVISIT
+At time: 78045,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 78060   **
+State: 947
+Fired Transition: tVISIT
+Current State: 43350p1 + 15p3 + 225p4 + 43575p5 + 106425p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-947 ....
+At time: 78060,  Enabled transitions are:    tVACCINATION
+At time: 78060,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 78210   **
+State: 948
+Fired Transition: tVACCINATION
+Current State: 43350p1 + 15p2 + 43350p5 + 106650p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-948 ....
+At time: 78210,  Enabled transitions are:    tVISIT
+At time: 78210,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 78225   **
+State: 949
+Fired Transition: tVISIT
+Current State: 43125p1 + 15p3 + 225p4 + 43350p5 + 106650p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-949 ....
+At time: 78225,  Enabled transitions are:    tVACCINATION
+At time: 78225,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 78375   **
+State: 950
+Fired Transition: tVACCINATION
+Current State: 43125p1 + 15p2 + 43125p5 + 106875p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-950 ....
+At time: 78375,  Enabled transitions are:    tVISIT
+At time: 78375,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 78390   **
+State: 951
+Fired Transition: tVISIT
+Current State: 42900p1 + 15p3 + 225p4 + 43125p5 + 106875p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-951 ....
+At time: 78390,  Enabled transitions are:    tVACCINATION
+At time: 78390,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 78540   **
+State: 952
+Fired Transition: tVACCINATION
+Current State: 42900p1 + 15p2 + 42900p5 + 107100p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-952 ....
+At time: 78540,  Enabled transitions are:    tVISIT
+At time: 78540,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 78555   **
+State: 953
+Fired Transition: tVISIT
+Current State: 42675p1 + 15p3 + 225p4 + 42900p5 + 107100p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-953 ....
+At time: 78555,  Enabled transitions are:    tVACCINATION
+At time: 78555,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 78705   **
+State: 954
+Fired Transition: tVACCINATION
+Current State: 42675p1 + 15p2 + 42675p5 + 107325p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-954 ....
+At time: 78705,  Enabled transitions are:    tVISIT
+At time: 78705,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 78720   **
+State: 955
+Fired Transition: tVISIT
+Current State: 42450p1 + 15p3 + 225p4 + 42675p5 + 107325p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-955 ....
+At time: 78720,  Enabled transitions are:    tVACCINATION
+At time: 78720,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 78870   **
+State: 956
+Fired Transition: tVACCINATION
+Current State: 42450p1 + 15p2 + 42450p5 + 107550p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-956 ....
+At time: 78870,  Enabled transitions are:    tVISIT
+At time: 78870,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 78885   **
+State: 957
+Fired Transition: tVISIT
+Current State: 42225p1 + 15p3 + 225p4 + 42450p5 + 107550p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-957 ....
+At time: 78885,  Enabled transitions are:    tVACCINATION
+At time: 78885,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 79035   **
+State: 958
+Fired Transition: tVACCINATION
+Current State: 42225p1 + 15p2 + 42225p5 + 107775p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-958 ....
+At time: 79035,  Enabled transitions are:    tVISIT
+At time: 79035,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 79050   **
+State: 959
+Fired Transition: tVISIT
+Current State: 42000p1 + 15p3 + 225p4 + 42225p5 + 107775p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-959 ....
+At time: 79050,  Enabled transitions are:    tVACCINATION
+At time: 79050,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 79200   **
+State: 960
+Fired Transition: tVACCINATION
+Current State: 42000p1 + 15p2 + 42000p5 + 108000p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-960 ....
+At time: 79200,  Enabled transitions are:    tVISIT
+At time: 79200,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 79215   **
+State: 961
+Fired Transition: tVISIT
+Current State: 41775p1 + 15p3 + 225p4 + 42000p5 + 108000p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-961 ....
+At time: 79215,  Enabled transitions are:    tVACCINATION
+At time: 79215,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 79365   **
+State: 962
+Fired Transition: tVACCINATION
+Current State: 41775p1 + 15p2 + 41775p5 + 108225p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-962 ....
+At time: 79365,  Enabled transitions are:    tVISIT
+At time: 79365,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 79380   **
+State: 963
+Fired Transition: tVISIT
+Current State: 41550p1 + 15p3 + 225p4 + 41775p5 + 108225p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-963 ....
+At time: 79380,  Enabled transitions are:    tVACCINATION
+At time: 79380,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 79530   **
+State: 964
+Fired Transition: tVACCINATION
+Current State: 41550p1 + 15p2 + 41550p5 + 108450p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-964 ....
+At time: 79530,  Enabled transitions are:    tVISIT
+At time: 79530,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 79545   **
+State: 965
+Fired Transition: tVISIT
+Current State: 41325p1 + 15p3 + 225p4 + 41550p5 + 108450p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-965 ....
+At time: 79545,  Enabled transitions are:    tVACCINATION
+At time: 79545,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 79695   **
+State: 966
+Fired Transition: tVACCINATION
+Current State: 41325p1 + 15p2 + 41325p5 + 108675p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-966 ....
+At time: 79695,  Enabled transitions are:    tVISIT
+At time: 79695,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 79710   **
+State: 967
+Fired Transition: tVISIT
+Current State: 41100p1 + 15p3 + 225p4 + 41325p5 + 108675p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-967 ....
+At time: 79710,  Enabled transitions are:    tVACCINATION
+At time: 79710,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 79860   **
+State: 968
+Fired Transition: tVACCINATION
+Current State: 41100p1 + 15p2 + 41100p5 + 108900p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-968 ....
+At time: 79860,  Enabled transitions are:    tVISIT
+At time: 79860,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 79875   **
+State: 969
+Fired Transition: tVISIT
+Current State: 40875p1 + 15p3 + 225p4 + 41100p5 + 108900p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-969 ....
+At time: 79875,  Enabled transitions are:    tVACCINATION
+At time: 79875,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 80025   **
+State: 970
+Fired Transition: tVACCINATION
+Current State: 40875p1 + 15p2 + 40875p5 + 109125p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-970 ....
+At time: 80025,  Enabled transitions are:    tVISIT
+At time: 80025,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 80040   **
+State: 971
+Fired Transition: tVISIT
+Current State: 40650p1 + 15p3 + 225p4 + 40875p5 + 109125p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-971 ....
+At time: 80040,  Enabled transitions are:    tVACCINATION
+At time: 80040,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 80190   **
+State: 972
+Fired Transition: tVACCINATION
+Current State: 40650p1 + 15p2 + 40650p5 + 109350p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-972 ....
+At time: 80190,  Enabled transitions are:    tVISIT
+At time: 80190,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 80205   **
+State: 973
+Fired Transition: tVISIT
+Current State: 40425p1 + 15p3 + 225p4 + 40650p5 + 109350p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-973 ....
+At time: 80205,  Enabled transitions are:    tVACCINATION
+At time: 80205,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 80355   **
+State: 974
+Fired Transition: tVACCINATION
+Current State: 40425p1 + 15p2 + 40425p5 + 109575p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-974 ....
+At time: 80355,  Enabled transitions are:    tVISIT
+At time: 80355,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 80370   **
+State: 975
+Fired Transition: tVISIT
+Current State: 40200p1 + 15p3 + 225p4 + 40425p5 + 109575p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-975 ....
+At time: 80370,  Enabled transitions are:    tVACCINATION
+At time: 80370,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 80520   **
+State: 976
+Fired Transition: tVACCINATION
+Current State: 40200p1 + 15p2 + 40200p5 + 109800p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-976 ....
+At time: 80520,  Enabled transitions are:    tVISIT
+At time: 80520,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 80535   **
+State: 977
+Fired Transition: tVISIT
+Current State: 39975p1 + 15p3 + 225p4 + 40200p5 + 109800p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-977 ....
+At time: 80535,  Enabled transitions are:    tVACCINATION
+At time: 80535,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 80685   **
+State: 978
+Fired Transition: tVACCINATION
+Current State: 39975p1 + 15p2 + 39975p5 + 110025p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-978 ....
+At time: 80685,  Enabled transitions are:    tVISIT
+At time: 80685,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 80700   **
+State: 979
+Fired Transition: tVISIT
+Current State: 39750p1 + 15p3 + 225p4 + 39975p5 + 110025p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-979 ....
+At time: 80700,  Enabled transitions are:    tVACCINATION
+At time: 80700,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 80850   **
+State: 980
+Fired Transition: tVACCINATION
+Current State: 39750p1 + 15p2 + 39750p5 + 110250p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-980 ....
+At time: 80850,  Enabled transitions are:    tVISIT
+At time: 80850,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 80865   **
+State: 981
+Fired Transition: tVISIT
+Current State: 39525p1 + 15p3 + 225p4 + 39750p5 + 110250p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-981 ....
+At time: 80865,  Enabled transitions are:    tVACCINATION
+At time: 80865,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 81015   **
+State: 982
+Fired Transition: tVACCINATION
+Current State: 39525p1 + 15p2 + 39525p5 + 110475p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-982 ....
+At time: 81015,  Enabled transitions are:    tVISIT
+At time: 81015,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 81030   **
+State: 983
+Fired Transition: tVISIT
+Current State: 39300p1 + 15p3 + 225p4 + 39525p5 + 110475p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-983 ....
+At time: 81030,  Enabled transitions are:    tVACCINATION
+At time: 81030,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 81180   **
+State: 984
+Fired Transition: tVACCINATION
+Current State: 39300p1 + 15p2 + 39300p5 + 110700p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-984 ....
+At time: 81180,  Enabled transitions are:    tVISIT
+At time: 81180,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 81195   **
+State: 985
+Fired Transition: tVISIT
+Current State: 39075p1 + 15p3 + 225p4 + 39300p5 + 110700p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-985 ....
+At time: 81195,  Enabled transitions are:    tVACCINATION
+At time: 81195,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 81345   **
+State: 986
+Fired Transition: tVACCINATION
+Current State: 39075p1 + 15p2 + 39075p5 + 110925p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-986 ....
+At time: 81345,  Enabled transitions are:    tVISIT
+At time: 81345,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 81360   **
+State: 987
+Fired Transition: tVISIT
+Current State: 38850p1 + 15p3 + 225p4 + 39075p5 + 110925p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-987 ....
+At time: 81360,  Enabled transitions are:    tVACCINATION
+At time: 81360,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 81510   **
+State: 988
+Fired Transition: tVACCINATION
+Current State: 38850p1 + 15p2 + 38850p5 + 111150p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-988 ....
+At time: 81510,  Enabled transitions are:    tVISIT
+At time: 81510,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 81525   **
+State: 989
+Fired Transition: tVISIT
+Current State: 38625p1 + 15p3 + 225p4 + 38850p5 + 111150p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-989 ....
+At time: 81525,  Enabled transitions are:    tVACCINATION
+At time: 81525,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 81675   **
+State: 990
+Fired Transition: tVACCINATION
+Current State: 38625p1 + 15p2 + 38625p5 + 111375p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-990 ....
+At time: 81675,  Enabled transitions are:    tVISIT
+At time: 81675,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 81690   **
+State: 991
+Fired Transition: tVISIT
+Current State: 38400p1 + 15p3 + 225p4 + 38625p5 + 111375p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-991 ....
+At time: 81690,  Enabled transitions are:    tVACCINATION
+At time: 81690,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 81840   **
+State: 992
+Fired Transition: tVACCINATION
+Current State: 38400p1 + 15p2 + 38400p5 + 111600p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-992 ....
+At time: 81840,  Enabled transitions are:    tVISIT
+At time: 81840,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 81855   **
+State: 993
+Fired Transition: tVISIT
+Current State: 38175p1 + 15p3 + 225p4 + 38400p5 + 111600p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-993 ....
+At time: 81855,  Enabled transitions are:    tVACCINATION
+At time: 81855,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 82005   **
+State: 994
+Fired Transition: tVACCINATION
+Current State: 38175p1 + 15p2 + 38175p5 + 111825p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-994 ....
+At time: 82005,  Enabled transitions are:    tVISIT
+At time: 82005,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 82020   **
+State: 995
+Fired Transition: tVISIT
+Current State: 37950p1 + 15p3 + 225p4 + 38175p5 + 111825p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-995 ....
+At time: 82020,  Enabled transitions are:    tVACCINATION
+At time: 82020,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 82170   **
+State: 996
+Fired Transition: tVACCINATION
+Current State: 37950p1 + 15p2 + 37950p5 + 112050p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-996 ....
+At time: 82170,  Enabled transitions are:    tVISIT
+At time: 82170,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 82185   **
+State: 997
+Fired Transition: tVISIT
+Current State: 37725p1 + 15p3 + 225p4 + 37950p5 + 112050p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-997 ....
+At time: 82185,  Enabled transitions are:    tVACCINATION
+At time: 82185,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 82335   **
+State: 998
+Fired Transition: tVACCINATION
+Current State: 37725p1 + 15p2 + 37725p5 + 112275p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-998 ....
+At time: 82335,  Enabled transitions are:    tVISIT
+At time: 82335,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 82350   **
+State: 999
+Fired Transition: tVISIT
+Current State: 37500p1 + 15p3 + 225p4 + 37725p5 + 112275p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-999 ....
+At time: 82350,  Enabled transitions are:    tVACCINATION
+At time: 82350,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 82500   **
+State: 1000
+Fired Transition: tVACCINATION
+Current State: 37500p1 + 15p2 + 37500p5 + 112500p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1000 ....
+At time: 82500,  Enabled transitions are:    tVISIT
+At time: 82500,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 82515   **
+State: 1001
+Fired Transition: tVISIT
+Current State: 37275p1 + 15p3 + 225p4 + 37500p5 + 112500p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1001 ....
+At time: 82515,  Enabled transitions are:    tVACCINATION
+At time: 82515,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 82665   **
+State: 1002
+Fired Transition: tVACCINATION
+Current State: 37275p1 + 15p2 + 37275p5 + 112725p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1002 ....
+At time: 82665,  Enabled transitions are:    tVISIT
+At time: 82665,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 82680   **
+State: 1003
+Fired Transition: tVISIT
+Current State: 37050p1 + 15p3 + 225p4 + 37275p5 + 112725p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1003 ....
+At time: 82680,  Enabled transitions are:    tVACCINATION
+At time: 82680,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 82830   **
+State: 1004
+Fired Transition: tVACCINATION
+Current State: 37050p1 + 15p2 + 37050p5 + 112950p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1004 ....
+At time: 82830,  Enabled transitions are:    tVISIT
+At time: 82830,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 82845   **
+State: 1005
+Fired Transition: tVISIT
+Current State: 36825p1 + 15p3 + 225p4 + 37050p5 + 112950p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1005 ....
+At time: 82845,  Enabled transitions are:    tVACCINATION
+At time: 82845,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 82995   **
+State: 1006
+Fired Transition: tVACCINATION
+Current State: 36825p1 + 15p2 + 36825p5 + 113175p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1006 ....
+At time: 82995,  Enabled transitions are:    tVISIT
+At time: 82995,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 83010   **
+State: 1007
+Fired Transition: tVISIT
+Current State: 36600p1 + 15p3 + 225p4 + 36825p5 + 113175p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1007 ....
+At time: 83010,  Enabled transitions are:    tVACCINATION
+At time: 83010,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 83160   **
+State: 1008
+Fired Transition: tVACCINATION
+Current State: 36600p1 + 15p2 + 36600p5 + 113400p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1008 ....
+At time: 83160,  Enabled transitions are:    tVISIT
+At time: 83160,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 83175   **
+State: 1009
+Fired Transition: tVISIT
+Current State: 36375p1 + 15p3 + 225p4 + 36600p5 + 113400p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1009 ....
+At time: 83175,  Enabled transitions are:    tVACCINATION
+At time: 83175,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 83325   **
+State: 1010
+Fired Transition: tVACCINATION
+Current State: 36375p1 + 15p2 + 36375p5 + 113625p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1010 ....
+At time: 83325,  Enabled transitions are:    tVISIT
+At time: 83325,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 83340   **
+State: 1011
+Fired Transition: tVISIT
+Current State: 36150p1 + 15p3 + 225p4 + 36375p5 + 113625p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1011 ....
+At time: 83340,  Enabled transitions are:    tVACCINATION
+At time: 83340,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 83490   **
+State: 1012
+Fired Transition: tVACCINATION
+Current State: 36150p1 + 15p2 + 36150p5 + 113850p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1012 ....
+At time: 83490,  Enabled transitions are:    tVISIT
+At time: 83490,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 83505   **
+State: 1013
+Fired Transition: tVISIT
+Current State: 35925p1 + 15p3 + 225p4 + 36150p5 + 113850p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1013 ....
+At time: 83505,  Enabled transitions are:    tVACCINATION
+At time: 83505,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 83655   **
+State: 1014
+Fired Transition: tVACCINATION
+Current State: 35925p1 + 15p2 + 35925p5 + 114075p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1014 ....
+At time: 83655,  Enabled transitions are:    tVISIT
+At time: 83655,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 83670   **
+State: 1015
+Fired Transition: tVISIT
+Current State: 35700p1 + 15p3 + 225p4 + 35925p5 + 114075p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1015 ....
+At time: 83670,  Enabled transitions are:    tVACCINATION
+At time: 83670,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 83820   **
+State: 1016
+Fired Transition: tVACCINATION
+Current State: 35700p1 + 15p2 + 35700p5 + 114300p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1016 ....
+At time: 83820,  Enabled transitions are:    tVISIT
+At time: 83820,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 83835   **
+State: 1017
+Fired Transition: tVISIT
+Current State: 35475p1 + 15p3 + 225p4 + 35700p5 + 114300p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1017 ....
+At time: 83835,  Enabled transitions are:    tVACCINATION
+At time: 83835,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 83985   **
+State: 1018
+Fired Transition: tVACCINATION
+Current State: 35475p1 + 15p2 + 35475p5 + 114525p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1018 ....
+At time: 83985,  Enabled transitions are:    tVISIT
+At time: 83985,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 84000   **
+State: 1019
+Fired Transition: tVISIT
+Current State: 35250p1 + 15p3 + 225p4 + 35475p5 + 114525p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1019 ....
+At time: 84000,  Enabled transitions are:    tVACCINATION
+At time: 84000,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 84150   **
+State: 1020
+Fired Transition: tVACCINATION
+Current State: 35250p1 + 15p2 + 35250p5 + 114750p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1020 ....
+At time: 84150,  Enabled transitions are:    tVISIT
+At time: 84150,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 84165   **
+State: 1021
+Fired Transition: tVISIT
+Current State: 35025p1 + 15p3 + 225p4 + 35250p5 + 114750p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1021 ....
+At time: 84165,  Enabled transitions are:    tVACCINATION
+At time: 84165,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 84315   **
+State: 1022
+Fired Transition: tVACCINATION
+Current State: 35025p1 + 15p2 + 35025p5 + 114975p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1022 ....
+At time: 84315,  Enabled transitions are:    tVISIT
+At time: 84315,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 84330   **
+State: 1023
+Fired Transition: tVISIT
+Current State: 34800p1 + 15p3 + 225p4 + 35025p5 + 114975p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1023 ....
+At time: 84330,  Enabled transitions are:    tVACCINATION
+At time: 84330,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 84480   **
+State: 1024
+Fired Transition: tVACCINATION
+Current State: 34800p1 + 15p2 + 34800p5 + 115200p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1024 ....
+At time: 84480,  Enabled transitions are:    tVISIT
+At time: 84480,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 84495   **
+State: 1025
+Fired Transition: tVISIT
+Current State: 34575p1 + 15p3 + 225p4 + 34800p5 + 115200p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1025 ....
+At time: 84495,  Enabled transitions are:    tVACCINATION
+At time: 84495,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 84645   **
+State: 1026
+Fired Transition: tVACCINATION
+Current State: 34575p1 + 15p2 + 34575p5 + 115425p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1026 ....
+At time: 84645,  Enabled transitions are:    tVISIT
+At time: 84645,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 84660   **
+State: 1027
+Fired Transition: tVISIT
+Current State: 34350p1 + 15p3 + 225p4 + 34575p5 + 115425p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1027 ....
+At time: 84660,  Enabled transitions are:    tVACCINATION
+At time: 84660,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 84810   **
+State: 1028
+Fired Transition: tVACCINATION
+Current State: 34350p1 + 15p2 + 34350p5 + 115650p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1028 ....
+At time: 84810,  Enabled transitions are:    tVISIT
+At time: 84810,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 84825   **
+State: 1029
+Fired Transition: tVISIT
+Current State: 34125p1 + 15p3 + 225p4 + 34350p5 + 115650p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1029 ....
+At time: 84825,  Enabled transitions are:    tVACCINATION
+At time: 84825,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 84975   **
+State: 1030
+Fired Transition: tVACCINATION
+Current State: 34125p1 + 15p2 + 34125p5 + 115875p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1030 ....
+At time: 84975,  Enabled transitions are:    tVISIT
+At time: 84975,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 84990   **
+State: 1031
+Fired Transition: tVISIT
+Current State: 33900p1 + 15p3 + 225p4 + 34125p5 + 115875p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1031 ....
+At time: 84990,  Enabled transitions are:    tVACCINATION
+At time: 84990,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 85140   **
+State: 1032
+Fired Transition: tVACCINATION
+Current State: 33900p1 + 15p2 + 33900p5 + 116100p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1032 ....
+At time: 85140,  Enabled transitions are:    tVISIT
+At time: 85140,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 85155   **
+State: 1033
+Fired Transition: tVISIT
+Current State: 33675p1 + 15p3 + 225p4 + 33900p5 + 116100p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1033 ....
+At time: 85155,  Enabled transitions are:    tVACCINATION
+At time: 85155,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 85305   **
+State: 1034
+Fired Transition: tVACCINATION
+Current State: 33675p1 + 15p2 + 33675p5 + 116325p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1034 ....
+At time: 85305,  Enabled transitions are:    tVISIT
+At time: 85305,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 85320   **
+State: 1035
+Fired Transition: tVISIT
+Current State: 33450p1 + 15p3 + 225p4 + 33675p5 + 116325p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1035 ....
+At time: 85320,  Enabled transitions are:    tVACCINATION
+At time: 85320,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 85470   **
+State: 1036
+Fired Transition: tVACCINATION
+Current State: 33450p1 + 15p2 + 33450p5 + 116550p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1036 ....
+At time: 85470,  Enabled transitions are:    tVISIT
+At time: 85470,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 85485   **
+State: 1037
+Fired Transition: tVISIT
+Current State: 33225p1 + 15p3 + 225p4 + 33450p5 + 116550p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1037 ....
+At time: 85485,  Enabled transitions are:    tVACCINATION
+At time: 85485,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 85635   **
+State: 1038
+Fired Transition: tVACCINATION
+Current State: 33225p1 + 15p2 + 33225p5 + 116775p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1038 ....
+At time: 85635,  Enabled transitions are:    tVISIT
+At time: 85635,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 85650   **
+State: 1039
+Fired Transition: tVISIT
+Current State: 33000p1 + 15p3 + 225p4 + 33225p5 + 116775p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1039 ....
+At time: 85650,  Enabled transitions are:    tVACCINATION
+At time: 85650,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 85800   **
+State: 1040
+Fired Transition: tVACCINATION
+Current State: 33000p1 + 15p2 + 33000p5 + 117000p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1040 ....
+At time: 85800,  Enabled transitions are:    tVISIT
+At time: 85800,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 85815   **
+State: 1041
+Fired Transition: tVISIT
+Current State: 32775p1 + 15p3 + 225p4 + 33000p5 + 117000p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1041 ....
+At time: 85815,  Enabled transitions are:    tVACCINATION
+At time: 85815,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 85965   **
+State: 1042
+Fired Transition: tVACCINATION
+Current State: 32775p1 + 15p2 + 32775p5 + 117225p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1042 ....
+At time: 85965,  Enabled transitions are:    tVISIT
+At time: 85965,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 85980   **
+State: 1043
+Fired Transition: tVISIT
+Current State: 32550p1 + 15p3 + 225p4 + 32775p5 + 117225p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1043 ....
+At time: 85980,  Enabled transitions are:    tVACCINATION
+At time: 85980,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 86130   **
+State: 1044
+Fired Transition: tVACCINATION
+Current State: 32550p1 + 15p2 + 32550p5 + 117450p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1044 ....
+At time: 86130,  Enabled transitions are:    tVISIT
+At time: 86130,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 86145   **
+State: 1045
+Fired Transition: tVISIT
+Current State: 32325p1 + 15p3 + 225p4 + 32550p5 + 117450p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1045 ....
+At time: 86145,  Enabled transitions are:    tVACCINATION
+At time: 86145,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 86295   **
+State: 1046
+Fired Transition: tVACCINATION
+Current State: 32325p1 + 15p2 + 32325p5 + 117675p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1046 ....
+At time: 86295,  Enabled transitions are:    tVISIT
+At time: 86295,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 86310   **
+State: 1047
+Fired Transition: tVISIT
+Current State: 32100p1 + 15p3 + 225p4 + 32325p5 + 117675p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1047 ....
+At time: 86310,  Enabled transitions are:    tVACCINATION
+At time: 86310,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 86460   **
+State: 1048
+Fired Transition: tVACCINATION
+Current State: 32100p1 + 15p2 + 32100p5 + 117900p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1048 ....
+At time: 86460,  Enabled transitions are:    tVISIT
+At time: 86460,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 86475   **
+State: 1049
+Fired Transition: tVISIT
+Current State: 31875p1 + 15p3 + 225p4 + 32100p5 + 117900p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1049 ....
+At time: 86475,  Enabled transitions are:    tVACCINATION
+At time: 86475,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 86625   **
+State: 1050
+Fired Transition: tVACCINATION
+Current State: 31875p1 + 15p2 + 31875p5 + 118125p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1050 ....
+At time: 86625,  Enabled transitions are:    tVISIT
+At time: 86625,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 86640   **
+State: 1051
+Fired Transition: tVISIT
+Current State: 31650p1 + 15p3 + 225p4 + 31875p5 + 118125p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1051 ....
+At time: 86640,  Enabled transitions are:    tVACCINATION
+At time: 86640,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 86790   **
+State: 1052
+Fired Transition: tVACCINATION
+Current State: 31650p1 + 15p2 + 31650p5 + 118350p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1052 ....
+At time: 86790,  Enabled transitions are:    tVISIT
+At time: 86790,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 86805   **
+State: 1053
+Fired Transition: tVISIT
+Current State: 31425p1 + 15p3 + 225p4 + 31650p5 + 118350p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1053 ....
+At time: 86805,  Enabled transitions are:    tVACCINATION
+At time: 86805,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 86955   **
+State: 1054
+Fired Transition: tVACCINATION
+Current State: 31425p1 + 15p2 + 31425p5 + 118575p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1054 ....
+At time: 86955,  Enabled transitions are:    tVISIT
+At time: 86955,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 86970   **
+State: 1055
+Fired Transition: tVISIT
+Current State: 31200p1 + 15p3 + 225p4 + 31425p5 + 118575p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1055 ....
+At time: 86970,  Enabled transitions are:    tVACCINATION
+At time: 86970,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 87120   **
+State: 1056
+Fired Transition: tVACCINATION
+Current State: 31200p1 + 15p2 + 31200p5 + 118800p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1056 ....
+At time: 87120,  Enabled transitions are:    tVISIT
+At time: 87120,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 87135   **
+State: 1057
+Fired Transition: tVISIT
+Current State: 30975p1 + 15p3 + 225p4 + 31200p5 + 118800p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1057 ....
+At time: 87135,  Enabled transitions are:    tVACCINATION
+At time: 87135,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 87285   **
+State: 1058
+Fired Transition: tVACCINATION
+Current State: 30975p1 + 15p2 + 30975p5 + 119025p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1058 ....
+At time: 87285,  Enabled transitions are:    tVISIT
+At time: 87285,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 87300   **
+State: 1059
+Fired Transition: tVISIT
+Current State: 30750p1 + 15p3 + 225p4 + 30975p5 + 119025p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1059 ....
+At time: 87300,  Enabled transitions are:    tVACCINATION
+At time: 87300,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 87450   **
+State: 1060
+Fired Transition: tVACCINATION
+Current State: 30750p1 + 15p2 + 30750p5 + 119250p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1060 ....
+At time: 87450,  Enabled transitions are:    tVISIT
+At time: 87450,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 87465   **
+State: 1061
+Fired Transition: tVISIT
+Current State: 30525p1 + 15p3 + 225p4 + 30750p5 + 119250p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1061 ....
+At time: 87465,  Enabled transitions are:    tVACCINATION
+At time: 87465,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 87615   **
+State: 1062
+Fired Transition: tVACCINATION
+Current State: 30525p1 + 15p2 + 30525p5 + 119475p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1062 ....
+At time: 87615,  Enabled transitions are:    tVISIT
+At time: 87615,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 87630   **
+State: 1063
+Fired Transition: tVISIT
+Current State: 30300p1 + 15p3 + 225p4 + 30525p5 + 119475p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1063 ....
+At time: 87630,  Enabled transitions are:    tVACCINATION
+At time: 87630,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 87780   **
+State: 1064
+Fired Transition: tVACCINATION
+Current State: 30300p1 + 15p2 + 30300p5 + 119700p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1064 ....
+At time: 87780,  Enabled transitions are:    tVISIT
+At time: 87780,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 87795   **
+State: 1065
+Fired Transition: tVISIT
+Current State: 30075p1 + 15p3 + 225p4 + 30300p5 + 119700p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1065 ....
+At time: 87795,  Enabled transitions are:    tVACCINATION
+At time: 87795,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 87945   **
+State: 1066
+Fired Transition: tVACCINATION
+Current State: 30075p1 + 15p2 + 30075p5 + 119925p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1066 ....
+At time: 87945,  Enabled transitions are:    tVISIT
+At time: 87945,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 87960   **
+State: 1067
+Fired Transition: tVISIT
+Current State: 29850p1 + 15p3 + 225p4 + 30075p5 + 119925p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1067 ....
+At time: 87960,  Enabled transitions are:    tVACCINATION
+At time: 87960,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 88110   **
+State: 1068
+Fired Transition: tVACCINATION
+Current State: 29850p1 + 15p2 + 29850p5 + 120150p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1068 ....
+At time: 88110,  Enabled transitions are:    tVISIT
+At time: 88110,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 88125   **
+State: 1069
+Fired Transition: tVISIT
+Current State: 29625p1 + 15p3 + 225p4 + 29850p5 + 120150p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1069 ....
+At time: 88125,  Enabled transitions are:    tVACCINATION
+At time: 88125,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 88275   **
+State: 1070
+Fired Transition: tVACCINATION
+Current State: 29625p1 + 15p2 + 29625p5 + 120375p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1070 ....
+At time: 88275,  Enabled transitions are:    tVISIT
+At time: 88275,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 88290   **
+State: 1071
+Fired Transition: tVISIT
+Current State: 29400p1 + 15p3 + 225p4 + 29625p5 + 120375p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1071 ....
+At time: 88290,  Enabled transitions are:    tVACCINATION
+At time: 88290,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 88440   **
+State: 1072
+Fired Transition: tVACCINATION
+Current State: 29400p1 + 15p2 + 29400p5 + 120600p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1072 ....
+At time: 88440,  Enabled transitions are:    tVISIT
+At time: 88440,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 88455   **
+State: 1073
+Fired Transition: tVISIT
+Current State: 29175p1 + 15p3 + 225p4 + 29400p5 + 120600p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1073 ....
+At time: 88455,  Enabled transitions are:    tVACCINATION
+At time: 88455,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 88605   **
+State: 1074
+Fired Transition: tVACCINATION
+Current State: 29175p1 + 15p2 + 29175p5 + 120825p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1074 ....
+At time: 88605,  Enabled transitions are:    tVISIT
+At time: 88605,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 88620   **
+State: 1075
+Fired Transition: tVISIT
+Current State: 28950p1 + 15p3 + 225p4 + 29175p5 + 120825p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1075 ....
+At time: 88620,  Enabled transitions are:    tVACCINATION
+At time: 88620,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 88770   **
+State: 1076
+Fired Transition: tVACCINATION
+Current State: 28950p1 + 15p2 + 28950p5 + 121050p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1076 ....
+At time: 88770,  Enabled transitions are:    tVISIT
+At time: 88770,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 88785   **
+State: 1077
+Fired Transition: tVISIT
+Current State: 28725p1 + 15p3 + 225p4 + 28950p5 + 121050p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1077 ....
+At time: 88785,  Enabled transitions are:    tVACCINATION
+At time: 88785,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 88935   **
+State: 1078
+Fired Transition: tVACCINATION
+Current State: 28725p1 + 15p2 + 28725p5 + 121275p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1078 ....
+At time: 88935,  Enabled transitions are:    tVISIT
+At time: 88935,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 88950   **
+State: 1079
+Fired Transition: tVISIT
+Current State: 28500p1 + 15p3 + 225p4 + 28725p5 + 121275p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1079 ....
+At time: 88950,  Enabled transitions are:    tVACCINATION
+At time: 88950,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 89100   **
+State: 1080
+Fired Transition: tVACCINATION
+Current State: 28500p1 + 15p2 + 28500p5 + 121500p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1080 ....
+At time: 89100,  Enabled transitions are:    tVISIT
+At time: 89100,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 89115   **
+State: 1081
+Fired Transition: tVISIT
+Current State: 28275p1 + 15p3 + 225p4 + 28500p5 + 121500p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1081 ....
+At time: 89115,  Enabled transitions are:    tVACCINATION
+At time: 89115,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 89265   **
+State: 1082
+Fired Transition: tVACCINATION
+Current State: 28275p1 + 15p2 + 28275p5 + 121725p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1082 ....
+At time: 89265,  Enabled transitions are:    tVISIT
+At time: 89265,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 89280   **
+State: 1083
+Fired Transition: tVISIT
+Current State: 28050p1 + 15p3 + 225p4 + 28275p5 + 121725p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1083 ....
+At time: 89280,  Enabled transitions are:    tVACCINATION
+At time: 89280,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 89430   **
+State: 1084
+Fired Transition: tVACCINATION
+Current State: 28050p1 + 15p2 + 28050p5 + 121950p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1084 ....
+At time: 89430,  Enabled transitions are:    tVISIT
+At time: 89430,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 89445   **
+State: 1085
+Fired Transition: tVISIT
+Current State: 27825p1 + 15p3 + 225p4 + 28050p5 + 121950p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1085 ....
+At time: 89445,  Enabled transitions are:    tVACCINATION
+At time: 89445,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 89595   **
+State: 1086
+Fired Transition: tVACCINATION
+Current State: 27825p1 + 15p2 + 27825p5 + 122175p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1086 ....
+At time: 89595,  Enabled transitions are:    tVISIT
+At time: 89595,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 89610   **
+State: 1087
+Fired Transition: tVISIT
+Current State: 27600p1 + 15p3 + 225p4 + 27825p5 + 122175p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1087 ....
+At time: 89610,  Enabled transitions are:    tVACCINATION
+At time: 89610,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 89760   **
+State: 1088
+Fired Transition: tVACCINATION
+Current State: 27600p1 + 15p2 + 27600p5 + 122400p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1088 ....
+At time: 89760,  Enabled transitions are:    tVISIT
+At time: 89760,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 89775   **
+State: 1089
+Fired Transition: tVISIT
+Current State: 27375p1 + 15p3 + 225p4 + 27600p5 + 122400p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1089 ....
+At time: 89775,  Enabled transitions are:    tVACCINATION
+At time: 89775,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 89925   **
+State: 1090
+Fired Transition: tVACCINATION
+Current State: 27375p1 + 15p2 + 27375p5 + 122625p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1090 ....
+At time: 89925,  Enabled transitions are:    tVISIT
+At time: 89925,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 89940   **
+State: 1091
+Fired Transition: tVISIT
+Current State: 27150p1 + 15p3 + 225p4 + 27375p5 + 122625p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1091 ....
+At time: 89940,  Enabled transitions are:    tVACCINATION
+At time: 89940,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 90090   **
+State: 1092
+Fired Transition: tVACCINATION
+Current State: 27150p1 + 15p2 + 27150p5 + 122850p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1092 ....
+At time: 90090,  Enabled transitions are:    tVISIT
+At time: 90090,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 90105   **
+State: 1093
+Fired Transition: tVISIT
+Current State: 26925p1 + 15p3 + 225p4 + 27150p5 + 122850p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1093 ....
+At time: 90105,  Enabled transitions are:    tVACCINATION
+At time: 90105,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 90255   **
+State: 1094
+Fired Transition: tVACCINATION
+Current State: 26925p1 + 15p2 + 26925p5 + 123075p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1094 ....
+At time: 90255,  Enabled transitions are:    tVISIT
+At time: 90255,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 90270   **
+State: 1095
+Fired Transition: tVISIT
+Current State: 26700p1 + 15p3 + 225p4 + 26925p5 + 123075p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1095 ....
+At time: 90270,  Enabled transitions are:    tVACCINATION
+At time: 90270,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 90420   **
+State: 1096
+Fired Transition: tVACCINATION
+Current State: 26700p1 + 15p2 + 26700p5 + 123300p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1096 ....
+At time: 90420,  Enabled transitions are:    tVISIT
+At time: 90420,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 90435   **
+State: 1097
+Fired Transition: tVISIT
+Current State: 26475p1 + 15p3 + 225p4 + 26700p5 + 123300p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1097 ....
+At time: 90435,  Enabled transitions are:    tVACCINATION
+At time: 90435,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 90585   **
+State: 1098
+Fired Transition: tVACCINATION
+Current State: 26475p1 + 15p2 + 26475p5 + 123525p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1098 ....
+At time: 90585,  Enabled transitions are:    tVISIT
+At time: 90585,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 90600   **
+State: 1099
+Fired Transition: tVISIT
+Current State: 26250p1 + 15p3 + 225p4 + 26475p5 + 123525p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1099 ....
+At time: 90600,  Enabled transitions are:    tVACCINATION
+At time: 90600,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 90750   **
+State: 1100
+Fired Transition: tVACCINATION
+Current State: 26250p1 + 15p2 + 26250p5 + 123750p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1100 ....
+At time: 90750,  Enabled transitions are:    tVISIT
+At time: 90750,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 90765   **
+State: 1101
+Fired Transition: tVISIT
+Current State: 26025p1 + 15p3 + 225p4 + 26250p5 + 123750p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1101 ....
+At time: 90765,  Enabled transitions are:    tVACCINATION
+At time: 90765,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 90915   **
+State: 1102
+Fired Transition: tVACCINATION
+Current State: 26025p1 + 15p2 + 26025p5 + 123975p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1102 ....
+At time: 90915,  Enabled transitions are:    tVISIT
+At time: 90915,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 90930   **
+State: 1103
+Fired Transition: tVISIT
+Current State: 25800p1 + 15p3 + 225p4 + 26025p5 + 123975p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1103 ....
+At time: 90930,  Enabled transitions are:    tVACCINATION
+At time: 90930,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 91080   **
+State: 1104
+Fired Transition: tVACCINATION
+Current State: 25800p1 + 15p2 + 25800p5 + 124200p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1104 ....
+At time: 91080,  Enabled transitions are:    tVISIT
+At time: 91080,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 91095   **
+State: 1105
+Fired Transition: tVISIT
+Current State: 25575p1 + 15p3 + 225p4 + 25800p5 + 124200p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1105 ....
+At time: 91095,  Enabled transitions are:    tVACCINATION
+At time: 91095,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 91245   **
+State: 1106
+Fired Transition: tVACCINATION
+Current State: 25575p1 + 15p2 + 25575p5 + 124425p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1106 ....
+At time: 91245,  Enabled transitions are:    tVISIT
+At time: 91245,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 91260   **
+State: 1107
+Fired Transition: tVISIT
+Current State: 25350p1 + 15p3 + 225p4 + 25575p5 + 124425p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1107 ....
+At time: 91260,  Enabled transitions are:    tVACCINATION
+At time: 91260,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 91410   **
+State: 1108
+Fired Transition: tVACCINATION
+Current State: 25350p1 + 15p2 + 25350p5 + 124650p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1108 ....
+At time: 91410,  Enabled transitions are:    tVISIT
+At time: 91410,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 91425   **
+State: 1109
+Fired Transition: tVISIT
+Current State: 25125p1 + 15p3 + 225p4 + 25350p5 + 124650p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1109 ....
+At time: 91425,  Enabled transitions are:    tVACCINATION
+At time: 91425,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 91575   **
+State: 1110
+Fired Transition: tVACCINATION
+Current State: 25125p1 + 15p2 + 25125p5 + 124875p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1110 ....
+At time: 91575,  Enabled transitions are:    tVISIT
+At time: 91575,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 91590   **
+State: 1111
+Fired Transition: tVISIT
+Current State: 24900p1 + 15p3 + 225p4 + 25125p5 + 124875p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1111 ....
+At time: 91590,  Enabled transitions are:    tVACCINATION
+At time: 91590,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 91740   **
+State: 1112
+Fired Transition: tVACCINATION
+Current State: 24900p1 + 15p2 + 24900p5 + 125100p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1112 ....
+At time: 91740,  Enabled transitions are:    tVISIT
+At time: 91740,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 91755   **
+State: 1113
+Fired Transition: tVISIT
+Current State: 24675p1 + 15p3 + 225p4 + 24900p5 + 125100p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1113 ....
+At time: 91755,  Enabled transitions are:    tVACCINATION
+At time: 91755,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 91905   **
+State: 1114
+Fired Transition: tVACCINATION
+Current State: 24675p1 + 15p2 + 24675p5 + 125325p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1114 ....
+At time: 91905,  Enabled transitions are:    tVISIT
+At time: 91905,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 91920   **
+State: 1115
+Fired Transition: tVISIT
+Current State: 24450p1 + 15p3 + 225p4 + 24675p5 + 125325p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1115 ....
+At time: 91920,  Enabled transitions are:    tVACCINATION
+At time: 91920,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 92070   **
+State: 1116
+Fired Transition: tVACCINATION
+Current State: 24450p1 + 15p2 + 24450p5 + 125550p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1116 ....
+At time: 92070,  Enabled transitions are:    tVISIT
+At time: 92070,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 92085   **
+State: 1117
+Fired Transition: tVISIT
+Current State: 24225p1 + 15p3 + 225p4 + 24450p5 + 125550p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1117 ....
+At time: 92085,  Enabled transitions are:    tVACCINATION
+At time: 92085,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 92235   **
+State: 1118
+Fired Transition: tVACCINATION
+Current State: 24225p1 + 15p2 + 24225p5 + 125775p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1118 ....
+At time: 92235,  Enabled transitions are:    tVISIT
+At time: 92235,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 92250   **
+State: 1119
+Fired Transition: tVISIT
+Current State: 24000p1 + 15p3 + 225p4 + 24225p5 + 125775p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1119 ....
+At time: 92250,  Enabled transitions are:    tVACCINATION
+At time: 92250,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 92400   **
+State: 1120
+Fired Transition: tVACCINATION
+Current State: 24000p1 + 15p2 + 24000p5 + 126000p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1120 ....
+At time: 92400,  Enabled transitions are:    tVISIT
+At time: 92400,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 92415   **
+State: 1121
+Fired Transition: tVISIT
+Current State: 23775p1 + 15p3 + 225p4 + 24000p5 + 126000p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1121 ....
+At time: 92415,  Enabled transitions are:    tVACCINATION
+At time: 92415,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 92565   **
+State: 1122
+Fired Transition: tVACCINATION
+Current State: 23775p1 + 15p2 + 23775p5 + 126225p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1122 ....
+At time: 92565,  Enabled transitions are:    tVISIT
+At time: 92565,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 92580   **
+State: 1123
+Fired Transition: tVISIT
+Current State: 23550p1 + 15p3 + 225p4 + 23775p5 + 126225p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1123 ....
+At time: 92580,  Enabled transitions are:    tVACCINATION
+At time: 92580,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 92730   **
+State: 1124
+Fired Transition: tVACCINATION
+Current State: 23550p1 + 15p2 + 23550p5 + 126450p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1124 ....
+At time: 92730,  Enabled transitions are:    tVISIT
+At time: 92730,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 92745   **
+State: 1125
+Fired Transition: tVISIT
+Current State: 23325p1 + 15p3 + 225p4 + 23550p5 + 126450p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1125 ....
+At time: 92745,  Enabled transitions are:    tVACCINATION
+At time: 92745,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 92895   **
+State: 1126
+Fired Transition: tVACCINATION
+Current State: 23325p1 + 15p2 + 23325p5 + 126675p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1126 ....
+At time: 92895,  Enabled transitions are:    tVISIT
+At time: 92895,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 92910   **
+State: 1127
+Fired Transition: tVISIT
+Current State: 23100p1 + 15p3 + 225p4 + 23325p5 + 126675p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1127 ....
+At time: 92910,  Enabled transitions are:    tVACCINATION
+At time: 92910,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 93060   **
+State: 1128
+Fired Transition: tVACCINATION
+Current State: 23100p1 + 15p2 + 23100p5 + 126900p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1128 ....
+At time: 93060,  Enabled transitions are:    tVISIT
+At time: 93060,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 93075   **
+State: 1129
+Fired Transition: tVISIT
+Current State: 22875p1 + 15p3 + 225p4 + 23100p5 + 126900p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1129 ....
+At time: 93075,  Enabled transitions are:    tVACCINATION
+At time: 93075,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 93225   **
+State: 1130
+Fired Transition: tVACCINATION
+Current State: 22875p1 + 15p2 + 22875p5 + 127125p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1130 ....
+At time: 93225,  Enabled transitions are:    tVISIT
+At time: 93225,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 93240   **
+State: 1131
+Fired Transition: tVISIT
+Current State: 22650p1 + 15p3 + 225p4 + 22875p5 + 127125p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1131 ....
+At time: 93240,  Enabled transitions are:    tVACCINATION
+At time: 93240,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 93390   **
+State: 1132
+Fired Transition: tVACCINATION
+Current State: 22650p1 + 15p2 + 22650p5 + 127350p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1132 ....
+At time: 93390,  Enabled transitions are:    tVISIT
+At time: 93390,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 93405   **
+State: 1133
+Fired Transition: tVISIT
+Current State: 22425p1 + 15p3 + 225p4 + 22650p5 + 127350p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1133 ....
+At time: 93405,  Enabled transitions are:    tVACCINATION
+At time: 93405,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 93555   **
+State: 1134
+Fired Transition: tVACCINATION
+Current State: 22425p1 + 15p2 + 22425p5 + 127575p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1134 ....
+At time: 93555,  Enabled transitions are:    tVISIT
+At time: 93555,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 93570   **
+State: 1135
+Fired Transition: tVISIT
+Current State: 22200p1 + 15p3 + 225p4 + 22425p5 + 127575p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1135 ....
+At time: 93570,  Enabled transitions are:    tVACCINATION
+At time: 93570,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 93720   **
+State: 1136
+Fired Transition: tVACCINATION
+Current State: 22200p1 + 15p2 + 22200p5 + 127800p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1136 ....
+At time: 93720,  Enabled transitions are:    tVISIT
+At time: 93720,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 93735   **
+State: 1137
+Fired Transition: tVISIT
+Current State: 21975p1 + 15p3 + 225p4 + 22200p5 + 127800p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1137 ....
+At time: 93735,  Enabled transitions are:    tVACCINATION
+At time: 93735,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 93885   **
+State: 1138
+Fired Transition: tVACCINATION
+Current State: 21975p1 + 15p2 + 21975p5 + 128025p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1138 ....
+At time: 93885,  Enabled transitions are:    tVISIT
+At time: 93885,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 93900   **
+State: 1139
+Fired Transition: tVISIT
+Current State: 21750p1 + 15p3 + 225p4 + 21975p5 + 128025p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1139 ....
+At time: 93900,  Enabled transitions are:    tVACCINATION
+At time: 93900,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 94050   **
+State: 1140
+Fired Transition: tVACCINATION
+Current State: 21750p1 + 15p2 + 21750p5 + 128250p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1140 ....
+At time: 94050,  Enabled transitions are:    tVISIT
+At time: 94050,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 94065   **
+State: 1141
+Fired Transition: tVISIT
+Current State: 21525p1 + 15p3 + 225p4 + 21750p5 + 128250p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1141 ....
+At time: 94065,  Enabled transitions are:    tVACCINATION
+At time: 94065,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 94215   **
+State: 1142
+Fired Transition: tVACCINATION
+Current State: 21525p1 + 15p2 + 21525p5 + 128475p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1142 ....
+At time: 94215,  Enabled transitions are:    tVISIT
+At time: 94215,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 94230   **
+State: 1143
+Fired Transition: tVISIT
+Current State: 21300p1 + 15p3 + 225p4 + 21525p5 + 128475p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1143 ....
+At time: 94230,  Enabled transitions are:    tVACCINATION
+At time: 94230,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 94380   **
+State: 1144
+Fired Transition: tVACCINATION
+Current State: 21300p1 + 15p2 + 21300p5 + 128700p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1144 ....
+At time: 94380,  Enabled transitions are:    tVISIT
+At time: 94380,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 94395   **
+State: 1145
+Fired Transition: tVISIT
+Current State: 21075p1 + 15p3 + 225p4 + 21300p5 + 128700p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1145 ....
+At time: 94395,  Enabled transitions are:    tVACCINATION
+At time: 94395,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 94545   **
+State: 1146
+Fired Transition: tVACCINATION
+Current State: 21075p1 + 15p2 + 21075p5 + 128925p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1146 ....
+At time: 94545,  Enabled transitions are:    tVISIT
+At time: 94545,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 94560   **
+State: 1147
+Fired Transition: tVISIT
+Current State: 20850p1 + 15p3 + 225p4 + 21075p5 + 128925p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1147 ....
+At time: 94560,  Enabled transitions are:    tVACCINATION
+At time: 94560,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 94710   **
+State: 1148
+Fired Transition: tVACCINATION
+Current State: 20850p1 + 15p2 + 20850p5 + 129150p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1148 ....
+At time: 94710,  Enabled transitions are:    tVISIT
+At time: 94710,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 94725   **
+State: 1149
+Fired Transition: tVISIT
+Current State: 20625p1 + 15p3 + 225p4 + 20850p5 + 129150p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1149 ....
+At time: 94725,  Enabled transitions are:    tVACCINATION
+At time: 94725,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 94875   **
+State: 1150
+Fired Transition: tVACCINATION
+Current State: 20625p1 + 15p2 + 20625p5 + 129375p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1150 ....
+At time: 94875,  Enabled transitions are:    tVISIT
+At time: 94875,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 94890   **
+State: 1151
+Fired Transition: tVISIT
+Current State: 20400p1 + 15p3 + 225p4 + 20625p5 + 129375p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1151 ....
+At time: 94890,  Enabled transitions are:    tVACCINATION
+At time: 94890,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 95040   **
+State: 1152
+Fired Transition: tVACCINATION
+Current State: 20400p1 + 15p2 + 20400p5 + 129600p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1152 ....
+At time: 95040,  Enabled transitions are:    tVISIT
+At time: 95040,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 95055   **
+State: 1153
+Fired Transition: tVISIT
+Current State: 20175p1 + 15p3 + 225p4 + 20400p5 + 129600p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1153 ....
+At time: 95055,  Enabled transitions are:    tVACCINATION
+At time: 95055,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 95205   **
+State: 1154
+Fired Transition: tVACCINATION
+Current State: 20175p1 + 15p2 + 20175p5 + 129825p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1154 ....
+At time: 95205,  Enabled transitions are:    tVISIT
+At time: 95205,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 95220   **
+State: 1155
+Fired Transition: tVISIT
+Current State: 19950p1 + 15p3 + 225p4 + 20175p5 + 129825p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1155 ....
+At time: 95220,  Enabled transitions are:    tVACCINATION
+At time: 95220,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 95370   **
+State: 1156
+Fired Transition: tVACCINATION
+Current State: 19950p1 + 15p2 + 19950p5 + 130050p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1156 ....
+At time: 95370,  Enabled transitions are:    tVISIT
+At time: 95370,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 95385   **
+State: 1157
+Fired Transition: tVISIT
+Current State: 19725p1 + 15p3 + 225p4 + 19950p5 + 130050p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1157 ....
+At time: 95385,  Enabled transitions are:    tVACCINATION
+At time: 95385,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 95535   **
+State: 1158
+Fired Transition: tVACCINATION
+Current State: 19725p1 + 15p2 + 19725p5 + 130275p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1158 ....
+At time: 95535,  Enabled transitions are:    tVISIT
+At time: 95535,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 95550   **
+State: 1159
+Fired Transition: tVISIT
+Current State: 19500p1 + 15p3 + 225p4 + 19725p5 + 130275p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1159 ....
+At time: 95550,  Enabled transitions are:    tVACCINATION
+At time: 95550,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 95700   **
+State: 1160
+Fired Transition: tVACCINATION
+Current State: 19500p1 + 15p2 + 19500p5 + 130500p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1160 ....
+At time: 95700,  Enabled transitions are:    tVISIT
+At time: 95700,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 95715   **
+State: 1161
+Fired Transition: tVISIT
+Current State: 19275p1 + 15p3 + 225p4 + 19500p5 + 130500p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1161 ....
+At time: 95715,  Enabled transitions are:    tVACCINATION
+At time: 95715,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 95865   **
+State: 1162
+Fired Transition: tVACCINATION
+Current State: 19275p1 + 15p2 + 19275p5 + 130725p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1162 ....
+At time: 95865,  Enabled transitions are:    tVISIT
+At time: 95865,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 95880   **
+State: 1163
+Fired Transition: tVISIT
+Current State: 19050p1 + 15p3 + 225p4 + 19275p5 + 130725p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1163 ....
+At time: 95880,  Enabled transitions are:    tVACCINATION
+At time: 95880,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 96030   **
+State: 1164
+Fired Transition: tVACCINATION
+Current State: 19050p1 + 15p2 + 19050p5 + 130950p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1164 ....
+At time: 96030,  Enabled transitions are:    tVISIT
+At time: 96030,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 96045   **
+State: 1165
+Fired Transition: tVISIT
+Current State: 18825p1 + 15p3 + 225p4 + 19050p5 + 130950p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1165 ....
+At time: 96045,  Enabled transitions are:    tVACCINATION
+At time: 96045,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 96195   **
+State: 1166
+Fired Transition: tVACCINATION
+Current State: 18825p1 + 15p2 + 18825p5 + 131175p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1166 ....
+At time: 96195,  Enabled transitions are:    tVISIT
+At time: 96195,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 96210   **
+State: 1167
+Fired Transition: tVISIT
+Current State: 18600p1 + 15p3 + 225p4 + 18825p5 + 131175p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1167 ....
+At time: 96210,  Enabled transitions are:    tVACCINATION
+At time: 96210,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 96360   **
+State: 1168
+Fired Transition: tVACCINATION
+Current State: 18600p1 + 15p2 + 18600p5 + 131400p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1168 ....
+At time: 96360,  Enabled transitions are:    tVISIT
+At time: 96360,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 96375   **
+State: 1169
+Fired Transition: tVISIT
+Current State: 18375p1 + 15p3 + 225p4 + 18600p5 + 131400p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1169 ....
+At time: 96375,  Enabled transitions are:    tVACCINATION
+At time: 96375,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 96525   **
+State: 1170
+Fired Transition: tVACCINATION
+Current State: 18375p1 + 15p2 + 18375p5 + 131625p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1170 ....
+At time: 96525,  Enabled transitions are:    tVISIT
+At time: 96525,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 96540   **
+State: 1171
+Fired Transition: tVISIT
+Current State: 18150p1 + 15p3 + 225p4 + 18375p5 + 131625p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1171 ....
+At time: 96540,  Enabled transitions are:    tVACCINATION
+At time: 96540,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 96690   **
+State: 1172
+Fired Transition: tVACCINATION
+Current State: 18150p1 + 15p2 + 18150p5 + 131850p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1172 ....
+At time: 96690,  Enabled transitions are:    tVISIT
+At time: 96690,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 96705   **
+State: 1173
+Fired Transition: tVISIT
+Current State: 17925p1 + 15p3 + 225p4 + 18150p5 + 131850p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1173 ....
+At time: 96705,  Enabled transitions are:    tVACCINATION
+At time: 96705,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 96855   **
+State: 1174
+Fired Transition: tVACCINATION
+Current State: 17925p1 + 15p2 + 17925p5 + 132075p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1174 ....
+At time: 96855,  Enabled transitions are:    tVISIT
+At time: 96855,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 96870   **
+State: 1175
+Fired Transition: tVISIT
+Current State: 17700p1 + 15p3 + 225p4 + 17925p5 + 132075p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1175 ....
+At time: 96870,  Enabled transitions are:    tVACCINATION
+At time: 96870,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 97020   **
+State: 1176
+Fired Transition: tVACCINATION
+Current State: 17700p1 + 15p2 + 17700p5 + 132300p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1176 ....
+At time: 97020,  Enabled transitions are:    tVISIT
+At time: 97020,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 97035   **
+State: 1177
+Fired Transition: tVISIT
+Current State: 17475p1 + 15p3 + 225p4 + 17700p5 + 132300p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1177 ....
+At time: 97035,  Enabled transitions are:    tVACCINATION
+At time: 97035,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 97185   **
+State: 1178
+Fired Transition: tVACCINATION
+Current State: 17475p1 + 15p2 + 17475p5 + 132525p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1178 ....
+At time: 97185,  Enabled transitions are:    tVISIT
+At time: 97185,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 97200   **
+State: 1179
+Fired Transition: tVISIT
+Current State: 17250p1 + 15p3 + 225p4 + 17475p5 + 132525p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1179 ....
+At time: 97200,  Enabled transitions are:    tVACCINATION
+At time: 97200,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 97350   **
+State: 1180
+Fired Transition: tVACCINATION
+Current State: 17250p1 + 15p2 + 17250p5 + 132750p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1180 ....
+At time: 97350,  Enabled transitions are:    tVISIT
+At time: 97350,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 97365   **
+State: 1181
+Fired Transition: tVISIT
+Current State: 17025p1 + 15p3 + 225p4 + 17250p5 + 132750p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1181 ....
+At time: 97365,  Enabled transitions are:    tVACCINATION
+At time: 97365,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 97515   **
+State: 1182
+Fired Transition: tVACCINATION
+Current State: 17025p1 + 15p2 + 17025p5 + 132975p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1182 ....
+At time: 97515,  Enabled transitions are:    tVISIT
+At time: 97515,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 97530   **
+State: 1183
+Fired Transition: tVISIT
+Current State: 16800p1 + 15p3 + 225p4 + 17025p5 + 132975p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1183 ....
+At time: 97530,  Enabled transitions are:    tVACCINATION
+At time: 97530,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 97680   **
+State: 1184
+Fired Transition: tVACCINATION
+Current State: 16800p1 + 15p2 + 16800p5 + 133200p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1184 ....
+At time: 97680,  Enabled transitions are:    tVISIT
+At time: 97680,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 97695   **
+State: 1185
+Fired Transition: tVISIT
+Current State: 16575p1 + 15p3 + 225p4 + 16800p5 + 133200p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1185 ....
+At time: 97695,  Enabled transitions are:    tVACCINATION
+At time: 97695,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 97845   **
+State: 1186
+Fired Transition: tVACCINATION
+Current State: 16575p1 + 15p2 + 16575p5 + 133425p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1186 ....
+At time: 97845,  Enabled transitions are:    tVISIT
+At time: 97845,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 97860   **
+State: 1187
+Fired Transition: tVISIT
+Current State: 16350p1 + 15p3 + 225p4 + 16575p5 + 133425p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1187 ....
+At time: 97860,  Enabled transitions are:    tVACCINATION
+At time: 97860,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 98010   **
+State: 1188
+Fired Transition: tVACCINATION
+Current State: 16350p1 + 15p2 + 16350p5 + 133650p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1188 ....
+At time: 98010,  Enabled transitions are:    tVISIT
+At time: 98010,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 98025   **
+State: 1189
+Fired Transition: tVISIT
+Current State: 16125p1 + 15p3 + 225p4 + 16350p5 + 133650p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1189 ....
+At time: 98025,  Enabled transitions are:    tVACCINATION
+At time: 98025,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 98175   **
+State: 1190
+Fired Transition: tVACCINATION
+Current State: 16125p1 + 15p2 + 16125p5 + 133875p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1190 ....
+At time: 98175,  Enabled transitions are:    tVISIT
+At time: 98175,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 98190   **
+State: 1191
+Fired Transition: tVISIT
+Current State: 15900p1 + 15p3 + 225p4 + 16125p5 + 133875p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1191 ....
+At time: 98190,  Enabled transitions are:    tVACCINATION
+At time: 98190,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 98340   **
+State: 1192
+Fired Transition: tVACCINATION
+Current State: 15900p1 + 15p2 + 15900p5 + 134100p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1192 ....
+At time: 98340,  Enabled transitions are:    tVISIT
+At time: 98340,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 98355   **
+State: 1193
+Fired Transition: tVISIT
+Current State: 15675p1 + 15p3 + 225p4 + 15900p5 + 134100p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1193 ....
+At time: 98355,  Enabled transitions are:    tVACCINATION
+At time: 98355,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 98505   **
+State: 1194
+Fired Transition: tVACCINATION
+Current State: 15675p1 + 15p2 + 15675p5 + 134325p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1194 ....
+At time: 98505,  Enabled transitions are:    tVISIT
+At time: 98505,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 98520   **
+State: 1195
+Fired Transition: tVISIT
+Current State: 15450p1 + 15p3 + 225p4 + 15675p5 + 134325p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1195 ....
+At time: 98520,  Enabled transitions are:    tVACCINATION
+At time: 98520,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 98670   **
+State: 1196
+Fired Transition: tVACCINATION
+Current State: 15450p1 + 15p2 + 15450p5 + 134550p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1196 ....
+At time: 98670,  Enabled transitions are:    tVISIT
+At time: 98670,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 98685   **
+State: 1197
+Fired Transition: tVISIT
+Current State: 15225p1 + 15p3 + 225p4 + 15450p5 + 134550p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1197 ....
+At time: 98685,  Enabled transitions are:    tVACCINATION
+At time: 98685,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 98835   **
+State: 1198
+Fired Transition: tVACCINATION
+Current State: 15225p1 + 15p2 + 15225p5 + 134775p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1198 ....
+At time: 98835,  Enabled transitions are:    tVISIT
+At time: 98835,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 98850   **
+State: 1199
+Fired Transition: tVISIT
+Current State: 15000p1 + 15p3 + 225p4 + 15225p5 + 134775p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1199 ....
+At time: 98850,  Enabled transitions are:    tVACCINATION
+At time: 98850,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 99000   **
+State: 1200
+Fired Transition: tVACCINATION
+Current State: 15000p1 + 15p2 + 15000p5 + 135000p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1200 ....
+At time: 99000,  Enabled transitions are:    tVISIT
+At time: 99000,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 99015   **
+State: 1201
+Fired Transition: tVISIT
+Current State: 14775p1 + 15p3 + 225p4 + 15000p5 + 135000p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1201 ....
+At time: 99015,  Enabled transitions are:    tVACCINATION
+At time: 99015,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 99165   **
+State: 1202
+Fired Transition: tVACCINATION
+Current State: 14775p1 + 15p2 + 14775p5 + 135225p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1202 ....
+At time: 99165,  Enabled transitions are:    tVISIT
+At time: 99165,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 99180   **
+State: 1203
+Fired Transition: tVISIT
+Current State: 14550p1 + 15p3 + 225p4 + 14775p5 + 135225p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1203 ....
+At time: 99180,  Enabled transitions are:    tVACCINATION
+At time: 99180,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 99330   **
+State: 1204
+Fired Transition: tVACCINATION
+Current State: 14550p1 + 15p2 + 14550p5 + 135450p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1204 ....
+At time: 99330,  Enabled transitions are:    tVISIT
+At time: 99330,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 99345   **
+State: 1205
+Fired Transition: tVISIT
+Current State: 14325p1 + 15p3 + 225p4 + 14550p5 + 135450p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1205 ....
+At time: 99345,  Enabled transitions are:    tVACCINATION
+At time: 99345,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 99495   **
+State: 1206
+Fired Transition: tVACCINATION
+Current State: 14325p1 + 15p2 + 14325p5 + 135675p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1206 ....
+At time: 99495,  Enabled transitions are:    tVISIT
+At time: 99495,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 99510   **
+State: 1207
+Fired Transition: tVISIT
+Current State: 14100p1 + 15p3 + 225p4 + 14325p5 + 135675p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1207 ....
+At time: 99510,  Enabled transitions are:    tVACCINATION
+At time: 99510,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 99660   **
+State: 1208
+Fired Transition: tVACCINATION
+Current State: 14100p1 + 15p2 + 14100p5 + 135900p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1208 ....
+At time: 99660,  Enabled transitions are:    tVISIT
+At time: 99660,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 99675   **
+State: 1209
+Fired Transition: tVISIT
+Current State: 13875p1 + 15p3 + 225p4 + 14100p5 + 135900p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1209 ....
+At time: 99675,  Enabled transitions are:    tVACCINATION
+At time: 99675,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 99825   **
+State: 1210
+Fired Transition: tVACCINATION
+Current State: 13875p1 + 15p2 + 13875p5 + 136125p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1210 ....
+At time: 99825,  Enabled transitions are:    tVISIT
+At time: 99825,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 99840   **
+State: 1211
+Fired Transition: tVISIT
+Current State: 13650p1 + 15p3 + 225p4 + 13875p5 + 136125p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1211 ....
+At time: 99840,  Enabled transitions are:    tVACCINATION
+At time: 99840,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 99990   **
+State: 1212
+Fired Transition: tVACCINATION
+Current State: 13650p1 + 15p2 + 13650p5 + 136350p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1212 ....
+At time: 99990,  Enabled transitions are:    tVISIT
+At time: 99990,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 100005   **
+State: 1213
+Fired Transition: tVISIT
+Current State: 13425p1 + 15p3 + 225p4 + 13650p5 + 136350p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1213 ....
+At time: 100005,  Enabled transitions are:    tVACCINATION
+At time: 100005,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 100155   **
+State: 1214
+Fired Transition: tVACCINATION
+Current State: 13425p1 + 15p2 + 13425p5 + 136575p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1214 ....
+At time: 100155,  Enabled transitions are:    tVISIT
+At time: 100155,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 100170   **
+State: 1215
+Fired Transition: tVISIT
+Current State: 13200p1 + 15p3 + 225p4 + 13425p5 + 136575p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1215 ....
+At time: 100170,  Enabled transitions are:    tVACCINATION
+At time: 100170,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 100320   **
+State: 1216
+Fired Transition: tVACCINATION
+Current State: 13200p1 + 15p2 + 13200p5 + 136800p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1216 ....
+At time: 100320,  Enabled transitions are:    tVISIT
+At time: 100320,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 100335   **
+State: 1217
+Fired Transition: tVISIT
+Current State: 12975p1 + 15p3 + 225p4 + 13200p5 + 136800p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1217 ....
+At time: 100335,  Enabled transitions are:    tVACCINATION
+At time: 100335,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 100485   **
+State: 1218
+Fired Transition: tVACCINATION
+Current State: 12975p1 + 15p2 + 12975p5 + 137025p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1218 ....
+At time: 100485,  Enabled transitions are:    tVISIT
+At time: 100485,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 100500   **
+State: 1219
+Fired Transition: tVISIT
+Current State: 12750p1 + 15p3 + 225p4 + 12975p5 + 137025p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1219 ....
+At time: 100500,  Enabled transitions are:    tVACCINATION
+At time: 100500,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 100650   **
+State: 1220
+Fired Transition: tVACCINATION
+Current State: 12750p1 + 15p2 + 12750p5 + 137250p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1220 ....
+At time: 100650,  Enabled transitions are:    tVISIT
+At time: 100650,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 100665   **
+State: 1221
+Fired Transition: tVISIT
+Current State: 12525p1 + 15p3 + 225p4 + 12750p5 + 137250p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1221 ....
+At time: 100665,  Enabled transitions are:    tVACCINATION
+At time: 100665,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 100815   **
+State: 1222
+Fired Transition: tVACCINATION
+Current State: 12525p1 + 15p2 + 12525p5 + 137475p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1222 ....
+At time: 100815,  Enabled transitions are:    tVISIT
+At time: 100815,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 100830   **
+State: 1223
+Fired Transition: tVISIT
+Current State: 12300p1 + 15p3 + 225p4 + 12525p5 + 137475p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1223 ....
+At time: 100830,  Enabled transitions are:    tVACCINATION
+At time: 100830,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 100980   **
+State: 1224
+Fired Transition: tVACCINATION
+Current State: 12300p1 + 15p2 + 12300p5 + 137700p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1224 ....
+At time: 100980,  Enabled transitions are:    tVISIT
+At time: 100980,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 100995   **
+State: 1225
+Fired Transition: tVISIT
+Current State: 12075p1 + 15p3 + 225p4 + 12300p5 + 137700p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1225 ....
+At time: 100995,  Enabled transitions are:    tVACCINATION
+At time: 100995,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 101145   **
+State: 1226
+Fired Transition: tVACCINATION
+Current State: 12075p1 + 15p2 + 12075p5 + 137925p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1226 ....
+At time: 101145,  Enabled transitions are:    tVISIT
+At time: 101145,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 101160   **
+State: 1227
+Fired Transition: tVISIT
+Current State: 11850p1 + 15p3 + 225p4 + 12075p5 + 137925p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1227 ....
+At time: 101160,  Enabled transitions are:    tVACCINATION
+At time: 101160,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 101310   **
+State: 1228
+Fired Transition: tVACCINATION
+Current State: 11850p1 + 15p2 + 11850p5 + 138150p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1228 ....
+At time: 101310,  Enabled transitions are:    tVISIT
+At time: 101310,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 101325   **
+State: 1229
+Fired Transition: tVISIT
+Current State: 11625p1 + 15p3 + 225p4 + 11850p5 + 138150p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1229 ....
+At time: 101325,  Enabled transitions are:    tVACCINATION
+At time: 101325,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 101475   **
+State: 1230
+Fired Transition: tVACCINATION
+Current State: 11625p1 + 15p2 + 11625p5 + 138375p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1230 ....
+At time: 101475,  Enabled transitions are:    tVISIT
+At time: 101475,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 101490   **
+State: 1231
+Fired Transition: tVISIT
+Current State: 11400p1 + 15p3 + 225p4 + 11625p5 + 138375p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1231 ....
+At time: 101490,  Enabled transitions are:    tVACCINATION
+At time: 101490,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 101640   **
+State: 1232
+Fired Transition: tVACCINATION
+Current State: 11400p1 + 15p2 + 11400p5 + 138600p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1232 ....
+At time: 101640,  Enabled transitions are:    tVISIT
+At time: 101640,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 101655   **
+State: 1233
+Fired Transition: tVISIT
+Current State: 11175p1 + 15p3 + 225p4 + 11400p5 + 138600p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1233 ....
+At time: 101655,  Enabled transitions are:    tVACCINATION
+At time: 101655,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 101805   **
+State: 1234
+Fired Transition: tVACCINATION
+Current State: 11175p1 + 15p2 + 11175p5 + 138825p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1234 ....
+At time: 101805,  Enabled transitions are:    tVISIT
+At time: 101805,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 101820   **
+State: 1235
+Fired Transition: tVISIT
+Current State: 10950p1 + 15p3 + 225p4 + 11175p5 + 138825p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1235 ....
+At time: 101820,  Enabled transitions are:    tVACCINATION
+At time: 101820,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 101970   **
+State: 1236
+Fired Transition: tVACCINATION
+Current State: 10950p1 + 15p2 + 10950p5 + 139050p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1236 ....
+At time: 101970,  Enabled transitions are:    tVISIT
+At time: 101970,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 101985   **
+State: 1237
+Fired Transition: tVISIT
+Current State: 10725p1 + 15p3 + 225p4 + 10950p5 + 139050p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1237 ....
+At time: 101985,  Enabled transitions are:    tVACCINATION
+At time: 101985,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 102135   **
+State: 1238
+Fired Transition: tVACCINATION
+Current State: 10725p1 + 15p2 + 10725p5 + 139275p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1238 ....
+At time: 102135,  Enabled transitions are:    tVISIT
+At time: 102135,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 102150   **
+State: 1239
+Fired Transition: tVISIT
+Current State: 10500p1 + 15p3 + 225p4 + 10725p5 + 139275p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1239 ....
+At time: 102150,  Enabled transitions are:    tVACCINATION
+At time: 102150,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 102300   **
+State: 1240
+Fired Transition: tVACCINATION
+Current State: 10500p1 + 15p2 + 10500p5 + 139500p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1240 ....
+At time: 102300,  Enabled transitions are:    tVISIT
+At time: 102300,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 102315   **
+State: 1241
+Fired Transition: tVISIT
+Current State: 10275p1 + 15p3 + 225p4 + 10500p5 + 139500p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1241 ....
+At time: 102315,  Enabled transitions are:    tVACCINATION
+At time: 102315,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 102465   **
+State: 1242
+Fired Transition: tVACCINATION
+Current State: 10275p1 + 15p2 + 10275p5 + 139725p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1242 ....
+At time: 102465,  Enabled transitions are:    tVISIT
+At time: 102465,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 102480   **
+State: 1243
+Fired Transition: tVISIT
+Current State: 10050p1 + 15p3 + 225p4 + 10275p5 + 139725p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1243 ....
+At time: 102480,  Enabled transitions are:    tVACCINATION
+At time: 102480,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 102630   **
+State: 1244
+Fired Transition: tVACCINATION
+Current State: 10050p1 + 15p2 + 10050p5 + 139950p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1244 ....
+At time: 102630,  Enabled transitions are:    tVISIT
+At time: 102630,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 102645   **
+State: 1245
+Fired Transition: tVISIT
+Current State: 9825p1 + 15p3 + 225p4 + 10050p5 + 139950p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1245 ....
+At time: 102645,  Enabled transitions are:    tVACCINATION
+At time: 102645,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 102795   **
+State: 1246
+Fired Transition: tVACCINATION
+Current State: 9825p1 + 15p2 + 9825p5 + 140175p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1246 ....
+At time: 102795,  Enabled transitions are:    tVISIT
+At time: 102795,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 102810   **
+State: 1247
+Fired Transition: tVISIT
+Current State: 9600p1 + 15p3 + 225p4 + 9825p5 + 140175p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1247 ....
+At time: 102810,  Enabled transitions are:    tVACCINATION
+At time: 102810,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 102960   **
+State: 1248
+Fired Transition: tVACCINATION
+Current State: 9600p1 + 15p2 + 9600p5 + 140400p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1248 ....
+At time: 102960,  Enabled transitions are:    tVISIT
+At time: 102960,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 102975   **
+State: 1249
+Fired Transition: tVISIT
+Current State: 9375p1 + 15p3 + 225p4 + 9600p5 + 140400p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1249 ....
+At time: 102975,  Enabled transitions are:    tVACCINATION
+At time: 102975,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 103125   **
+State: 1250
+Fired Transition: tVACCINATION
+Current State: 9375p1 + 15p2 + 9375p5 + 140625p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1250 ....
+At time: 103125,  Enabled transitions are:    tVISIT
+At time: 103125,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 103140   **
+State: 1251
+Fired Transition: tVISIT
+Current State: 9150p1 + 15p3 + 225p4 + 9375p5 + 140625p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1251 ....
+At time: 103140,  Enabled transitions are:    tVACCINATION
+At time: 103140,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 103290   **
+State: 1252
+Fired Transition: tVACCINATION
+Current State: 9150p1 + 15p2 + 9150p5 + 140850p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1252 ....
+At time: 103290,  Enabled transitions are:    tVISIT
+At time: 103290,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 103305   **
+State: 1253
+Fired Transition: tVISIT
+Current State: 8925p1 + 15p3 + 225p4 + 9150p5 + 140850p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1253 ....
+At time: 103305,  Enabled transitions are:    tVACCINATION
+At time: 103305,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 103455   **
+State: 1254
+Fired Transition: tVACCINATION
+Current State: 8925p1 + 15p2 + 8925p5 + 141075p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1254 ....
+At time: 103455,  Enabled transitions are:    tVISIT
+At time: 103455,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 103470   **
+State: 1255
+Fired Transition: tVISIT
+Current State: 8700p1 + 15p3 + 225p4 + 8925p5 + 141075p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1255 ....
+At time: 103470,  Enabled transitions are:    tVACCINATION
+At time: 103470,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 103620   **
+State: 1256
+Fired Transition: tVACCINATION
+Current State: 8700p1 + 15p2 + 8700p5 + 141300p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1256 ....
+At time: 103620,  Enabled transitions are:    tVISIT
+At time: 103620,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 103635   **
+State: 1257
+Fired Transition: tVISIT
+Current State: 8475p1 + 15p3 + 225p4 + 8700p5 + 141300p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1257 ....
+At time: 103635,  Enabled transitions are:    tVACCINATION
+At time: 103635,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 103785   **
+State: 1258
+Fired Transition: tVACCINATION
+Current State: 8475p1 + 15p2 + 8475p5 + 141525p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1258 ....
+At time: 103785,  Enabled transitions are:    tVISIT
+At time: 103785,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 103800   **
+State: 1259
+Fired Transition: tVISIT
+Current State: 8250p1 + 15p3 + 225p4 + 8475p5 + 141525p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1259 ....
+At time: 103800,  Enabled transitions are:    tVACCINATION
+At time: 103800,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 103950   **
+State: 1260
+Fired Transition: tVACCINATION
+Current State: 8250p1 + 15p2 + 8250p5 + 141750p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1260 ....
+At time: 103950,  Enabled transitions are:    tVISIT
+At time: 103950,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 103965   **
+State: 1261
+Fired Transition: tVISIT
+Current State: 8025p1 + 15p3 + 225p4 + 8250p5 + 141750p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1261 ....
+At time: 103965,  Enabled transitions are:    tVACCINATION
+At time: 103965,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 104115   **
+State: 1262
+Fired Transition: tVACCINATION
+Current State: 8025p1 + 15p2 + 8025p5 + 141975p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1262 ....
+At time: 104115,  Enabled transitions are:    tVISIT
+At time: 104115,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 104130   **
+State: 1263
+Fired Transition: tVISIT
+Current State: 7800p1 + 15p3 + 225p4 + 8025p5 + 141975p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1263 ....
+At time: 104130,  Enabled transitions are:    tVACCINATION
+At time: 104130,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 104280   **
+State: 1264
+Fired Transition: tVACCINATION
+Current State: 7800p1 + 15p2 + 7800p5 + 142200p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1264 ....
+At time: 104280,  Enabled transitions are:    tVISIT
+At time: 104280,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 104295   **
+State: 1265
+Fired Transition: tVISIT
+Current State: 7575p1 + 15p3 + 225p4 + 7800p5 + 142200p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1265 ....
+At time: 104295,  Enabled transitions are:    tVACCINATION
+At time: 104295,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 104445   **
+State: 1266
+Fired Transition: tVACCINATION
+Current State: 7575p1 + 15p2 + 7575p5 + 142425p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1266 ....
+At time: 104445,  Enabled transitions are:    tVISIT
+At time: 104445,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 104460   **
+State: 1267
+Fired Transition: tVISIT
+Current State: 7350p1 + 15p3 + 225p4 + 7575p5 + 142425p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1267 ....
+At time: 104460,  Enabled transitions are:    tVACCINATION
+At time: 104460,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 104610   **
+State: 1268
+Fired Transition: tVACCINATION
+Current State: 7350p1 + 15p2 + 7350p5 + 142650p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1268 ....
+At time: 104610,  Enabled transitions are:    tVISIT
+At time: 104610,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 104625   **
+State: 1269
+Fired Transition: tVISIT
+Current State: 7125p1 + 15p3 + 225p4 + 7350p5 + 142650p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1269 ....
+At time: 104625,  Enabled transitions are:    tVACCINATION
+At time: 104625,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 104775   **
+State: 1270
+Fired Transition: tVACCINATION
+Current State: 7125p1 + 15p2 + 7125p5 + 142875p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1270 ....
+At time: 104775,  Enabled transitions are:    tVISIT
+At time: 104775,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 104790   **
+State: 1271
+Fired Transition: tVISIT
+Current State: 6900p1 + 15p3 + 225p4 + 7125p5 + 142875p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1271 ....
+At time: 104790,  Enabled transitions are:    tVACCINATION
+At time: 104790,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 104940   **
+State: 1272
+Fired Transition: tVACCINATION
+Current State: 6900p1 + 15p2 + 6900p5 + 143100p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1272 ....
+At time: 104940,  Enabled transitions are:    tVISIT
+At time: 104940,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 104955   **
+State: 1273
+Fired Transition: tVISIT
+Current State: 6675p1 + 15p3 + 225p4 + 6900p5 + 143100p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1273 ....
+At time: 104955,  Enabled transitions are:    tVACCINATION
+At time: 104955,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 105105   **
+State: 1274
+Fired Transition: tVACCINATION
+Current State: 6675p1 + 15p2 + 6675p5 + 143325p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1274 ....
+At time: 105105,  Enabled transitions are:    tVISIT
+At time: 105105,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 105120   **
+State: 1275
+Fired Transition: tVISIT
+Current State: 6450p1 + 15p3 + 225p4 + 6675p5 + 143325p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1275 ....
+At time: 105120,  Enabled transitions are:    tVACCINATION
+At time: 105120,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 105270   **
+State: 1276
+Fired Transition: tVACCINATION
+Current State: 6450p1 + 15p2 + 6450p5 + 143550p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1276 ....
+At time: 105270,  Enabled transitions are:    tVISIT
+At time: 105270,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 105285   **
+State: 1277
+Fired Transition: tVISIT
+Current State: 6225p1 + 15p3 + 225p4 + 6450p5 + 143550p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1277 ....
+At time: 105285,  Enabled transitions are:    tVACCINATION
+At time: 105285,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 105435   **
+State: 1278
+Fired Transition: tVACCINATION
+Current State: 6225p1 + 15p2 + 6225p5 + 143775p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1278 ....
+At time: 105435,  Enabled transitions are:    tVISIT
+At time: 105435,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 105450   **
+State: 1279
+Fired Transition: tVISIT
+Current State: 6000p1 + 15p3 + 225p4 + 6225p5 + 143775p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1279 ....
+At time: 105450,  Enabled transitions are:    tVACCINATION
+At time: 105450,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 105600   **
+State: 1280
+Fired Transition: tVACCINATION
+Current State: 6000p1 + 15p2 + 6000p5 + 144000p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1280 ....
+At time: 105600,  Enabled transitions are:    tVISIT
+At time: 105600,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 105615   **
+State: 1281
+Fired Transition: tVISIT
+Current State: 5775p1 + 15p3 + 225p4 + 6000p5 + 144000p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1281 ....
+At time: 105615,  Enabled transitions are:    tVACCINATION
+At time: 105615,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 105765   **
+State: 1282
+Fired Transition: tVACCINATION
+Current State: 5775p1 + 15p2 + 5775p5 + 144225p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1282 ....
+At time: 105765,  Enabled transitions are:    tVISIT
+At time: 105765,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 105780   **
+State: 1283
+Fired Transition: tVISIT
+Current State: 5550p1 + 15p3 + 225p4 + 5775p5 + 144225p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1283 ....
+At time: 105780,  Enabled transitions are:    tVACCINATION
+At time: 105780,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 105930   **
+State: 1284
+Fired Transition: tVACCINATION
+Current State: 5550p1 + 15p2 + 5550p5 + 144450p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1284 ....
+At time: 105930,  Enabled transitions are:    tVISIT
+At time: 105930,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 105945   **
+State: 1285
+Fired Transition: tVISIT
+Current State: 5325p1 + 15p3 + 225p4 + 5550p5 + 144450p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1285 ....
+At time: 105945,  Enabled transitions are:    tVACCINATION
+At time: 105945,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 106095   **
+State: 1286
+Fired Transition: tVACCINATION
+Current State: 5325p1 + 15p2 + 5325p5 + 144675p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1286 ....
+At time: 106095,  Enabled transitions are:    tVISIT
+At time: 106095,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 106110   **
+State: 1287
+Fired Transition: tVISIT
+Current State: 5100p1 + 15p3 + 225p4 + 5325p5 + 144675p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1287 ....
+At time: 106110,  Enabled transitions are:    tVACCINATION
+At time: 106110,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 106260   **
+State: 1288
+Fired Transition: tVACCINATION
+Current State: 5100p1 + 15p2 + 5100p5 + 144900p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1288 ....
+At time: 106260,  Enabled transitions are:    tVISIT
+At time: 106260,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 106275   **
+State: 1289
+Fired Transition: tVISIT
+Current State: 4875p1 + 15p3 + 225p4 + 5100p5 + 144900p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1289 ....
+At time: 106275,  Enabled transitions are:    tVACCINATION
+At time: 106275,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 106425   **
+State: 1290
+Fired Transition: tVACCINATION
+Current State: 4875p1 + 15p2 + 4875p5 + 145125p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1290 ....
+At time: 106425,  Enabled transitions are:    tVISIT
+At time: 106425,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 106440   **
+State: 1291
+Fired Transition: tVISIT
+Current State: 4650p1 + 15p3 + 225p4 + 4875p5 + 145125p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1291 ....
+At time: 106440,  Enabled transitions are:    tVACCINATION
+At time: 106440,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 106590   **
+State: 1292
+Fired Transition: tVACCINATION
+Current State: 4650p1 + 15p2 + 4650p5 + 145350p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1292 ....
+At time: 106590,  Enabled transitions are:    tVISIT
+At time: 106590,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 106605   **
+State: 1293
+Fired Transition: tVISIT
+Current State: 4425p1 + 15p3 + 225p4 + 4650p5 + 145350p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1293 ....
+At time: 106605,  Enabled transitions are:    tVACCINATION
+At time: 106605,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 106755   **
+State: 1294
+Fired Transition: tVACCINATION
+Current State: 4425p1 + 15p2 + 4425p5 + 145575p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1294 ....
+At time: 106755,  Enabled transitions are:    tVISIT
+At time: 106755,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 106770   **
+State: 1295
+Fired Transition: tVISIT
+Current State: 4200p1 + 15p3 + 225p4 + 4425p5 + 145575p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1295 ....
+At time: 106770,  Enabled transitions are:    tVACCINATION
+At time: 106770,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 106920   **
+State: 1296
+Fired Transition: tVACCINATION
+Current State: 4200p1 + 15p2 + 4200p5 + 145800p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1296 ....
+At time: 106920,  Enabled transitions are:    tVISIT
+At time: 106920,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 106935   **
+State: 1297
+Fired Transition: tVISIT
+Current State: 3975p1 + 15p3 + 225p4 + 4200p5 + 145800p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1297 ....
+At time: 106935,  Enabled transitions are:    tVACCINATION
+At time: 106935,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 107085   **
+State: 1298
+Fired Transition: tVACCINATION
+Current State: 3975p1 + 15p2 + 3975p5 + 146025p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1298 ....
+At time: 107085,  Enabled transitions are:    tVISIT
+At time: 107085,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 107100   **
+State: 1299
+Fired Transition: tVISIT
+Current State: 3750p1 + 15p3 + 225p4 + 3975p5 + 146025p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1299 ....
+At time: 107100,  Enabled transitions are:    tVACCINATION
+At time: 107100,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 107250   **
+State: 1300
+Fired Transition: tVACCINATION
+Current State: 3750p1 + 15p2 + 3750p5 + 146250p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1300 ....
+At time: 107250,  Enabled transitions are:    tVISIT
+At time: 107250,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 107265   **
+State: 1301
+Fired Transition: tVISIT
+Current State: 3525p1 + 15p3 + 225p4 + 3750p5 + 146250p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1301 ....
+At time: 107265,  Enabled transitions are:    tVACCINATION
+At time: 107265,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 107415   **
+State: 1302
+Fired Transition: tVACCINATION
+Current State: 3525p1 + 15p2 + 3525p5 + 146475p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1302 ....
+At time: 107415,  Enabled transitions are:    tVISIT
+At time: 107415,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 107430   **
+State: 1303
+Fired Transition: tVISIT
+Current State: 3300p1 + 15p3 + 225p4 + 3525p5 + 146475p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1303 ....
+At time: 107430,  Enabled transitions are:    tVACCINATION
+At time: 107430,  Firing transitions are:     tVACCINATION
+ 
+ 
+**    Time: 107580   **
+State: 1304
+Fired Transition: tVACCINATION
+Current State: 3300p1 + 15p2 + 3300p5 + 146700p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1304 ....
+At time: 107580,  Enabled transitions are:    tVISIT
+At time: 107580,  Firing transitions are:     tVISIT
+ 
+ 
+**    Time: 107595   **
+State: 1305
+Fired Transition: tVISIT
+Current State: 3075p1 + 15p3 + 225p4 + 3300p5 + 146700p6   
+Virtual tokens: (no tokens)
+ 
+Right after new state-1305 ....
+At time: 107595,  Enabled transitions are:    tVACCINATION
+At time: 107595,  Firing transitions are:     tVACCINATION
+ 
+ 
+ 
+ 
+Occupancy analysis .... 
+Simulation Completion Time: 107606.25
+occupancy tVACCINATION: 
+  total time: 97800
+  Percentage time: 90.8869%
+occupancy tVISIT: 
+  total time: 9795
+  Percentage time: 9.1026%
+>> 

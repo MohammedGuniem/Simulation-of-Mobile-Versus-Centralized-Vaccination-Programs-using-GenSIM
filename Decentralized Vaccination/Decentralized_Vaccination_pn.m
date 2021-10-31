@@ -4,9 +4,9 @@ clear all;
 clc;
 
 global global_info
-% Change the MAX_LOOP to 150*200 if you want to make a full run for the
+% Change the MAX_LOOP to 150*250 if you want to make a full run for the
 % 150 000 residents of Stavanger.
-global_info.MAX_LOOP = 150*200; % Stoping after several steps
+global_info.MAX_LOOP = 150*225; % Stoping after several steps
 
 pns = pnstruct('Decentralized_Vaccination_pn_pdf');
 
