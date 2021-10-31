@@ -6,13 +6,13 @@ clc;
 global global_info
 % Change the MAX_LOOP to 150*200 if you want to make a full run for the
 % 150 000 residents of Stavanger.
-global_info.MAX_LOOP = 200; % Stoping after several steps
+global_info.MAX_LOOP = 150*200; % Stoping after several steps
 
 pns = pnstruct('Decentralized_Vaccination_pn_pdf');
 
 %Change to 150000 to simulate full run of the 150 000 residents of
 %Stavanger.
-num_of_residents = 900 
+num_of_residents = 150000
 
 % Assuming we have enough vaccines to everybody.
 num_of_vaccines = num_of_residents
