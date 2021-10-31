@@ -1,17 +1,17 @@
 *** Decentralized Estimation and Simulation Analysis ***
 
--> To vaccinate 900 residents, the simulation to 660 time units (minutes)
+-> To vaccinate 900 residents, the simulation to 821.25 time units (minutes)
 
--> It can then be estimated to take (660)/(900) = 0,74 minutes to vaccinate one resident.
--> To vaccinate all residents can be estimated to take 150 000 * 0,74 = 111 000 minutes
--> 111 000 work minutes = 1 850 work hours = 77 days
+-> It can then be estimated to take (821.25)/(900) = 0,9125 minutes to vaccinate one resident.
+-> To vaccinate all residents can be estimated to take 150 000 * 0,9125 = 136 875 minutes
+-> 136 875 work minutes = 2 282 work hours = 96 days
 
 -> But every staff and/or health worker can only work 8 hours a day
--> 111 000 work minutes = 1 850 work hours = 232 work days
+-> 136 875 work minutes = 2 282 work hours = 286 work days
 
 ------------------------------------
-After a full run of the 150 000 residents of Stavanger, the simulation took 107606.25 time units (minutes)
--> 107606.25 work minutes = 1 811 work hours = 76 days
+After a full run of the 150 000 residents of Stavanger, the simulation took 122812.5 time units (minutes)
+-> 122812.5 work minutes = 2 047 work hours = 86 days
 
 -> But every staff and/or health worker can only work 8 hours a day
--> 107606.25 work minutes = 1 811 work hours = 227 days
+-> 122812.5 work minutes = 2 047 work hours = 256 days
