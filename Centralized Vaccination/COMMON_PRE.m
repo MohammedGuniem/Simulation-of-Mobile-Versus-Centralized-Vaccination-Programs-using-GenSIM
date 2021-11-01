@@ -1,11 +1,12 @@
 function [fire, transition] = COMMON_PRE(transition)
 
-    if strcmp(transition.name, 'tREGISTRATION'),
-        granted = requestSR({'Staff',15});
-    elseif strcmp(transition.name, 'tVACCINATION'),
-        granted = requestSR({'Health_Workers',15});
-    elseif strcmp(transition.name, 'tWAITING'),
-        granted = requestSR({'Waiting_Rooms', 30});
+    switch transition.name
+        case 'tREGISTRATION'
+            granted = requestSR({'Staff',1});
+        case 'tVACCINATION'
+            granted = requestSR({'Health_Workers',1});
+        case 'tWAITING'
+            granted = requestSR({'Waiting_Rooms', 1});
     end
 
 % fire only if resource acquired 
