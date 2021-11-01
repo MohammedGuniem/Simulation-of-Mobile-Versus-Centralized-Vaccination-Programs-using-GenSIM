@@ -5,7 +5,7 @@ function [fire, transition] = COMMON_PRE(transition)
     elseif strcmp(transition.name, 'tVACCINATION'),
         granted = requestSR({'Health_Workers',15});
     elseif strcmp(transition.name, 'tWAITING'),
-        granted = requestSR({'Waiting_Rooms',30});
+        granted = requestSR({'Waiting_Rooms', 30});
     end
 
 % fire only if resource acquired 

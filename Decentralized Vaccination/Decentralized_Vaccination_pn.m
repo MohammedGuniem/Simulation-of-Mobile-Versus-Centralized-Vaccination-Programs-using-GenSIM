@@ -12,7 +12,7 @@ pns = pnstruct('Decentralized_Vaccination_pn_pdf');
 
 %Change to 150000 to simulate full run of the 150 000 residents of
 %Stavanger.
-num_of_residents = 900
+num_of_residents = 1125
 
 % Assuming we have enough vaccines to everybody.
 num_of_vaccines = num_of_residents
@@ -22,7 +22,7 @@ num_of_health_workers = 15
 
 % initial tokens
 dyn.m0 = {'p1',num_of_residents, 'p2',num_of_health_workers, 'p3',0, 'p4',0, 'p5',num_of_vaccines, 'p6',0};
-dyn.ft = {'tVISIT', 15, 'tVACCINATION',20*10};
+dyn.ft = {'tVISIT', 15, 'tVACCINATION',25*10};
 dyn.re = {'Vehichles',15,inf}; 
 
 pni = initialdynamics(pns, dyn);

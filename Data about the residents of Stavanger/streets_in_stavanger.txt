@@ -1,0 +1,7 @@
+https://www.stavanger.kommune.no/om-stavanger-kommune/apne-data/
+
+https://open.stavanger.kommune.no/dataset?q=gate
+
+https://open.stavanger.kommune.no/dataset/gatenavn-stavanger
+
+https://opencom.no/dataset/f8a068b3-df7c-4293-8ff5-40ca9148b07f/resource/6e497636-241f-42c4-adff-ef2f95b7fb56/download/gatenavn.json
