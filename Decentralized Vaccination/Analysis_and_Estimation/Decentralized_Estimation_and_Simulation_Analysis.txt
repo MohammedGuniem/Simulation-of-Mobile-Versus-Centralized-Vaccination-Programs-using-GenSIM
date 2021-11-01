@@ -4,13 +4,11 @@
 
 -> It can then be estimated to take (821.25)/(1125) = 0,73 minutes to vaccinate one resident.
 -> To vaccinate all residents can be estimated to take 150 000 * 0,73 = 109 500 minutes
--> and every staff and/or health worker can only work 7,5 hours a day
+-> And every staff and/or health worker can only work 7,5 hours a day
 -> 109 500 work minutes (/60) = 1 825 work hours (/7,5) = 244 work days
 
 
 ------------------------------------
 After a full run of the 150 000 residents of Stavanger, the simulation took ?????? time units (minutes)
--> ?????? work minutes = ?????? work hours = ?????? days
-
--> But every staff and/or health worker can only work 7,5 hours a day
+-> And every staff and/or health worker can only work 7,5 hours a day
 -> ?????? work minutes = ?????? work hours = ?????? days
