@@ -1,0 +1,5023 @@
+At time: 136375,  Enabled transitions are:    tWAITING
+At time: 136375,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 136405   **
+State: 24546
+Fired Transition: tWAITING
+Current State: 13620p3 + 136380p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24546 ....
+At time: 136405,  Enabled transitions are:    tWAITING
+At time: 136405,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 136435   **
+State: 24547
+Fired Transition: tWAITING
+Current State: 13590p3 + 136410p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24547 ....
+At time: 136435,  Enabled transitions are:    tWAITING
+At time: 136435,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 136465   **
+State: 24548
+Fired Transition: tWAITING
+Current State: 13560p3 + 136440p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24548 ....
+At time: 136465,  Enabled transitions are:    tWAITING
+At time: 136465,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 136495   **
+State: 24549
+Fired Transition: tWAITING
+Current State: 13530p3 + 136470p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24549 ....
+At time: 136495,  Enabled transitions are:    tWAITING
+At time: 136495,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 136525   **
+State: 24550
+Fired Transition: tWAITING
+Current State: 13500p3 + 136500p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24550 ....
+At time: 136525,  Enabled transitions are:    tWAITING
+At time: 136525,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 136555   **
+State: 24551
+Fired Transition: tWAITING
+Current State: 13470p3 + 136530p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24551 ....
+At time: 136555,  Enabled transitions are:    tWAITING
+At time: 136555,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 136585   **
+State: 24552
+Fired Transition: tWAITING
+Current State: 13440p3 + 136560p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24552 ....
+At time: 136585,  Enabled transitions are:    tWAITING
+At time: 136585,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 136615   **
+State: 24553
+Fired Transition: tWAITING
+Current State: 13410p3 + 136590p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24553 ....
+At time: 136615,  Enabled transitions are:    tWAITING
+At time: 136615,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 136645   **
+State: 24554
+Fired Transition: tWAITING
+Current State: 13380p3 + 136620p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24554 ....
+At time: 136645,  Enabled transitions are:    tWAITING
+At time: 136645,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 136675   **
+State: 24555
+Fired Transition: tWAITING
+Current State: 13350p3 + 136650p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24555 ....
+At time: 136675,  Enabled transitions are:    tWAITING
+At time: 136675,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 136705   **
+State: 24556
+Fired Transition: tWAITING
+Current State: 13320p3 + 136680p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24556 ....
+At time: 136705,  Enabled transitions are:    tWAITING
+At time: 136705,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 136735   **
+State: 24557
+Fired Transition: tWAITING
+Current State: 13290p3 + 136710p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24557 ....
+At time: 136735,  Enabled transitions are:    tWAITING
+At time: 136735,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 136765   **
+State: 24558
+Fired Transition: tWAITING
+Current State: 13260p3 + 136740p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24558 ....
+At time: 136765,  Enabled transitions are:    tWAITING
+At time: 136765,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 136795   **
+State: 24559
+Fired Transition: tWAITING
+Current State: 13230p3 + 136770p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24559 ....
+At time: 136795,  Enabled transitions are:    tWAITING
+At time: 136795,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 136825   **
+State: 24560
+Fired Transition: tWAITING
+Current State: 13200p3 + 136800p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24560 ....
+At time: 136825,  Enabled transitions are:    tWAITING
+At time: 136825,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 136855   **
+State: 24561
+Fired Transition: tWAITING
+Current State: 13170p3 + 136830p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24561 ....
+At time: 136855,  Enabled transitions are:    tWAITING
+At time: 136855,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 136885   **
+State: 24562
+Fired Transition: tWAITING
+Current State: 13140p3 + 136860p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24562 ....
+At time: 136885,  Enabled transitions are:    tWAITING
+At time: 136885,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 136915   **
+State: 24563
+Fired Transition: tWAITING
+Current State: 13110p3 + 136890p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24563 ....
+At time: 136915,  Enabled transitions are:    tWAITING
+At time: 136915,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 136945   **
+State: 24564
+Fired Transition: tWAITING
+Current State: 13080p3 + 136920p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24564 ....
+At time: 136945,  Enabled transitions are:    tWAITING
+At time: 136945,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 136975   **
+State: 24565
+Fired Transition: tWAITING
+Current State: 13050p3 + 136950p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24565 ....
+At time: 136975,  Enabled transitions are:    tWAITING
+At time: 136975,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137005   **
+State: 24566
+Fired Transition: tWAITING
+Current State: 13020p3 + 136980p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24566 ....
+At time: 137005,  Enabled transitions are:    tWAITING
+At time: 137005,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137035   **
+State: 24567
+Fired Transition: tWAITING
+Current State: 12990p3 + 137010p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24567 ....
+At time: 137035,  Enabled transitions are:    tWAITING
+At time: 137035,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137065   **
+State: 24568
+Fired Transition: tWAITING
+Current State: 12960p3 + 137040p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24568 ....
+At time: 137065,  Enabled transitions are:    tWAITING
+At time: 137065,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137095   **
+State: 24569
+Fired Transition: tWAITING
+Current State: 12930p3 + 137070p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24569 ....
+At time: 137095,  Enabled transitions are:    tWAITING
+At time: 137095,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137125   **
+State: 24570
+Fired Transition: tWAITING
+Current State: 12900p3 + 137100p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24570 ....
+At time: 137125,  Enabled transitions are:    tWAITING
+At time: 137125,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137155   **
+State: 24571
+Fired Transition: tWAITING
+Current State: 12870p3 + 137130p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24571 ....
+At time: 137155,  Enabled transitions are:    tWAITING
+At time: 137155,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137185   **
+State: 24572
+Fired Transition: tWAITING
+Current State: 12840p3 + 137160p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24572 ....
+At time: 137185,  Enabled transitions are:    tWAITING
+At time: 137185,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137215   **
+State: 24573
+Fired Transition: tWAITING
+Current State: 12810p3 + 137190p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24573 ....
+At time: 137215,  Enabled transitions are:    tWAITING
+At time: 137215,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137245   **
+State: 24574
+Fired Transition: tWAITING
+Current State: 12780p3 + 137220p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24574 ....
+At time: 137245,  Enabled transitions are:    tWAITING
+At time: 137245,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137275   **
+State: 24575
+Fired Transition: tWAITING
+Current State: 12750p3 + 137250p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24575 ....
+At time: 137275,  Enabled transitions are:    tWAITING
+At time: 137275,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137305   **
+State: 24576
+Fired Transition: tWAITING
+Current State: 12720p3 + 137280p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24576 ....
+At time: 137305,  Enabled transitions are:    tWAITING
+At time: 137305,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137335   **
+State: 24577
+Fired Transition: tWAITING
+Current State: 12690p3 + 137310p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24577 ....
+At time: 137335,  Enabled transitions are:    tWAITING
+At time: 137335,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137365   **
+State: 24578
+Fired Transition: tWAITING
+Current State: 12660p3 + 137340p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24578 ....
+At time: 137365,  Enabled transitions are:    tWAITING
+At time: 137365,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137395   **
+State: 24579
+Fired Transition: tWAITING
+Current State: 12630p3 + 137370p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24579 ....
+At time: 137395,  Enabled transitions are:    tWAITING
+At time: 137395,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137425   **
+State: 24580
+Fired Transition: tWAITING
+Current State: 12600p3 + 137400p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24580 ....
+At time: 137425,  Enabled transitions are:    tWAITING
+At time: 137425,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137455   **
+State: 24581
+Fired Transition: tWAITING
+Current State: 12570p3 + 137430p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24581 ....
+At time: 137455,  Enabled transitions are:    tWAITING
+At time: 137455,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137485   **
+State: 24582
+Fired Transition: tWAITING
+Current State: 12540p3 + 137460p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24582 ....
+At time: 137485,  Enabled transitions are:    tWAITING
+At time: 137485,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137515   **
+State: 24583
+Fired Transition: tWAITING
+Current State: 12510p3 + 137490p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24583 ....
+At time: 137515,  Enabled transitions are:    tWAITING
+At time: 137515,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137545   **
+State: 24584
+Fired Transition: tWAITING
+Current State: 12480p3 + 137520p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24584 ....
+At time: 137545,  Enabled transitions are:    tWAITING
+At time: 137545,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137575   **
+State: 24585
+Fired Transition: tWAITING
+Current State: 12450p3 + 137550p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24585 ....
+At time: 137575,  Enabled transitions are:    tWAITING
+At time: 137575,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137605   **
+State: 24586
+Fired Transition: tWAITING
+Current State: 12420p3 + 137580p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24586 ....
+At time: 137605,  Enabled transitions are:    tWAITING
+At time: 137605,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137635   **
+State: 24587
+Fired Transition: tWAITING
+Current State: 12390p3 + 137610p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24587 ....
+At time: 137635,  Enabled transitions are:    tWAITING
+At time: 137635,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137665   **
+State: 24588
+Fired Transition: tWAITING
+Current State: 12360p3 + 137640p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24588 ....
+At time: 137665,  Enabled transitions are:    tWAITING
+At time: 137665,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137695   **
+State: 24589
+Fired Transition: tWAITING
+Current State: 12330p3 + 137670p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24589 ....
+At time: 137695,  Enabled transitions are:    tWAITING
+At time: 137695,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137725   **
+State: 24590
+Fired Transition: tWAITING
+Current State: 12300p3 + 137700p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24590 ....
+At time: 137725,  Enabled transitions are:    tWAITING
+At time: 137725,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137755   **
+State: 24591
+Fired Transition: tWAITING
+Current State: 12270p3 + 137730p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24591 ....
+At time: 137755,  Enabled transitions are:    tWAITING
+At time: 137755,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137785   **
+State: 24592
+Fired Transition: tWAITING
+Current State: 12240p3 + 137760p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24592 ....
+At time: 137785,  Enabled transitions are:    tWAITING
+At time: 137785,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137815   **
+State: 24593
+Fired Transition: tWAITING
+Current State: 12210p3 + 137790p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24593 ....
+At time: 137815,  Enabled transitions are:    tWAITING
+At time: 137815,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137845   **
+State: 24594
+Fired Transition: tWAITING
+Current State: 12180p3 + 137820p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24594 ....
+At time: 137845,  Enabled transitions are:    tWAITING
+At time: 137845,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137875   **
+State: 24595
+Fired Transition: tWAITING
+Current State: 12150p3 + 137850p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24595 ....
+At time: 137875,  Enabled transitions are:    tWAITING
+At time: 137875,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137905   **
+State: 24596
+Fired Transition: tWAITING
+Current State: 12120p3 + 137880p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24596 ....
+At time: 137905,  Enabled transitions are:    tWAITING
+At time: 137905,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137935   **
+State: 24597
+Fired Transition: tWAITING
+Current State: 12090p3 + 137910p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24597 ....
+At time: 137935,  Enabled transitions are:    tWAITING
+At time: 137935,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137965   **
+State: 24598
+Fired Transition: tWAITING
+Current State: 12060p3 + 137940p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24598 ....
+At time: 137965,  Enabled transitions are:    tWAITING
+At time: 137965,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 137995   **
+State: 24599
+Fired Transition: tWAITING
+Current State: 12030p3 + 137970p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24599 ....
+At time: 137995,  Enabled transitions are:    tWAITING
+At time: 137995,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138025   **
+State: 24600
+Fired Transition: tWAITING
+Current State: 12000p3 + 138000p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24600 ....
+At time: 138025,  Enabled transitions are:    tWAITING
+At time: 138025,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138055   **
+State: 24601
+Fired Transition: tWAITING
+Current State: 11970p3 + 138030p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24601 ....
+At time: 138055,  Enabled transitions are:    tWAITING
+At time: 138055,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138085   **
+State: 24602
+Fired Transition: tWAITING
+Current State: 11940p3 + 138060p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24602 ....
+At time: 138085,  Enabled transitions are:    tWAITING
+At time: 138085,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138115   **
+State: 24603
+Fired Transition: tWAITING
+Current State: 11910p3 + 138090p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24603 ....
+At time: 138115,  Enabled transitions are:    tWAITING
+At time: 138115,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138145   **
+State: 24604
+Fired Transition: tWAITING
+Current State: 11880p3 + 138120p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24604 ....
+At time: 138145,  Enabled transitions are:    tWAITING
+At time: 138145,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138175   **
+State: 24605
+Fired Transition: tWAITING
+Current State: 11850p3 + 138150p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24605 ....
+At time: 138175,  Enabled transitions are:    tWAITING
+At time: 138175,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138205   **
+State: 24606
+Fired Transition: tWAITING
+Current State: 11820p3 + 138180p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24606 ....
+At time: 138205,  Enabled transitions are:    tWAITING
+At time: 138205,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138235   **
+State: 24607
+Fired Transition: tWAITING
+Current State: 11790p3 + 138210p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24607 ....
+At time: 138235,  Enabled transitions are:    tWAITING
+At time: 138235,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138265   **
+State: 24608
+Fired Transition: tWAITING
+Current State: 11760p3 + 138240p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24608 ....
+At time: 138265,  Enabled transitions are:    tWAITING
+At time: 138265,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138295   **
+State: 24609
+Fired Transition: tWAITING
+Current State: 11730p3 + 138270p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24609 ....
+At time: 138295,  Enabled transitions are:    tWAITING
+At time: 138295,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138325   **
+State: 24610
+Fired Transition: tWAITING
+Current State: 11700p3 + 138300p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24610 ....
+At time: 138325,  Enabled transitions are:    tWAITING
+At time: 138325,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138355   **
+State: 24611
+Fired Transition: tWAITING
+Current State: 11670p3 + 138330p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24611 ....
+At time: 138355,  Enabled transitions are:    tWAITING
+At time: 138355,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138385   **
+State: 24612
+Fired Transition: tWAITING
+Current State: 11640p3 + 138360p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24612 ....
+At time: 138385,  Enabled transitions are:    tWAITING
+At time: 138385,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138415   **
+State: 24613
+Fired Transition: tWAITING
+Current State: 11610p3 + 138390p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24613 ....
+At time: 138415,  Enabled transitions are:    tWAITING
+At time: 138415,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138445   **
+State: 24614
+Fired Transition: tWAITING
+Current State: 11580p3 + 138420p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24614 ....
+At time: 138445,  Enabled transitions are:    tWAITING
+At time: 138445,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138475   **
+State: 24615
+Fired Transition: tWAITING
+Current State: 11550p3 + 138450p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24615 ....
+At time: 138475,  Enabled transitions are:    tWAITING
+At time: 138475,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138505   **
+State: 24616
+Fired Transition: tWAITING
+Current State: 11520p3 + 138480p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24616 ....
+At time: 138505,  Enabled transitions are:    tWAITING
+At time: 138505,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138535   **
+State: 24617
+Fired Transition: tWAITING
+Current State: 11490p3 + 138510p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24617 ....
+At time: 138535,  Enabled transitions are:    tWAITING
+At time: 138535,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138565   **
+State: 24618
+Fired Transition: tWAITING
+Current State: 11460p3 + 138540p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24618 ....
+At time: 138565,  Enabled transitions are:    tWAITING
+At time: 138565,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138595   **
+State: 24619
+Fired Transition: tWAITING
+Current State: 11430p3 + 138570p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24619 ....
+At time: 138595,  Enabled transitions are:    tWAITING
+At time: 138595,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138625   **
+State: 24620
+Fired Transition: tWAITING
+Current State: 11400p3 + 138600p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24620 ....
+At time: 138625,  Enabled transitions are:    tWAITING
+At time: 138625,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138655   **
+State: 24621
+Fired Transition: tWAITING
+Current State: 11370p3 + 138630p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24621 ....
+At time: 138655,  Enabled transitions are:    tWAITING
+At time: 138655,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138685   **
+State: 24622
+Fired Transition: tWAITING
+Current State: 11340p3 + 138660p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24622 ....
+At time: 138685,  Enabled transitions are:    tWAITING
+At time: 138685,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138715   **
+State: 24623
+Fired Transition: tWAITING
+Current State: 11310p3 + 138690p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24623 ....
+At time: 138715,  Enabled transitions are:    tWAITING
+At time: 138715,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138745   **
+State: 24624
+Fired Transition: tWAITING
+Current State: 11280p3 + 138720p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24624 ....
+At time: 138745,  Enabled transitions are:    tWAITING
+At time: 138745,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138775   **
+State: 24625
+Fired Transition: tWAITING
+Current State: 11250p3 + 138750p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24625 ....
+At time: 138775,  Enabled transitions are:    tWAITING
+At time: 138775,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138805   **
+State: 24626
+Fired Transition: tWAITING
+Current State: 11220p3 + 138780p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24626 ....
+At time: 138805,  Enabled transitions are:    tWAITING
+At time: 138805,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138835   **
+State: 24627
+Fired Transition: tWAITING
+Current State: 11190p3 + 138810p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24627 ....
+At time: 138835,  Enabled transitions are:    tWAITING
+At time: 138835,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138865   **
+State: 24628
+Fired Transition: tWAITING
+Current State: 11160p3 + 138840p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24628 ....
+At time: 138865,  Enabled transitions are:    tWAITING
+At time: 138865,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138895   **
+State: 24629
+Fired Transition: tWAITING
+Current State: 11130p3 + 138870p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24629 ....
+At time: 138895,  Enabled transitions are:    tWAITING
+At time: 138895,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138925   **
+State: 24630
+Fired Transition: tWAITING
+Current State: 11100p3 + 138900p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24630 ....
+At time: 138925,  Enabled transitions are:    tWAITING
+At time: 138925,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138955   **
+State: 24631
+Fired Transition: tWAITING
+Current State: 11070p3 + 138930p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24631 ....
+At time: 138955,  Enabled transitions are:    tWAITING
+At time: 138955,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 138985   **
+State: 24632
+Fired Transition: tWAITING
+Current State: 11040p3 + 138960p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24632 ....
+At time: 138985,  Enabled transitions are:    tWAITING
+At time: 138985,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139015   **
+State: 24633
+Fired Transition: tWAITING
+Current State: 11010p3 + 138990p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24633 ....
+At time: 139015,  Enabled transitions are:    tWAITING
+At time: 139015,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139045   **
+State: 24634
+Fired Transition: tWAITING
+Current State: 10980p3 + 139020p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24634 ....
+At time: 139045,  Enabled transitions are:    tWAITING
+At time: 139045,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139075   **
+State: 24635
+Fired Transition: tWAITING
+Current State: 10950p3 + 139050p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24635 ....
+At time: 139075,  Enabled transitions are:    tWAITING
+At time: 139075,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139105   **
+State: 24636
+Fired Transition: tWAITING
+Current State: 10920p3 + 139080p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24636 ....
+At time: 139105,  Enabled transitions are:    tWAITING
+At time: 139105,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139135   **
+State: 24637
+Fired Transition: tWAITING
+Current State: 10890p3 + 139110p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24637 ....
+At time: 139135,  Enabled transitions are:    tWAITING
+At time: 139135,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139165   **
+State: 24638
+Fired Transition: tWAITING
+Current State: 10860p3 + 139140p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24638 ....
+At time: 139165,  Enabled transitions are:    tWAITING
+At time: 139165,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139195   **
+State: 24639
+Fired Transition: tWAITING
+Current State: 10830p3 + 139170p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24639 ....
+At time: 139195,  Enabled transitions are:    tWAITING
+At time: 139195,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139225   **
+State: 24640
+Fired Transition: tWAITING
+Current State: 10800p3 + 139200p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24640 ....
+At time: 139225,  Enabled transitions are:    tWAITING
+At time: 139225,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139255   **
+State: 24641
+Fired Transition: tWAITING
+Current State: 10770p3 + 139230p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24641 ....
+At time: 139255,  Enabled transitions are:    tWAITING
+At time: 139255,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139285   **
+State: 24642
+Fired Transition: tWAITING
+Current State: 10740p3 + 139260p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24642 ....
+At time: 139285,  Enabled transitions are:    tWAITING
+At time: 139285,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139315   **
+State: 24643
+Fired Transition: tWAITING
+Current State: 10710p3 + 139290p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24643 ....
+At time: 139315,  Enabled transitions are:    tWAITING
+At time: 139315,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139345   **
+State: 24644
+Fired Transition: tWAITING
+Current State: 10680p3 + 139320p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24644 ....
+At time: 139345,  Enabled transitions are:    tWAITING
+At time: 139345,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139375   **
+State: 24645
+Fired Transition: tWAITING
+Current State: 10650p3 + 139350p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24645 ....
+At time: 139375,  Enabled transitions are:    tWAITING
+At time: 139375,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139405   **
+State: 24646
+Fired Transition: tWAITING
+Current State: 10620p3 + 139380p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24646 ....
+At time: 139405,  Enabled transitions are:    tWAITING
+At time: 139405,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139435   **
+State: 24647
+Fired Transition: tWAITING
+Current State: 10590p3 + 139410p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24647 ....
+At time: 139435,  Enabled transitions are:    tWAITING
+At time: 139435,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139465   **
+State: 24648
+Fired Transition: tWAITING
+Current State: 10560p3 + 139440p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24648 ....
+At time: 139465,  Enabled transitions are:    tWAITING
+At time: 139465,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139495   **
+State: 24649
+Fired Transition: tWAITING
+Current State: 10530p3 + 139470p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24649 ....
+At time: 139495,  Enabled transitions are:    tWAITING
+At time: 139495,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139525   **
+State: 24650
+Fired Transition: tWAITING
+Current State: 10500p3 + 139500p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24650 ....
+At time: 139525,  Enabled transitions are:    tWAITING
+At time: 139525,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139555   **
+State: 24651
+Fired Transition: tWAITING
+Current State: 10470p3 + 139530p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24651 ....
+At time: 139555,  Enabled transitions are:    tWAITING
+At time: 139555,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139585   **
+State: 24652
+Fired Transition: tWAITING
+Current State: 10440p3 + 139560p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24652 ....
+At time: 139585,  Enabled transitions are:    tWAITING
+At time: 139585,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139615   **
+State: 24653
+Fired Transition: tWAITING
+Current State: 10410p3 + 139590p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24653 ....
+At time: 139615,  Enabled transitions are:    tWAITING
+At time: 139615,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139645   **
+State: 24654
+Fired Transition: tWAITING
+Current State: 10380p3 + 139620p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24654 ....
+At time: 139645,  Enabled transitions are:    tWAITING
+At time: 139645,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139675   **
+State: 24655
+Fired Transition: tWAITING
+Current State: 10350p3 + 139650p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24655 ....
+At time: 139675,  Enabled transitions are:    tWAITING
+At time: 139675,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139705   **
+State: 24656
+Fired Transition: tWAITING
+Current State: 10320p3 + 139680p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24656 ....
+At time: 139705,  Enabled transitions are:    tWAITING
+At time: 139705,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139735   **
+State: 24657
+Fired Transition: tWAITING
+Current State: 10290p3 + 139710p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24657 ....
+At time: 139735,  Enabled transitions are:    tWAITING
+At time: 139735,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139765   **
+State: 24658
+Fired Transition: tWAITING
+Current State: 10260p3 + 139740p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24658 ....
+At time: 139765,  Enabled transitions are:    tWAITING
+At time: 139765,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139795   **
+State: 24659
+Fired Transition: tWAITING
+Current State: 10230p3 + 139770p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24659 ....
+At time: 139795,  Enabled transitions are:    tWAITING
+At time: 139795,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139825   **
+State: 24660
+Fired Transition: tWAITING
+Current State: 10200p3 + 139800p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24660 ....
+At time: 139825,  Enabled transitions are:    tWAITING
+At time: 139825,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139855   **
+State: 24661
+Fired Transition: tWAITING
+Current State: 10170p3 + 139830p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24661 ....
+At time: 139855,  Enabled transitions are:    tWAITING
+At time: 139855,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139885   **
+State: 24662
+Fired Transition: tWAITING
+Current State: 10140p3 + 139860p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24662 ....
+At time: 139885,  Enabled transitions are:    tWAITING
+At time: 139885,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139915   **
+State: 24663
+Fired Transition: tWAITING
+Current State: 10110p3 + 139890p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24663 ....
+At time: 139915,  Enabled transitions are:    tWAITING
+At time: 139915,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139945   **
+State: 24664
+Fired Transition: tWAITING
+Current State: 10080p3 + 139920p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24664 ....
+At time: 139945,  Enabled transitions are:    tWAITING
+At time: 139945,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 139975   **
+State: 24665
+Fired Transition: tWAITING
+Current State: 10050p3 + 139950p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24665 ....
+At time: 139975,  Enabled transitions are:    tWAITING
+At time: 139975,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140005   **
+State: 24666
+Fired Transition: tWAITING
+Current State: 10020p3 + 139980p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24666 ....
+At time: 140005,  Enabled transitions are:    tWAITING
+At time: 140005,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140035   **
+State: 24667
+Fired Transition: tWAITING
+Current State: 9990p3 + 140010p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24667 ....
+At time: 140035,  Enabled transitions are:    tWAITING
+At time: 140035,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140065   **
+State: 24668
+Fired Transition: tWAITING
+Current State: 9960p3 + 140040p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24668 ....
+At time: 140065,  Enabled transitions are:    tWAITING
+At time: 140065,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140095   **
+State: 24669
+Fired Transition: tWAITING
+Current State: 9930p3 + 140070p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24669 ....
+At time: 140095,  Enabled transitions are:    tWAITING
+At time: 140095,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140125   **
+State: 24670
+Fired Transition: tWAITING
+Current State: 9900p3 + 140100p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24670 ....
+At time: 140125,  Enabled transitions are:    tWAITING
+At time: 140125,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140155   **
+State: 24671
+Fired Transition: tWAITING
+Current State: 9870p3 + 140130p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24671 ....
+At time: 140155,  Enabled transitions are:    tWAITING
+At time: 140155,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140185   **
+State: 24672
+Fired Transition: tWAITING
+Current State: 9840p3 + 140160p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24672 ....
+At time: 140185,  Enabled transitions are:    tWAITING
+At time: 140185,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140215   **
+State: 24673
+Fired Transition: tWAITING
+Current State: 9810p3 + 140190p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24673 ....
+At time: 140215,  Enabled transitions are:    tWAITING
+At time: 140215,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140245   **
+State: 24674
+Fired Transition: tWAITING
+Current State: 9780p3 + 140220p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24674 ....
+At time: 140245,  Enabled transitions are:    tWAITING
+At time: 140245,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140275   **
+State: 24675
+Fired Transition: tWAITING
+Current State: 9750p3 + 140250p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24675 ....
+At time: 140275,  Enabled transitions are:    tWAITING
+At time: 140275,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140305   **
+State: 24676
+Fired Transition: tWAITING
+Current State: 9720p3 + 140280p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24676 ....
+At time: 140305,  Enabled transitions are:    tWAITING
+At time: 140305,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140335   **
+State: 24677
+Fired Transition: tWAITING
+Current State: 9690p3 + 140310p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24677 ....
+At time: 140335,  Enabled transitions are:    tWAITING
+At time: 140335,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140365   **
+State: 24678
+Fired Transition: tWAITING
+Current State: 9660p3 + 140340p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24678 ....
+At time: 140365,  Enabled transitions are:    tWAITING
+At time: 140365,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140395   **
+State: 24679
+Fired Transition: tWAITING
+Current State: 9630p3 + 140370p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24679 ....
+At time: 140395,  Enabled transitions are:    tWAITING
+At time: 140395,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140425   **
+State: 24680
+Fired Transition: tWAITING
+Current State: 9600p3 + 140400p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24680 ....
+At time: 140425,  Enabled transitions are:    tWAITING
+At time: 140425,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140455   **
+State: 24681
+Fired Transition: tWAITING
+Current State: 9570p3 + 140430p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24681 ....
+At time: 140455,  Enabled transitions are:    tWAITING
+At time: 140455,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140485   **
+State: 24682
+Fired Transition: tWAITING
+Current State: 9540p3 + 140460p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24682 ....
+At time: 140485,  Enabled transitions are:    tWAITING
+At time: 140485,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140515   **
+State: 24683
+Fired Transition: tWAITING
+Current State: 9510p3 + 140490p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24683 ....
+At time: 140515,  Enabled transitions are:    tWAITING
+At time: 140515,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140545   **
+State: 24684
+Fired Transition: tWAITING
+Current State: 9480p3 + 140520p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24684 ....
+At time: 140545,  Enabled transitions are:    tWAITING
+At time: 140545,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140575   **
+State: 24685
+Fired Transition: tWAITING
+Current State: 9450p3 + 140550p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24685 ....
+At time: 140575,  Enabled transitions are:    tWAITING
+At time: 140575,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140605   **
+State: 24686
+Fired Transition: tWAITING
+Current State: 9420p3 + 140580p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24686 ....
+At time: 140605,  Enabled transitions are:    tWAITING
+At time: 140605,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140635   **
+State: 24687
+Fired Transition: tWAITING
+Current State: 9390p3 + 140610p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24687 ....
+At time: 140635,  Enabled transitions are:    tWAITING
+At time: 140635,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140665   **
+State: 24688
+Fired Transition: tWAITING
+Current State: 9360p3 + 140640p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24688 ....
+At time: 140665,  Enabled transitions are:    tWAITING
+At time: 140665,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140695   **
+State: 24689
+Fired Transition: tWAITING
+Current State: 9330p3 + 140670p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24689 ....
+At time: 140695,  Enabled transitions are:    tWAITING
+At time: 140695,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140725   **
+State: 24690
+Fired Transition: tWAITING
+Current State: 9300p3 + 140700p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24690 ....
+At time: 140725,  Enabled transitions are:    tWAITING
+At time: 140725,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140755   **
+State: 24691
+Fired Transition: tWAITING
+Current State: 9270p3 + 140730p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24691 ....
+At time: 140755,  Enabled transitions are:    tWAITING
+At time: 140755,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140785   **
+State: 24692
+Fired Transition: tWAITING
+Current State: 9240p3 + 140760p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24692 ....
+At time: 140785,  Enabled transitions are:    tWAITING
+At time: 140785,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140815   **
+State: 24693
+Fired Transition: tWAITING
+Current State: 9210p3 + 140790p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24693 ....
+At time: 140815,  Enabled transitions are:    tWAITING
+At time: 140815,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140845   **
+State: 24694
+Fired Transition: tWAITING
+Current State: 9180p3 + 140820p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24694 ....
+At time: 140845,  Enabled transitions are:    tWAITING
+At time: 140845,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140875   **
+State: 24695
+Fired Transition: tWAITING
+Current State: 9150p3 + 140850p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24695 ....
+At time: 140875,  Enabled transitions are:    tWAITING
+At time: 140875,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140905   **
+State: 24696
+Fired Transition: tWAITING
+Current State: 9120p3 + 140880p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24696 ....
+At time: 140905,  Enabled transitions are:    tWAITING
+At time: 140905,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140935   **
+State: 24697
+Fired Transition: tWAITING
+Current State: 9090p3 + 140910p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24697 ....
+At time: 140935,  Enabled transitions are:    tWAITING
+At time: 140935,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140965   **
+State: 24698
+Fired Transition: tWAITING
+Current State: 9060p3 + 140940p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24698 ....
+At time: 140965,  Enabled transitions are:    tWAITING
+At time: 140965,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 140995   **
+State: 24699
+Fired Transition: tWAITING
+Current State: 9030p3 + 140970p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24699 ....
+At time: 140995,  Enabled transitions are:    tWAITING
+At time: 140995,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141025   **
+State: 24700
+Fired Transition: tWAITING
+Current State: 9000p3 + 141000p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24700 ....
+At time: 141025,  Enabled transitions are:    tWAITING
+At time: 141025,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141055   **
+State: 24701
+Fired Transition: tWAITING
+Current State: 8970p3 + 141030p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24701 ....
+At time: 141055,  Enabled transitions are:    tWAITING
+At time: 141055,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141085   **
+State: 24702
+Fired Transition: tWAITING
+Current State: 8940p3 + 141060p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24702 ....
+At time: 141085,  Enabled transitions are:    tWAITING
+At time: 141085,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141115   **
+State: 24703
+Fired Transition: tWAITING
+Current State: 8910p3 + 141090p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24703 ....
+At time: 141115,  Enabled transitions are:    tWAITING
+At time: 141115,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141145   **
+State: 24704
+Fired Transition: tWAITING
+Current State: 8880p3 + 141120p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24704 ....
+At time: 141145,  Enabled transitions are:    tWAITING
+At time: 141145,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141175   **
+State: 24705
+Fired Transition: tWAITING
+Current State: 8850p3 + 141150p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24705 ....
+At time: 141175,  Enabled transitions are:    tWAITING
+At time: 141175,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141205   **
+State: 24706
+Fired Transition: tWAITING
+Current State: 8820p3 + 141180p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24706 ....
+At time: 141205,  Enabled transitions are:    tWAITING
+At time: 141205,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141235   **
+State: 24707
+Fired Transition: tWAITING
+Current State: 8790p3 + 141210p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24707 ....
+At time: 141235,  Enabled transitions are:    tWAITING
+At time: 141235,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141265   **
+State: 24708
+Fired Transition: tWAITING
+Current State: 8760p3 + 141240p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24708 ....
+At time: 141265,  Enabled transitions are:    tWAITING
+At time: 141265,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141295   **
+State: 24709
+Fired Transition: tWAITING
+Current State: 8730p3 + 141270p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24709 ....
+At time: 141295,  Enabled transitions are:    tWAITING
+At time: 141295,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141325   **
+State: 24710
+Fired Transition: tWAITING
+Current State: 8700p3 + 141300p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24710 ....
+At time: 141325,  Enabled transitions are:    tWAITING
+At time: 141325,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141355   **
+State: 24711
+Fired Transition: tWAITING
+Current State: 8670p3 + 141330p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24711 ....
+At time: 141355,  Enabled transitions are:    tWAITING
+At time: 141355,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141385   **
+State: 24712
+Fired Transition: tWAITING
+Current State: 8640p3 + 141360p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24712 ....
+At time: 141385,  Enabled transitions are:    tWAITING
+At time: 141385,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141415   **
+State: 24713
+Fired Transition: tWAITING
+Current State: 8610p3 + 141390p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24713 ....
+At time: 141415,  Enabled transitions are:    tWAITING
+At time: 141415,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141445   **
+State: 24714
+Fired Transition: tWAITING
+Current State: 8580p3 + 141420p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24714 ....
+At time: 141445,  Enabled transitions are:    tWAITING
+At time: 141445,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141475   **
+State: 24715
+Fired Transition: tWAITING
+Current State: 8550p3 + 141450p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24715 ....
+At time: 141475,  Enabled transitions are:    tWAITING
+At time: 141475,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141505   **
+State: 24716
+Fired Transition: tWAITING
+Current State: 8520p3 + 141480p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24716 ....
+At time: 141505,  Enabled transitions are:    tWAITING
+At time: 141505,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141535   **
+State: 24717
+Fired Transition: tWAITING
+Current State: 8490p3 + 141510p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24717 ....
+At time: 141535,  Enabled transitions are:    tWAITING
+At time: 141535,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141565   **
+State: 24718
+Fired Transition: tWAITING
+Current State: 8460p3 + 141540p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24718 ....
+At time: 141565,  Enabled transitions are:    tWAITING
+At time: 141565,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141595   **
+State: 24719
+Fired Transition: tWAITING
+Current State: 8430p3 + 141570p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24719 ....
+At time: 141595,  Enabled transitions are:    tWAITING
+At time: 141595,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141625   **
+State: 24720
+Fired Transition: tWAITING
+Current State: 8400p3 + 141600p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24720 ....
+At time: 141625,  Enabled transitions are:    tWAITING
+At time: 141625,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141655   **
+State: 24721
+Fired Transition: tWAITING
+Current State: 8370p3 + 141630p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24721 ....
+At time: 141655,  Enabled transitions are:    tWAITING
+At time: 141655,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141685   **
+State: 24722
+Fired Transition: tWAITING
+Current State: 8340p3 + 141660p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24722 ....
+At time: 141685,  Enabled transitions are:    tWAITING
+At time: 141685,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141715   **
+State: 24723
+Fired Transition: tWAITING
+Current State: 8310p3 + 141690p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24723 ....
+At time: 141715,  Enabled transitions are:    tWAITING
+At time: 141715,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141745   **
+State: 24724
+Fired Transition: tWAITING
+Current State: 8280p3 + 141720p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24724 ....
+At time: 141745,  Enabled transitions are:    tWAITING
+At time: 141745,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141775   **
+State: 24725
+Fired Transition: tWAITING
+Current State: 8250p3 + 141750p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24725 ....
+At time: 141775,  Enabled transitions are:    tWAITING
+At time: 141775,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141805   **
+State: 24726
+Fired Transition: tWAITING
+Current State: 8220p3 + 141780p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24726 ....
+At time: 141805,  Enabled transitions are:    tWAITING
+At time: 141805,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141835   **
+State: 24727
+Fired Transition: tWAITING
+Current State: 8190p3 + 141810p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24727 ....
+At time: 141835,  Enabled transitions are:    tWAITING
+At time: 141835,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141865   **
+State: 24728
+Fired Transition: tWAITING
+Current State: 8160p3 + 141840p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24728 ....
+At time: 141865,  Enabled transitions are:    tWAITING
+At time: 141865,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141895   **
+State: 24729
+Fired Transition: tWAITING
+Current State: 8130p3 + 141870p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24729 ....
+At time: 141895,  Enabled transitions are:    tWAITING
+At time: 141895,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141925   **
+State: 24730
+Fired Transition: tWAITING
+Current State: 8100p3 + 141900p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24730 ....
+At time: 141925,  Enabled transitions are:    tWAITING
+At time: 141925,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141955   **
+State: 24731
+Fired Transition: tWAITING
+Current State: 8070p3 + 141930p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24731 ....
+At time: 141955,  Enabled transitions are:    tWAITING
+At time: 141955,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 141985   **
+State: 24732
+Fired Transition: tWAITING
+Current State: 8040p3 + 141960p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24732 ....
+At time: 141985,  Enabled transitions are:    tWAITING
+At time: 141985,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142015   **
+State: 24733
+Fired Transition: tWAITING
+Current State: 8010p3 + 141990p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24733 ....
+At time: 142015,  Enabled transitions are:    tWAITING
+At time: 142015,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142045   **
+State: 24734
+Fired Transition: tWAITING
+Current State: 7980p3 + 142020p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24734 ....
+At time: 142045,  Enabled transitions are:    tWAITING
+At time: 142045,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142075   **
+State: 24735
+Fired Transition: tWAITING
+Current State: 7950p3 + 142050p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24735 ....
+At time: 142075,  Enabled transitions are:    tWAITING
+At time: 142075,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142105   **
+State: 24736
+Fired Transition: tWAITING
+Current State: 7920p3 + 142080p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24736 ....
+At time: 142105,  Enabled transitions are:    tWAITING
+At time: 142105,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142135   **
+State: 24737
+Fired Transition: tWAITING
+Current State: 7890p3 + 142110p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24737 ....
+At time: 142135,  Enabled transitions are:    tWAITING
+At time: 142135,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142165   **
+State: 24738
+Fired Transition: tWAITING
+Current State: 7860p3 + 142140p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24738 ....
+At time: 142165,  Enabled transitions are:    tWAITING
+At time: 142165,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142195   **
+State: 24739
+Fired Transition: tWAITING
+Current State: 7830p3 + 142170p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24739 ....
+At time: 142195,  Enabled transitions are:    tWAITING
+At time: 142195,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142225   **
+State: 24740
+Fired Transition: tWAITING
+Current State: 7800p3 + 142200p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24740 ....
+At time: 142225,  Enabled transitions are:    tWAITING
+At time: 142225,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142255   **
+State: 24741
+Fired Transition: tWAITING
+Current State: 7770p3 + 142230p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24741 ....
+At time: 142255,  Enabled transitions are:    tWAITING
+At time: 142255,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142285   **
+State: 24742
+Fired Transition: tWAITING
+Current State: 7740p3 + 142260p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24742 ....
+At time: 142285,  Enabled transitions are:    tWAITING
+At time: 142285,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142315   **
+State: 24743
+Fired Transition: tWAITING
+Current State: 7710p3 + 142290p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24743 ....
+At time: 142315,  Enabled transitions are:    tWAITING
+At time: 142315,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142345   **
+State: 24744
+Fired Transition: tWAITING
+Current State: 7680p3 + 142320p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24744 ....
+At time: 142345,  Enabled transitions are:    tWAITING
+At time: 142345,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142375   **
+State: 24745
+Fired Transition: tWAITING
+Current State: 7650p3 + 142350p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24745 ....
+At time: 142375,  Enabled transitions are:    tWAITING
+At time: 142375,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142405   **
+State: 24746
+Fired Transition: tWAITING
+Current State: 7620p3 + 142380p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24746 ....
+At time: 142405,  Enabled transitions are:    tWAITING
+At time: 142405,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142435   **
+State: 24747
+Fired Transition: tWAITING
+Current State: 7590p3 + 142410p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24747 ....
+At time: 142435,  Enabled transitions are:    tWAITING
+At time: 142435,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142465   **
+State: 24748
+Fired Transition: tWAITING
+Current State: 7560p3 + 142440p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24748 ....
+At time: 142465,  Enabled transitions are:    tWAITING
+At time: 142465,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142495   **
+State: 24749
+Fired Transition: tWAITING
+Current State: 7530p3 + 142470p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24749 ....
+At time: 142495,  Enabled transitions are:    tWAITING
+At time: 142495,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142525   **
+State: 24750
+Fired Transition: tWAITING
+Current State: 7500p3 + 142500p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24750 ....
+At time: 142525,  Enabled transitions are:    tWAITING
+At time: 142525,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142555   **
+State: 24751
+Fired Transition: tWAITING
+Current State: 7470p3 + 142530p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24751 ....
+At time: 142555,  Enabled transitions are:    tWAITING
+At time: 142555,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142585   **
+State: 24752
+Fired Transition: tWAITING
+Current State: 7440p3 + 142560p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24752 ....
+At time: 142585,  Enabled transitions are:    tWAITING
+At time: 142585,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142615   **
+State: 24753
+Fired Transition: tWAITING
+Current State: 7410p3 + 142590p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24753 ....
+At time: 142615,  Enabled transitions are:    tWAITING
+At time: 142615,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142645   **
+State: 24754
+Fired Transition: tWAITING
+Current State: 7380p3 + 142620p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24754 ....
+At time: 142645,  Enabled transitions are:    tWAITING
+At time: 142645,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142675   **
+State: 24755
+Fired Transition: tWAITING
+Current State: 7350p3 + 142650p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24755 ....
+At time: 142675,  Enabled transitions are:    tWAITING
+At time: 142675,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142705   **
+State: 24756
+Fired Transition: tWAITING
+Current State: 7320p3 + 142680p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24756 ....
+At time: 142705,  Enabled transitions are:    tWAITING
+At time: 142705,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142735   **
+State: 24757
+Fired Transition: tWAITING
+Current State: 7290p3 + 142710p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24757 ....
+At time: 142735,  Enabled transitions are:    tWAITING
+At time: 142735,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142765   **
+State: 24758
+Fired Transition: tWAITING
+Current State: 7260p3 + 142740p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24758 ....
+At time: 142765,  Enabled transitions are:    tWAITING
+At time: 142765,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142795   **
+State: 24759
+Fired Transition: tWAITING
+Current State: 7230p3 + 142770p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24759 ....
+At time: 142795,  Enabled transitions are:    tWAITING
+At time: 142795,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142825   **
+State: 24760
+Fired Transition: tWAITING
+Current State: 7200p3 + 142800p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24760 ....
+At time: 142825,  Enabled transitions are:    tWAITING
+At time: 142825,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142855   **
+State: 24761
+Fired Transition: tWAITING
+Current State: 7170p3 + 142830p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24761 ....
+At time: 142855,  Enabled transitions are:    tWAITING
+At time: 142855,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142885   **
+State: 24762
+Fired Transition: tWAITING
+Current State: 7140p3 + 142860p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24762 ....
+At time: 142885,  Enabled transitions are:    tWAITING
+At time: 142885,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142915   **
+State: 24763
+Fired Transition: tWAITING
+Current State: 7110p3 + 142890p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24763 ....
+At time: 142915,  Enabled transitions are:    tWAITING
+At time: 142915,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142945   **
+State: 24764
+Fired Transition: tWAITING
+Current State: 7080p3 + 142920p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24764 ....
+At time: 142945,  Enabled transitions are:    tWAITING
+At time: 142945,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 142975   **
+State: 24765
+Fired Transition: tWAITING
+Current State: 7050p3 + 142950p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24765 ....
+At time: 142975,  Enabled transitions are:    tWAITING
+At time: 142975,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143005   **
+State: 24766
+Fired Transition: tWAITING
+Current State: 7020p3 + 142980p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24766 ....
+At time: 143005,  Enabled transitions are:    tWAITING
+At time: 143005,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143035   **
+State: 24767
+Fired Transition: tWAITING
+Current State: 6990p3 + 143010p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24767 ....
+At time: 143035,  Enabled transitions are:    tWAITING
+At time: 143035,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143065   **
+State: 24768
+Fired Transition: tWAITING
+Current State: 6960p3 + 143040p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24768 ....
+At time: 143065,  Enabled transitions are:    tWAITING
+At time: 143065,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143095   **
+State: 24769
+Fired Transition: tWAITING
+Current State: 6930p3 + 143070p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24769 ....
+At time: 143095,  Enabled transitions are:    tWAITING
+At time: 143095,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143125   **
+State: 24770
+Fired Transition: tWAITING
+Current State: 6900p3 + 143100p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24770 ....
+At time: 143125,  Enabled transitions are:    tWAITING
+At time: 143125,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143155   **
+State: 24771
+Fired Transition: tWAITING
+Current State: 6870p3 + 143130p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24771 ....
+At time: 143155,  Enabled transitions are:    tWAITING
+At time: 143155,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143185   **
+State: 24772
+Fired Transition: tWAITING
+Current State: 6840p3 + 143160p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24772 ....
+At time: 143185,  Enabled transitions are:    tWAITING
+At time: 143185,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143215   **
+State: 24773
+Fired Transition: tWAITING
+Current State: 6810p3 + 143190p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24773 ....
+At time: 143215,  Enabled transitions are:    tWAITING
+At time: 143215,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143245   **
+State: 24774
+Fired Transition: tWAITING
+Current State: 6780p3 + 143220p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24774 ....
+At time: 143245,  Enabled transitions are:    tWAITING
+At time: 143245,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143275   **
+State: 24775
+Fired Transition: tWAITING
+Current State: 6750p3 + 143250p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24775 ....
+At time: 143275,  Enabled transitions are:    tWAITING
+At time: 143275,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143305   **
+State: 24776
+Fired Transition: tWAITING
+Current State: 6720p3 + 143280p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24776 ....
+At time: 143305,  Enabled transitions are:    tWAITING
+At time: 143305,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143335   **
+State: 24777
+Fired Transition: tWAITING
+Current State: 6690p3 + 143310p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24777 ....
+At time: 143335,  Enabled transitions are:    tWAITING
+At time: 143335,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143365   **
+State: 24778
+Fired Transition: tWAITING
+Current State: 6660p3 + 143340p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24778 ....
+At time: 143365,  Enabled transitions are:    tWAITING
+At time: 143365,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143395   **
+State: 24779
+Fired Transition: tWAITING
+Current State: 6630p3 + 143370p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24779 ....
+At time: 143395,  Enabled transitions are:    tWAITING
+At time: 143395,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143425   **
+State: 24780
+Fired Transition: tWAITING
+Current State: 6600p3 + 143400p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24780 ....
+At time: 143425,  Enabled transitions are:    tWAITING
+At time: 143425,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143455   **
+State: 24781
+Fired Transition: tWAITING
+Current State: 6570p3 + 143430p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24781 ....
+At time: 143455,  Enabled transitions are:    tWAITING
+At time: 143455,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143485   **
+State: 24782
+Fired Transition: tWAITING
+Current State: 6540p3 + 143460p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24782 ....
+At time: 143485,  Enabled transitions are:    tWAITING
+At time: 143485,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143515   **
+State: 24783
+Fired Transition: tWAITING
+Current State: 6510p3 + 143490p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24783 ....
+At time: 143515,  Enabled transitions are:    tWAITING
+At time: 143515,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143545   **
+State: 24784
+Fired Transition: tWAITING
+Current State: 6480p3 + 143520p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24784 ....
+At time: 143545,  Enabled transitions are:    tWAITING
+At time: 143545,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143575   **
+State: 24785
+Fired Transition: tWAITING
+Current State: 6450p3 + 143550p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24785 ....
+At time: 143575,  Enabled transitions are:    tWAITING
+At time: 143575,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143605   **
+State: 24786
+Fired Transition: tWAITING
+Current State: 6420p3 + 143580p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24786 ....
+At time: 143605,  Enabled transitions are:    tWAITING
+At time: 143605,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143635   **
+State: 24787
+Fired Transition: tWAITING
+Current State: 6390p3 + 143610p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24787 ....
+At time: 143635,  Enabled transitions are:    tWAITING
+At time: 143635,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143665   **
+State: 24788
+Fired Transition: tWAITING
+Current State: 6360p3 + 143640p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24788 ....
+At time: 143665,  Enabled transitions are:    tWAITING
+At time: 143665,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143695   **
+State: 24789
+Fired Transition: tWAITING
+Current State: 6330p3 + 143670p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24789 ....
+At time: 143695,  Enabled transitions are:    tWAITING
+At time: 143695,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143725   **
+State: 24790
+Fired Transition: tWAITING
+Current State: 6300p3 + 143700p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24790 ....
+At time: 143725,  Enabled transitions are:    tWAITING
+At time: 143725,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143755   **
+State: 24791
+Fired Transition: tWAITING
+Current State: 6270p3 + 143730p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24791 ....
+At time: 143755,  Enabled transitions are:    tWAITING
+At time: 143755,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143785   **
+State: 24792
+Fired Transition: tWAITING
+Current State: 6240p3 + 143760p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24792 ....
+At time: 143785,  Enabled transitions are:    tWAITING
+At time: 143785,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143815   **
+State: 24793
+Fired Transition: tWAITING
+Current State: 6210p3 + 143790p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24793 ....
+At time: 143815,  Enabled transitions are:    tWAITING
+At time: 143815,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143845   **
+State: 24794
+Fired Transition: tWAITING
+Current State: 6180p3 + 143820p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24794 ....
+At time: 143845,  Enabled transitions are:    tWAITING
+At time: 143845,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143875   **
+State: 24795
+Fired Transition: tWAITING
+Current State: 6150p3 + 143850p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24795 ....
+At time: 143875,  Enabled transitions are:    tWAITING
+At time: 143875,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143905   **
+State: 24796
+Fired Transition: tWAITING
+Current State: 6120p3 + 143880p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24796 ....
+At time: 143905,  Enabled transitions are:    tWAITING
+At time: 143905,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143935   **
+State: 24797
+Fired Transition: tWAITING
+Current State: 6090p3 + 143910p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24797 ....
+At time: 143935,  Enabled transitions are:    tWAITING
+At time: 143935,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143965   **
+State: 24798
+Fired Transition: tWAITING
+Current State: 6060p3 + 143940p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24798 ....
+At time: 143965,  Enabled transitions are:    tWAITING
+At time: 143965,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 143995   **
+State: 24799
+Fired Transition: tWAITING
+Current State: 6030p3 + 143970p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24799 ....
+At time: 143995,  Enabled transitions are:    tWAITING
+At time: 143995,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144025   **
+State: 24800
+Fired Transition: tWAITING
+Current State: 6000p3 + 144000p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24800 ....
+At time: 144025,  Enabled transitions are:    tWAITING
+At time: 144025,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144055   **
+State: 24801
+Fired Transition: tWAITING
+Current State: 5970p3 + 144030p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24801 ....
+At time: 144055,  Enabled transitions are:    tWAITING
+At time: 144055,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144085   **
+State: 24802
+Fired Transition: tWAITING
+Current State: 5940p3 + 144060p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24802 ....
+At time: 144085,  Enabled transitions are:    tWAITING
+At time: 144085,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144115   **
+State: 24803
+Fired Transition: tWAITING
+Current State: 5910p3 + 144090p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24803 ....
+At time: 144115,  Enabled transitions are:    tWAITING
+At time: 144115,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144145   **
+State: 24804
+Fired Transition: tWAITING
+Current State: 5880p3 + 144120p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24804 ....
+At time: 144145,  Enabled transitions are:    tWAITING
+At time: 144145,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144175   **
+State: 24805
+Fired Transition: tWAITING
+Current State: 5850p3 + 144150p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24805 ....
+At time: 144175,  Enabled transitions are:    tWAITING
+At time: 144175,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144205   **
+State: 24806
+Fired Transition: tWAITING
+Current State: 5820p3 + 144180p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24806 ....
+At time: 144205,  Enabled transitions are:    tWAITING
+At time: 144205,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144235   **
+State: 24807
+Fired Transition: tWAITING
+Current State: 5790p3 + 144210p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24807 ....
+At time: 144235,  Enabled transitions are:    tWAITING
+At time: 144235,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144265   **
+State: 24808
+Fired Transition: tWAITING
+Current State: 5760p3 + 144240p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24808 ....
+At time: 144265,  Enabled transitions are:    tWAITING
+At time: 144265,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144295   **
+State: 24809
+Fired Transition: tWAITING
+Current State: 5730p3 + 144270p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24809 ....
+At time: 144295,  Enabled transitions are:    tWAITING
+At time: 144295,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144325   **
+State: 24810
+Fired Transition: tWAITING
+Current State: 5700p3 + 144300p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24810 ....
+At time: 144325,  Enabled transitions are:    tWAITING
+At time: 144325,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144355   **
+State: 24811
+Fired Transition: tWAITING
+Current State: 5670p3 + 144330p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24811 ....
+At time: 144355,  Enabled transitions are:    tWAITING
+At time: 144355,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144385   **
+State: 24812
+Fired Transition: tWAITING
+Current State: 5640p3 + 144360p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24812 ....
+At time: 144385,  Enabled transitions are:    tWAITING
+At time: 144385,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144415   **
+State: 24813
+Fired Transition: tWAITING
+Current State: 5610p3 + 144390p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24813 ....
+At time: 144415,  Enabled transitions are:    tWAITING
+At time: 144415,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144445   **
+State: 24814
+Fired Transition: tWAITING
+Current State: 5580p3 + 144420p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24814 ....
+At time: 144445,  Enabled transitions are:    tWAITING
+At time: 144445,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144475   **
+State: 24815
+Fired Transition: tWAITING
+Current State: 5550p3 + 144450p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24815 ....
+At time: 144475,  Enabled transitions are:    tWAITING
+At time: 144475,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144505   **
+State: 24816
+Fired Transition: tWAITING
+Current State: 5520p3 + 144480p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24816 ....
+At time: 144505,  Enabled transitions are:    tWAITING
+At time: 144505,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144535   **
+State: 24817
+Fired Transition: tWAITING
+Current State: 5490p3 + 144510p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24817 ....
+At time: 144535,  Enabled transitions are:    tWAITING
+At time: 144535,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144565   **
+State: 24818
+Fired Transition: tWAITING
+Current State: 5460p3 + 144540p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24818 ....
+At time: 144565,  Enabled transitions are:    tWAITING
+At time: 144565,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144595   **
+State: 24819
+Fired Transition: tWAITING
+Current State: 5430p3 + 144570p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24819 ....
+At time: 144595,  Enabled transitions are:    tWAITING
+At time: 144595,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144625   **
+State: 24820
+Fired Transition: tWAITING
+Current State: 5400p3 + 144600p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24820 ....
+At time: 144625,  Enabled transitions are:    tWAITING
+At time: 144625,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144655   **
+State: 24821
+Fired Transition: tWAITING
+Current State: 5370p3 + 144630p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24821 ....
+At time: 144655,  Enabled transitions are:    tWAITING
+At time: 144655,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144685   **
+State: 24822
+Fired Transition: tWAITING
+Current State: 5340p3 + 144660p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24822 ....
+At time: 144685,  Enabled transitions are:    tWAITING
+At time: 144685,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144715   **
+State: 24823
+Fired Transition: tWAITING
+Current State: 5310p3 + 144690p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24823 ....
+At time: 144715,  Enabled transitions are:    tWAITING
+At time: 144715,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144745   **
+State: 24824
+Fired Transition: tWAITING
+Current State: 5280p3 + 144720p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24824 ....
+At time: 144745,  Enabled transitions are:    tWAITING
+At time: 144745,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144775   **
+State: 24825
+Fired Transition: tWAITING
+Current State: 5250p3 + 144750p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24825 ....
+At time: 144775,  Enabled transitions are:    tWAITING
+At time: 144775,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144805   **
+State: 24826
+Fired Transition: tWAITING
+Current State: 5220p3 + 144780p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24826 ....
+At time: 144805,  Enabled transitions are:    tWAITING
+At time: 144805,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144835   **
+State: 24827
+Fired Transition: tWAITING
+Current State: 5190p3 + 144810p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24827 ....
+At time: 144835,  Enabled transitions are:    tWAITING
+At time: 144835,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144865   **
+State: 24828
+Fired Transition: tWAITING
+Current State: 5160p3 + 144840p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24828 ....
+At time: 144865,  Enabled transitions are:    tWAITING
+At time: 144865,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144895   **
+State: 24829
+Fired Transition: tWAITING
+Current State: 5130p3 + 144870p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24829 ....
+At time: 144895,  Enabled transitions are:    tWAITING
+At time: 144895,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144925   **
+State: 24830
+Fired Transition: tWAITING
+Current State: 5100p3 + 144900p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24830 ....
+At time: 144925,  Enabled transitions are:    tWAITING
+At time: 144925,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144955   **
+State: 24831
+Fired Transition: tWAITING
+Current State: 5070p3 + 144930p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24831 ....
+At time: 144955,  Enabled transitions are:    tWAITING
+At time: 144955,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 144985   **
+State: 24832
+Fired Transition: tWAITING
+Current State: 5040p3 + 144960p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24832 ....
+At time: 144985,  Enabled transitions are:    tWAITING
+At time: 144985,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145015   **
+State: 24833
+Fired Transition: tWAITING
+Current State: 5010p3 + 144990p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24833 ....
+At time: 145015,  Enabled transitions are:    tWAITING
+At time: 145015,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145045   **
+State: 24834
+Fired Transition: tWAITING
+Current State: 4980p3 + 145020p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24834 ....
+At time: 145045,  Enabled transitions are:    tWAITING
+At time: 145045,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145075   **
+State: 24835
+Fired Transition: tWAITING
+Current State: 4950p3 + 145050p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24835 ....
+At time: 145075,  Enabled transitions are:    tWAITING
+At time: 145075,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145105   **
+State: 24836
+Fired Transition: tWAITING
+Current State: 4920p3 + 145080p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24836 ....
+At time: 145105,  Enabled transitions are:    tWAITING
+At time: 145105,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145135   **
+State: 24837
+Fired Transition: tWAITING
+Current State: 4890p3 + 145110p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24837 ....
+At time: 145135,  Enabled transitions are:    tWAITING
+At time: 145135,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145165   **
+State: 24838
+Fired Transition: tWAITING
+Current State: 4860p3 + 145140p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24838 ....
+At time: 145165,  Enabled transitions are:    tWAITING
+At time: 145165,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145195   **
+State: 24839
+Fired Transition: tWAITING
+Current State: 4830p3 + 145170p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24839 ....
+At time: 145195,  Enabled transitions are:    tWAITING
+At time: 145195,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145225   **
+State: 24840
+Fired Transition: tWAITING
+Current State: 4800p3 + 145200p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24840 ....
+At time: 145225,  Enabled transitions are:    tWAITING
+At time: 145225,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145255   **
+State: 24841
+Fired Transition: tWAITING
+Current State: 4770p3 + 145230p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24841 ....
+At time: 145255,  Enabled transitions are:    tWAITING
+At time: 145255,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145285   **
+State: 24842
+Fired Transition: tWAITING
+Current State: 4740p3 + 145260p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24842 ....
+At time: 145285,  Enabled transitions are:    tWAITING
+At time: 145285,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145315   **
+State: 24843
+Fired Transition: tWAITING
+Current State: 4710p3 + 145290p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24843 ....
+At time: 145315,  Enabled transitions are:    tWAITING
+At time: 145315,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145345   **
+State: 24844
+Fired Transition: tWAITING
+Current State: 4680p3 + 145320p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24844 ....
+At time: 145345,  Enabled transitions are:    tWAITING
+At time: 145345,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145375   **
+State: 24845
+Fired Transition: tWAITING
+Current State: 4650p3 + 145350p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24845 ....
+At time: 145375,  Enabled transitions are:    tWAITING
+At time: 145375,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145405   **
+State: 24846
+Fired Transition: tWAITING
+Current State: 4620p3 + 145380p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24846 ....
+At time: 145405,  Enabled transitions are:    tWAITING
+At time: 145405,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145435   **
+State: 24847
+Fired Transition: tWAITING
+Current State: 4590p3 + 145410p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24847 ....
+At time: 145435,  Enabled transitions are:    tWAITING
+At time: 145435,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145465   **
+State: 24848
+Fired Transition: tWAITING
+Current State: 4560p3 + 145440p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24848 ....
+At time: 145465,  Enabled transitions are:    tWAITING
+At time: 145465,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145495   **
+State: 24849
+Fired Transition: tWAITING
+Current State: 4530p3 + 145470p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24849 ....
+At time: 145495,  Enabled transitions are:    tWAITING
+At time: 145495,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145525   **
+State: 24850
+Fired Transition: tWAITING
+Current State: 4500p3 + 145500p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24850 ....
+At time: 145525,  Enabled transitions are:    tWAITING
+At time: 145525,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145555   **
+State: 24851
+Fired Transition: tWAITING
+Current State: 4470p3 + 145530p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24851 ....
+At time: 145555,  Enabled transitions are:    tWAITING
+At time: 145555,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145585   **
+State: 24852
+Fired Transition: tWAITING
+Current State: 4440p3 + 145560p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24852 ....
+At time: 145585,  Enabled transitions are:    tWAITING
+At time: 145585,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145615   **
+State: 24853
+Fired Transition: tWAITING
+Current State: 4410p3 + 145590p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24853 ....
+At time: 145615,  Enabled transitions are:    tWAITING
+At time: 145615,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145645   **
+State: 24854
+Fired Transition: tWAITING
+Current State: 4380p3 + 145620p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24854 ....
+At time: 145645,  Enabled transitions are:    tWAITING
+At time: 145645,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145675   **
+State: 24855
+Fired Transition: tWAITING
+Current State: 4350p3 + 145650p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24855 ....
+At time: 145675,  Enabled transitions are:    tWAITING
+At time: 145675,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145705   **
+State: 24856
+Fired Transition: tWAITING
+Current State: 4320p3 + 145680p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24856 ....
+At time: 145705,  Enabled transitions are:    tWAITING
+At time: 145705,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145735   **
+State: 24857
+Fired Transition: tWAITING
+Current State: 4290p3 + 145710p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24857 ....
+At time: 145735,  Enabled transitions are:    tWAITING
+At time: 145735,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145765   **
+State: 24858
+Fired Transition: tWAITING
+Current State: 4260p3 + 145740p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24858 ....
+At time: 145765,  Enabled transitions are:    tWAITING
+At time: 145765,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145795   **
+State: 24859
+Fired Transition: tWAITING
+Current State: 4230p3 + 145770p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24859 ....
+At time: 145795,  Enabled transitions are:    tWAITING
+At time: 145795,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145825   **
+State: 24860
+Fired Transition: tWAITING
+Current State: 4200p3 + 145800p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24860 ....
+At time: 145825,  Enabled transitions are:    tWAITING
+At time: 145825,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145855   **
+State: 24861
+Fired Transition: tWAITING
+Current State: 4170p3 + 145830p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24861 ....
+At time: 145855,  Enabled transitions are:    tWAITING
+At time: 145855,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145885   **
+State: 24862
+Fired Transition: tWAITING
+Current State: 4140p3 + 145860p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24862 ....
+At time: 145885,  Enabled transitions are:    tWAITING
+At time: 145885,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145915   **
+State: 24863
+Fired Transition: tWAITING
+Current State: 4110p3 + 145890p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24863 ....
+At time: 145915,  Enabled transitions are:    tWAITING
+At time: 145915,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145945   **
+State: 24864
+Fired Transition: tWAITING
+Current State: 4080p3 + 145920p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24864 ....
+At time: 145945,  Enabled transitions are:    tWAITING
+At time: 145945,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 145975   **
+State: 24865
+Fired Transition: tWAITING
+Current State: 4050p3 + 145950p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24865 ....
+At time: 145975,  Enabled transitions are:    tWAITING
+At time: 145975,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146005   **
+State: 24866
+Fired Transition: tWAITING
+Current State: 4020p3 + 145980p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24866 ....
+At time: 146005,  Enabled transitions are:    tWAITING
+At time: 146005,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146035   **
+State: 24867
+Fired Transition: tWAITING
+Current State: 3990p3 + 146010p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24867 ....
+At time: 146035,  Enabled transitions are:    tWAITING
+At time: 146035,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146065   **
+State: 24868
+Fired Transition: tWAITING
+Current State: 3960p3 + 146040p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24868 ....
+At time: 146065,  Enabled transitions are:    tWAITING
+At time: 146065,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146095   **
+State: 24869
+Fired Transition: tWAITING
+Current State: 3930p3 + 146070p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24869 ....
+At time: 146095,  Enabled transitions are:    tWAITING
+At time: 146095,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146125   **
+State: 24870
+Fired Transition: tWAITING
+Current State: 3900p3 + 146100p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24870 ....
+At time: 146125,  Enabled transitions are:    tWAITING
+At time: 146125,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146155   **
+State: 24871
+Fired Transition: tWAITING
+Current State: 3870p3 + 146130p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24871 ....
+At time: 146155,  Enabled transitions are:    tWAITING
+At time: 146155,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146185   **
+State: 24872
+Fired Transition: tWAITING
+Current State: 3840p3 + 146160p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24872 ....
+At time: 146185,  Enabled transitions are:    tWAITING
+At time: 146185,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146215   **
+State: 24873
+Fired Transition: tWAITING
+Current State: 3810p3 + 146190p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24873 ....
+At time: 146215,  Enabled transitions are:    tWAITING
+At time: 146215,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146245   **
+State: 24874
+Fired Transition: tWAITING
+Current State: 3780p3 + 146220p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24874 ....
+At time: 146245,  Enabled transitions are:    tWAITING
+At time: 146245,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146275   **
+State: 24875
+Fired Transition: tWAITING
+Current State: 3750p3 + 146250p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24875 ....
+At time: 146275,  Enabled transitions are:    tWAITING
+At time: 146275,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146305   **
+State: 24876
+Fired Transition: tWAITING
+Current State: 3720p3 + 146280p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24876 ....
+At time: 146305,  Enabled transitions are:    tWAITING
+At time: 146305,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146335   **
+State: 24877
+Fired Transition: tWAITING
+Current State: 3690p3 + 146310p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24877 ....
+At time: 146335,  Enabled transitions are:    tWAITING
+At time: 146335,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146365   **
+State: 24878
+Fired Transition: tWAITING
+Current State: 3660p3 + 146340p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24878 ....
+At time: 146365,  Enabled transitions are:    tWAITING
+At time: 146365,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146395   **
+State: 24879
+Fired Transition: tWAITING
+Current State: 3630p3 + 146370p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24879 ....
+At time: 146395,  Enabled transitions are:    tWAITING
+At time: 146395,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146425   **
+State: 24880
+Fired Transition: tWAITING
+Current State: 3600p3 + 146400p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24880 ....
+At time: 146425,  Enabled transitions are:    tWAITING
+At time: 146425,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146455   **
+State: 24881
+Fired Transition: tWAITING
+Current State: 3570p3 + 146430p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24881 ....
+At time: 146455,  Enabled transitions are:    tWAITING
+At time: 146455,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146485   **
+State: 24882
+Fired Transition: tWAITING
+Current State: 3540p3 + 146460p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24882 ....
+At time: 146485,  Enabled transitions are:    tWAITING
+At time: 146485,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146515   **
+State: 24883
+Fired Transition: tWAITING
+Current State: 3510p3 + 146490p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24883 ....
+At time: 146515,  Enabled transitions are:    tWAITING
+At time: 146515,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146545   **
+State: 24884
+Fired Transition: tWAITING
+Current State: 3480p3 + 146520p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24884 ....
+At time: 146545,  Enabled transitions are:    tWAITING
+At time: 146545,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146575   **
+State: 24885
+Fired Transition: tWAITING
+Current State: 3450p3 + 146550p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24885 ....
+At time: 146575,  Enabled transitions are:    tWAITING
+At time: 146575,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146605   **
+State: 24886
+Fired Transition: tWAITING
+Current State: 3420p3 + 146580p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24886 ....
+At time: 146605,  Enabled transitions are:    tWAITING
+At time: 146605,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146635   **
+State: 24887
+Fired Transition: tWAITING
+Current State: 3390p3 + 146610p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24887 ....
+At time: 146635,  Enabled transitions are:    tWAITING
+At time: 146635,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146665   **
+State: 24888
+Fired Transition: tWAITING
+Current State: 3360p3 + 146640p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24888 ....
+At time: 146665,  Enabled transitions are:    tWAITING
+At time: 146665,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146695   **
+State: 24889
+Fired Transition: tWAITING
+Current State: 3330p3 + 146670p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24889 ....
+At time: 146695,  Enabled transitions are:    tWAITING
+At time: 146695,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146725   **
+State: 24890
+Fired Transition: tWAITING
+Current State: 3300p3 + 146700p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24890 ....
+At time: 146725,  Enabled transitions are:    tWAITING
+At time: 146725,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146755   **
+State: 24891
+Fired Transition: tWAITING
+Current State: 3270p3 + 146730p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24891 ....
+At time: 146755,  Enabled transitions are:    tWAITING
+At time: 146755,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146785   **
+State: 24892
+Fired Transition: tWAITING
+Current State: 3240p3 + 146760p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24892 ....
+At time: 146785,  Enabled transitions are:    tWAITING
+At time: 146785,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146815   **
+State: 24893
+Fired Transition: tWAITING
+Current State: 3210p3 + 146790p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24893 ....
+At time: 146815,  Enabled transitions are:    tWAITING
+At time: 146815,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146845   **
+State: 24894
+Fired Transition: tWAITING
+Current State: 3180p3 + 146820p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24894 ....
+At time: 146845,  Enabled transitions are:    tWAITING
+At time: 146845,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146875   **
+State: 24895
+Fired Transition: tWAITING
+Current State: 3150p3 + 146850p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24895 ....
+At time: 146875,  Enabled transitions are:    tWAITING
+At time: 146875,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146905   **
+State: 24896
+Fired Transition: tWAITING
+Current State: 3120p3 + 146880p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24896 ....
+At time: 146905,  Enabled transitions are:    tWAITING
+At time: 146905,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146935   **
+State: 24897
+Fired Transition: tWAITING
+Current State: 3090p3 + 146910p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24897 ....
+At time: 146935,  Enabled transitions are:    tWAITING
+At time: 146935,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146965   **
+State: 24898
+Fired Transition: tWAITING
+Current State: 3060p3 + 146940p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24898 ....
+At time: 146965,  Enabled transitions are:    tWAITING
+At time: 146965,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 146995   **
+State: 24899
+Fired Transition: tWAITING
+Current State: 3030p3 + 146970p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24899 ....
+At time: 146995,  Enabled transitions are:    tWAITING
+At time: 146995,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147025   **
+State: 24900
+Fired Transition: tWAITING
+Current State: 3000p3 + 147000p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24900 ....
+At time: 147025,  Enabled transitions are:    tWAITING
+At time: 147025,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147055   **
+State: 24901
+Fired Transition: tWAITING
+Current State: 2970p3 + 147030p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24901 ....
+At time: 147055,  Enabled transitions are:    tWAITING
+At time: 147055,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147085   **
+State: 24902
+Fired Transition: tWAITING
+Current State: 2940p3 + 147060p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24902 ....
+At time: 147085,  Enabled transitions are:    tWAITING
+At time: 147085,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147115   **
+State: 24903
+Fired Transition: tWAITING
+Current State: 2910p3 + 147090p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24903 ....
+At time: 147115,  Enabled transitions are:    tWAITING
+At time: 147115,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147145   **
+State: 24904
+Fired Transition: tWAITING
+Current State: 2880p3 + 147120p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24904 ....
+At time: 147145,  Enabled transitions are:    tWAITING
+At time: 147145,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147175   **
+State: 24905
+Fired Transition: tWAITING
+Current State: 2850p3 + 147150p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24905 ....
+At time: 147175,  Enabled transitions are:    tWAITING
+At time: 147175,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147205   **
+State: 24906
+Fired Transition: tWAITING
+Current State: 2820p3 + 147180p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24906 ....
+At time: 147205,  Enabled transitions are:    tWAITING
+At time: 147205,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147235   **
+State: 24907
+Fired Transition: tWAITING
+Current State: 2790p3 + 147210p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24907 ....
+At time: 147235,  Enabled transitions are:    tWAITING
+At time: 147235,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147265   **
+State: 24908
+Fired Transition: tWAITING
+Current State: 2760p3 + 147240p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24908 ....
+At time: 147265,  Enabled transitions are:    tWAITING
+At time: 147265,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147295   **
+State: 24909
+Fired Transition: tWAITING
+Current State: 2730p3 + 147270p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24909 ....
+At time: 147295,  Enabled transitions are:    tWAITING
+At time: 147295,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147325   **
+State: 24910
+Fired Transition: tWAITING
+Current State: 2700p3 + 147300p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24910 ....
+At time: 147325,  Enabled transitions are:    tWAITING
+At time: 147325,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147355   **
+State: 24911
+Fired Transition: tWAITING
+Current State: 2670p3 + 147330p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24911 ....
+At time: 147355,  Enabled transitions are:    tWAITING
+At time: 147355,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147385   **
+State: 24912
+Fired Transition: tWAITING
+Current State: 2640p3 + 147360p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24912 ....
+At time: 147385,  Enabled transitions are:    tWAITING
+At time: 147385,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147415   **
+State: 24913
+Fired Transition: tWAITING
+Current State: 2610p3 + 147390p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24913 ....
+At time: 147415,  Enabled transitions are:    tWAITING
+At time: 147415,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147445   **
+State: 24914
+Fired Transition: tWAITING
+Current State: 2580p3 + 147420p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24914 ....
+At time: 147445,  Enabled transitions are:    tWAITING
+At time: 147445,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147475   **
+State: 24915
+Fired Transition: tWAITING
+Current State: 2550p3 + 147450p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24915 ....
+At time: 147475,  Enabled transitions are:    tWAITING
+At time: 147475,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147505   **
+State: 24916
+Fired Transition: tWAITING
+Current State: 2520p3 + 147480p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24916 ....
+At time: 147505,  Enabled transitions are:    tWAITING
+At time: 147505,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147535   **
+State: 24917
+Fired Transition: tWAITING
+Current State: 2490p3 + 147510p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24917 ....
+At time: 147535,  Enabled transitions are:    tWAITING
+At time: 147535,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147565   **
+State: 24918
+Fired Transition: tWAITING
+Current State: 2460p3 + 147540p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24918 ....
+At time: 147565,  Enabled transitions are:    tWAITING
+At time: 147565,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147595   **
+State: 24919
+Fired Transition: tWAITING
+Current State: 2430p3 + 147570p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24919 ....
+At time: 147595,  Enabled transitions are:    tWAITING
+At time: 147595,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147625   **
+State: 24920
+Fired Transition: tWAITING
+Current State: 2400p3 + 147600p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24920 ....
+At time: 147625,  Enabled transitions are:    tWAITING
+At time: 147625,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147655   **
+State: 24921
+Fired Transition: tWAITING
+Current State: 2370p3 + 147630p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24921 ....
+At time: 147655,  Enabled transitions are:    tWAITING
+At time: 147655,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147685   **
+State: 24922
+Fired Transition: tWAITING
+Current State: 2340p3 + 147660p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24922 ....
+At time: 147685,  Enabled transitions are:    tWAITING
+At time: 147685,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147715   **
+State: 24923
+Fired Transition: tWAITING
+Current State: 2310p3 + 147690p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24923 ....
+At time: 147715,  Enabled transitions are:    tWAITING
+At time: 147715,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147745   **
+State: 24924
+Fired Transition: tWAITING
+Current State: 2280p3 + 147720p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24924 ....
+At time: 147745,  Enabled transitions are:    tWAITING
+At time: 147745,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147775   **
+State: 24925
+Fired Transition: tWAITING
+Current State: 2250p3 + 147750p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24925 ....
+At time: 147775,  Enabled transitions are:    tWAITING
+At time: 147775,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147805   **
+State: 24926
+Fired Transition: tWAITING
+Current State: 2220p3 + 147780p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24926 ....
+At time: 147805,  Enabled transitions are:    tWAITING
+At time: 147805,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147835   **
+State: 24927
+Fired Transition: tWAITING
+Current State: 2190p3 + 147810p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24927 ....
+At time: 147835,  Enabled transitions are:    tWAITING
+At time: 147835,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147865   **
+State: 24928
+Fired Transition: tWAITING
+Current State: 2160p3 + 147840p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24928 ....
+At time: 147865,  Enabled transitions are:    tWAITING
+At time: 147865,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147895   **
+State: 24929
+Fired Transition: tWAITING
+Current State: 2130p3 + 147870p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24929 ....
+At time: 147895,  Enabled transitions are:    tWAITING
+At time: 147895,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147925   **
+State: 24930
+Fired Transition: tWAITING
+Current State: 2100p3 + 147900p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24930 ....
+At time: 147925,  Enabled transitions are:    tWAITING
+At time: 147925,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147955   **
+State: 24931
+Fired Transition: tWAITING
+Current State: 2070p3 + 147930p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24931 ....
+At time: 147955,  Enabled transitions are:    tWAITING
+At time: 147955,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 147985   **
+State: 24932
+Fired Transition: tWAITING
+Current State: 2040p3 + 147960p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24932 ....
+At time: 147985,  Enabled transitions are:    tWAITING
+At time: 147985,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148015   **
+State: 24933
+Fired Transition: tWAITING
+Current State: 2010p3 + 147990p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24933 ....
+At time: 148015,  Enabled transitions are:    tWAITING
+At time: 148015,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148045   **
+State: 24934
+Fired Transition: tWAITING
+Current State: 1980p3 + 148020p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24934 ....
+At time: 148045,  Enabled transitions are:    tWAITING
+At time: 148045,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148075   **
+State: 24935
+Fired Transition: tWAITING
+Current State: 1950p3 + 148050p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24935 ....
+At time: 148075,  Enabled transitions are:    tWAITING
+At time: 148075,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148105   **
+State: 24936
+Fired Transition: tWAITING
+Current State: 1920p3 + 148080p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24936 ....
+At time: 148105,  Enabled transitions are:    tWAITING
+At time: 148105,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148135   **
+State: 24937
+Fired Transition: tWAITING
+Current State: 1890p3 + 148110p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24937 ....
+At time: 148135,  Enabled transitions are:    tWAITING
+At time: 148135,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148165   **
+State: 24938
+Fired Transition: tWAITING
+Current State: 1860p3 + 148140p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24938 ....
+At time: 148165,  Enabled transitions are:    tWAITING
+At time: 148165,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148195   **
+State: 24939
+Fired Transition: tWAITING
+Current State: 1830p3 + 148170p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24939 ....
+At time: 148195,  Enabled transitions are:    tWAITING
+At time: 148195,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148225   **
+State: 24940
+Fired Transition: tWAITING
+Current State: 1800p3 + 148200p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24940 ....
+At time: 148225,  Enabled transitions are:    tWAITING
+At time: 148225,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148255   **
+State: 24941
+Fired Transition: tWAITING
+Current State: 1770p3 + 148230p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24941 ....
+At time: 148255,  Enabled transitions are:    tWAITING
+At time: 148255,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148285   **
+State: 24942
+Fired Transition: tWAITING
+Current State: 1740p3 + 148260p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24942 ....
+At time: 148285,  Enabled transitions are:    tWAITING
+At time: 148285,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148315   **
+State: 24943
+Fired Transition: tWAITING
+Current State: 1710p3 + 148290p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24943 ....
+At time: 148315,  Enabled transitions are:    tWAITING
+At time: 148315,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148345   **
+State: 24944
+Fired Transition: tWAITING
+Current State: 1680p3 + 148320p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24944 ....
+At time: 148345,  Enabled transitions are:    tWAITING
+At time: 148345,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148375   **
+State: 24945
+Fired Transition: tWAITING
+Current State: 1650p3 + 148350p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24945 ....
+At time: 148375,  Enabled transitions are:    tWAITING
+At time: 148375,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148405   **
+State: 24946
+Fired Transition: tWAITING
+Current State: 1620p3 + 148380p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24946 ....
+At time: 148405,  Enabled transitions are:    tWAITING
+At time: 148405,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148435   **
+State: 24947
+Fired Transition: tWAITING
+Current State: 1590p3 + 148410p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24947 ....
+At time: 148435,  Enabled transitions are:    tWAITING
+At time: 148435,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148465   **
+State: 24948
+Fired Transition: tWAITING
+Current State: 1560p3 + 148440p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24948 ....
+At time: 148465,  Enabled transitions are:    tWAITING
+At time: 148465,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148495   **
+State: 24949
+Fired Transition: tWAITING
+Current State: 1530p3 + 148470p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24949 ....
+At time: 148495,  Enabled transitions are:    tWAITING
+At time: 148495,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148525   **
+State: 24950
+Fired Transition: tWAITING
+Current State: 1500p3 + 148500p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24950 ....
+At time: 148525,  Enabled transitions are:    tWAITING
+At time: 148525,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148555   **
+State: 24951
+Fired Transition: tWAITING
+Current State: 1470p3 + 148530p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24951 ....
+At time: 148555,  Enabled transitions are:    tWAITING
+At time: 148555,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148585   **
+State: 24952
+Fired Transition: tWAITING
+Current State: 1440p3 + 148560p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24952 ....
+At time: 148585,  Enabled transitions are:    tWAITING
+At time: 148585,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148615   **
+State: 24953
+Fired Transition: tWAITING
+Current State: 1410p3 + 148590p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24953 ....
+At time: 148615,  Enabled transitions are:    tWAITING
+At time: 148615,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148645   **
+State: 24954
+Fired Transition: tWAITING
+Current State: 1380p3 + 148620p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24954 ....
+At time: 148645,  Enabled transitions are:    tWAITING
+At time: 148645,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148675   **
+State: 24955
+Fired Transition: tWAITING
+Current State: 1350p3 + 148650p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24955 ....
+At time: 148675,  Enabled transitions are:    tWAITING
+At time: 148675,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148705   **
+State: 24956
+Fired Transition: tWAITING
+Current State: 1320p3 + 148680p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24956 ....
+At time: 148705,  Enabled transitions are:    tWAITING
+At time: 148705,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148735   **
+State: 24957
+Fired Transition: tWAITING
+Current State: 1290p3 + 148710p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24957 ....
+At time: 148735,  Enabled transitions are:    tWAITING
+At time: 148735,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148765   **
+State: 24958
+Fired Transition: tWAITING
+Current State: 1260p3 + 148740p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24958 ....
+At time: 148765,  Enabled transitions are:    tWAITING
+At time: 148765,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148795   **
+State: 24959
+Fired Transition: tWAITING
+Current State: 1230p3 + 148770p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24959 ....
+At time: 148795,  Enabled transitions are:    tWAITING
+At time: 148795,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148825   **
+State: 24960
+Fired Transition: tWAITING
+Current State: 1200p3 + 148800p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24960 ....
+At time: 148825,  Enabled transitions are:    tWAITING
+At time: 148825,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148855   **
+State: 24961
+Fired Transition: tWAITING
+Current State: 1170p3 + 148830p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24961 ....
+At time: 148855,  Enabled transitions are:    tWAITING
+At time: 148855,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148885   **
+State: 24962
+Fired Transition: tWAITING
+Current State: 1140p3 + 148860p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24962 ....
+At time: 148885,  Enabled transitions are:    tWAITING
+At time: 148885,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148915   **
+State: 24963
+Fired Transition: tWAITING
+Current State: 1110p3 + 148890p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24963 ....
+At time: 148915,  Enabled transitions are:    tWAITING
+At time: 148915,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148945   **
+State: 24964
+Fired Transition: tWAITING
+Current State: 1080p3 + 148920p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24964 ....
+At time: 148945,  Enabled transitions are:    tWAITING
+At time: 148945,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 148975   **
+State: 24965
+Fired Transition: tWAITING
+Current State: 1050p3 + 148950p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24965 ....
+At time: 148975,  Enabled transitions are:    tWAITING
+At time: 148975,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149005   **
+State: 24966
+Fired Transition: tWAITING
+Current State: 1020p3 + 148980p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24966 ....
+At time: 149005,  Enabled transitions are:    tWAITING
+At time: 149005,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149035   **
+State: 24967
+Fired Transition: tWAITING
+Current State: 990p3 + 149010p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24967 ....
+At time: 149035,  Enabled transitions are:    tWAITING
+At time: 149035,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149065   **
+State: 24968
+Fired Transition: tWAITING
+Current State: 960p3 + 149040p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24968 ....
+At time: 149065,  Enabled transitions are:    tWAITING
+At time: 149065,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149095   **
+State: 24969
+Fired Transition: tWAITING
+Current State: 930p3 + 149070p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24969 ....
+At time: 149095,  Enabled transitions are:    tWAITING
+At time: 149095,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149125   **
+State: 24970
+Fired Transition: tWAITING
+Current State: 900p3 + 149100p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24970 ....
+At time: 149125,  Enabled transitions are:    tWAITING
+At time: 149125,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149155   **
+State: 24971
+Fired Transition: tWAITING
+Current State: 870p3 + 149130p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24971 ....
+At time: 149155,  Enabled transitions are:    tWAITING
+At time: 149155,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149185   **
+State: 24972
+Fired Transition: tWAITING
+Current State: 840p3 + 149160p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24972 ....
+At time: 149185,  Enabled transitions are:    tWAITING
+At time: 149185,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149215   **
+State: 24973
+Fired Transition: tWAITING
+Current State: 810p3 + 149190p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24973 ....
+At time: 149215,  Enabled transitions are:    tWAITING
+At time: 149215,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149245   **
+State: 24974
+Fired Transition: tWAITING
+Current State: 780p3 + 149220p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24974 ....
+At time: 149245,  Enabled transitions are:    tWAITING
+At time: 149245,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149275   **
+State: 24975
+Fired Transition: tWAITING
+Current State: 750p3 + 149250p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24975 ....
+At time: 149275,  Enabled transitions are:    tWAITING
+At time: 149275,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149305   **
+State: 24976
+Fired Transition: tWAITING
+Current State: 720p3 + 149280p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24976 ....
+At time: 149305,  Enabled transitions are:    tWAITING
+At time: 149305,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149335   **
+State: 24977
+Fired Transition: tWAITING
+Current State: 690p3 + 149310p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24977 ....
+At time: 149335,  Enabled transitions are:    tWAITING
+At time: 149335,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149365   **
+State: 24978
+Fired Transition: tWAITING
+Current State: 660p3 + 149340p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24978 ....
+At time: 149365,  Enabled transitions are:    tWAITING
+At time: 149365,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149395   **
+State: 24979
+Fired Transition: tWAITING
+Current State: 630p3 + 149370p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24979 ....
+At time: 149395,  Enabled transitions are:    tWAITING
+At time: 149395,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149425   **
+State: 24980
+Fired Transition: tWAITING
+Current State: 600p3 + 149400p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24980 ....
+At time: 149425,  Enabled transitions are:    tWAITING
+At time: 149425,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149455   **
+State: 24981
+Fired Transition: tWAITING
+Current State: 570p3 + 149430p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24981 ....
+At time: 149455,  Enabled transitions are:    tWAITING
+At time: 149455,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149485   **
+State: 24982
+Fired Transition: tWAITING
+Current State: 540p3 + 149460p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24982 ....
+At time: 149485,  Enabled transitions are:    tWAITING
+At time: 149485,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149515   **
+State: 24983
+Fired Transition: tWAITING
+Current State: 510p3 + 149490p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24983 ....
+At time: 149515,  Enabled transitions are:    tWAITING
+At time: 149515,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149545   **
+State: 24984
+Fired Transition: tWAITING
+Current State: 480p3 + 149520p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24984 ....
+At time: 149545,  Enabled transitions are:    tWAITING
+At time: 149545,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149575   **
+State: 24985
+Fired Transition: tWAITING
+Current State: 450p3 + 149550p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24985 ....
+At time: 149575,  Enabled transitions are:    tWAITING
+At time: 149575,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149605   **
+State: 24986
+Fired Transition: tWAITING
+Current State: 420p3 + 149580p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24986 ....
+At time: 149605,  Enabled transitions are:    tWAITING
+At time: 149605,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149635   **
+State: 24987
+Fired Transition: tWAITING
+Current State: 390p3 + 149610p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24987 ....
+At time: 149635,  Enabled transitions are:    tWAITING
+At time: 149635,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149665   **
+State: 24988
+Fired Transition: tWAITING
+Current State: 360p3 + 149640p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24988 ....
+At time: 149665,  Enabled transitions are:    tWAITING
+At time: 149665,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149695   **
+State: 24989
+Fired Transition: tWAITING
+Current State: 330p3 + 149670p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24989 ....
+At time: 149695,  Enabled transitions are:    tWAITING
+At time: 149695,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149725   **
+State: 24990
+Fired Transition: tWAITING
+Current State: 300p3 + 149700p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24990 ....
+At time: 149725,  Enabled transitions are:    tWAITING
+At time: 149725,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149755   **
+State: 24991
+Fired Transition: tWAITING
+Current State: 270p3 + 149730p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24991 ....
+At time: 149755,  Enabled transitions are:    tWAITING
+At time: 149755,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149785   **
+State: 24992
+Fired Transition: tWAITING
+Current State: 240p3 + 149760p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24992 ....
+At time: 149785,  Enabled transitions are:    tWAITING
+At time: 149785,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149815   **
+State: 24993
+Fired Transition: tWAITING
+Current State: 210p3 + 149790p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24993 ....
+At time: 149815,  Enabled transitions are:    tWAITING
+At time: 149815,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149845   **
+State: 24994
+Fired Transition: tWAITING
+Current State: 180p3 + 149820p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24994 ....
+At time: 149845,  Enabled transitions are:    tWAITING
+At time: 149845,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149875   **
+State: 24995
+Fired Transition: tWAITING
+Current State: 150p3 + 149850p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24995 ....
+At time: 149875,  Enabled transitions are:    tWAITING
+At time: 149875,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149905   **
+State: 24996
+Fired Transition: tWAITING
+Current State: 120p3 + 149880p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24996 ....
+At time: 149905,  Enabled transitions are:    tWAITING
+At time: 149905,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149935   **
+State: 24997
+Fired Transition: tWAITING
+Current State: 90p3 + 149910p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24997 ....
+At time: 149935,  Enabled transitions are:    tWAITING
+At time: 149935,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149965   **
+State: 24998
+Fired Transition: tWAITING
+Current State: 60p3 + 149940p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24998 ....
+At time: 149965,  Enabled transitions are:    tWAITING
+At time: 149965,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 149995   **
+State: 24999
+Fired Transition: tWAITING
+Current State: 30p3 + 149970p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-24999 ....
+At time: 149995,  Enabled transitions are:    tWAITING
+At time: 149995,  Firing transitions are:     tWAITING
+ 
+ 
+**    Time: 150025   **
+State: 25000
+Fired Transition: tWAITING
+Current State: 150000p4   
+Virtual tokens: (no tokens)
+ 
+Right after new state-25000 ....
+At time: 150025,  Enabled transitions are: 
+At time: 150025,  Firing transitions are:  
+ 
+ 
+ 
+ 
+Occupancy analysis .... 
+Simulation Completion Time: 166663.75
+occupancy tREGISTRATION: 
+  total time: 50000
+  Percentage time: 30.0005%
+occupancy tVACCINATION: 
+  total time: 100000
+  Percentage time: 60.0011%
+occupancy tWAITING: 
+  total time: 150000
+  Percentage time: 90.0016%
+>> 

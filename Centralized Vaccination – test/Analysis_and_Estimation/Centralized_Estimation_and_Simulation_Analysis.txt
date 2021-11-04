@@ -1,0 +1,13 @@
+*** Centralized Estimation and Simulation Analysis ***
+
+-> To vaccinate 1125 residents, the simulation took 1463.75 time units (minutes)
+
+-> It can then be estimated to take (1463.75)/(1140) = 1,29 minutes to vaccinate one resident.
+-> To vaccinate all residents can be estimated to take 150 000 * 1,29 = 193 500 minutes
+-> And every staff and/or health worker can only work 7,5 hours a day
+-> 193 500 work minutes (/60) = 3 225 work hours (/7,5) = 430 work days
+
+------------------------------------
+After a full run of the 150 000 residents of Stavanger, the simulation took ?????? time units (minutes)
+-> And every staff and/or health worker can only work 7,5 hours a day
+-> ?????? work minutes = ?????? work hours = ?????? days
