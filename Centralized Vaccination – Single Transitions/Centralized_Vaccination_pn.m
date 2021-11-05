@@ -53,8 +53,8 @@ pni = initialdynamics(pns, dyn);
 
 sim = gpensim(pni); % perform simulation runs
 %prnss(sim);  % print the simulation results 
-%plotp(sim, {'p1'})
-plotp(sim, {'p1','p2','p3','p4','p5'}); % plot the results
+plotp(sim, {'p2','p3'})
+%plotp(sim, {'p1','p2','p3','p4','p5'}); % plot the results
 %cotree(pni, 1, 1) % reachability tree, text disp and graphical disp
 
 %occupancy(sim, {'tREGISTRATION', 'tVACCINATION', 'tWAITING'});
