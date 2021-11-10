@@ -23,7 +23,7 @@ num_of_vaccines = num_of_residents
 % dyn.re = {'Staff',5,7*60*60,'Health_Workers',10,7*60*60,'Waiting_Rooms',10,7*60*60}; 
 
 dyn.m0 = {'p1',0, 'p2',0, 'p3',0, 'p4',0, 'p5',num_of_vaccines};
-dyn.ft = {'tVISITOR',15*60, 'tREGISTRATION',5*60, 'tVACCINATION',10*60, 'tWAITING',30*60};
+dyn.ft = {'tVISITOR',15*60, 'tREGISTRATION',1*60, 'tVACCINATION',1*60, 'tWAITING',3*60};
 dyn.re = {'Staff',5,7*60*60,'Health_Workers',10,7*60*60,'Waiting_Rooms',10,7*60*60};
 
 pni = initialdynamics(pns, dyn); 
