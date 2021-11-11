@@ -1,7 +1,12 @@
 function [fire, transition] = COMMON_PRE(transition)
+    global global_info;
     
-    if contains(transition.name, 'tVISITOR')
-        fire = 1;
+    if contains(transition.name, 'tVISITOR')    
+        if lt(current_time(), global_info.STOP_RECEIVING_VISITORS_AT)
+            fire = 1;
+        else
+            fire = 0;
+        end;
     elseif contains(transition.name, 'tREGISTRATION')
         granted = requestSR({'Staff',1});
         % fire only if resource acquired 

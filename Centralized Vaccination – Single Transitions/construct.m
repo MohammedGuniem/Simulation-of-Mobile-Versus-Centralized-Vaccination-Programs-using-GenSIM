@@ -24,7 +24,7 @@ function [ft] = FT(num_of_staff, num_of_health_workers, num_of_waiting_rooms)
     ft = cell(1, 0);
     
     ft{end+1} = 'tVISITOR';
-    ft{end+1} = 15*60;
+    ft{end+1} = 1*60;
 
     for s = 1:num_of_staff
         ft{end+1} = ['tREGISTRATION_',num2str(s)];
@@ -67,9 +67,11 @@ function [set_of_As] = AS(num_of_staff,num_of_health_workers,num_of_waiting_room
     
     set_of_As = cell(1, 0);
     
+    global global_info
+    
     set_of_As{end+1} = 'tVISITOR';
     set_of_As{end+1} = 'p1';
-    set_of_As{end+1} = 16;
+    set_of_As{end+1} = global_info.number_of_visitors_each_minute;
     
     % to tREGISTRATION_*
     for s = 1:num_of_staff
