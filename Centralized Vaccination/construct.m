@@ -1,21 +1,35 @@
-% %Test
+%%Uncooment this section of code from line 3 to 14 to test the results of
+%%methods in this file.
 % clear all;
 % clc;
+% 
 % num_of_staff = 2;
 % num_of_health_workers = 4;
-% num_of_waiting_roms = 8;
+% num_of_waiting_rooms = 8;
 % 
-% ft = construct('firing_times', num_of_staff, num_of_health_workers, num_of_waiting_rooms);
-% Ts = construct('transitions', num_of_staff, num_of_health_workers, num_of_waiting_rooms);
-% set_of_As = construct('arches', num_of_staff, num_of_health_workers, num_of_waiting_rooms);
+% ft = construct_set('firing_times', num_of_staff, num_of_health_workers, num_of_waiting_rooms);
+% Ts = construct_set('transitions', num_of_staff, num_of_health_workers, num_of_waiting_rooms);
+% global global_info
+% global_info.num_of_visitors_each_minute = 1;
+% set_of_As = construct_set('arcs', num_of_staff, num_of_health_workers, num_of_waiting_rooms);
 
-function cell = construct(type, num_of_staff, num_of_health_workers, num_of_waiting_rooms)
+% A bundle method that can be used to dynamically construct:
+% type = 'firing_times': The firing times of transitions 
+% by calling the FT method down below
+% type = 'transitions': The set of transitions in the petri net of
+% centralized vaccination by calling the TS method down below
+% type = 'arcs': The set of arcs in the petri net of
+% centralized vaccination by calling the AS method down below
+function cell = construct_set(type, num_of_staff, num_of_health_workers, num_of_waiting_rooms)
+    global global_info;
+    
     if strcmp(type, 'firing_times')
         cell = FT(num_of_staff, num_of_health_workers, num_of_waiting_rooms);
     elseif strcmp(type, 'transitions')
-        cell = TS(num_of_staff,num_of_health_workers,num_of_waiting_rooms);
-    elseif strcmp(type, 'arches')
-        cell = AS(num_of_staff, num_of_health_workers, num_of_waiting_rooms);
+        cell = TS(num_of_staff, num_of_health_workers, num_of_waiting_rooms);
+    elseif strcmp(type, 'arcs')
+        cell = AS(global_info.num_of_visitors_each_minute,...
+        num_of_staff, num_of_health_workers, num_of_waiting_rooms);
     end
 end
 
@@ -63,15 +77,13 @@ function [Ts] = TS(num_of_staff, num_of_health_workers, num_of_waiting_rooms)
 
 end
 
-function [set_of_As] = AS(num_of_staff,num_of_health_workers,num_of_waiting_rooms)
+function [set_of_As] = AS(num_of_visitors_each_minute, num_of_staff, num_of_health_workers, num_of_waiting_rooms)
     
     set_of_As = cell(1, 0);
     
-    global global_info
-    
     set_of_As{end+1} = 'tVISITOR';
     set_of_As{end+1} = 'p1';
-    set_of_As{end+1} = global_info.number_of_visitors_each_minute;
+    set_of_As{end+1} = num_of_visitors_each_minute;
     
     % to tREGISTRATION_*
     for s = 1:num_of_staff
