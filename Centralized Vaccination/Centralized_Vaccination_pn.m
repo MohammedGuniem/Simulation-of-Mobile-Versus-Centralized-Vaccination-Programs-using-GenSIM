@@ -14,23 +14,19 @@ global_info.STOP_AT  = [16 00 0];
 % Reception is closed at 15:30
 global_info.STOP_RECEIVING_VISITORS_AT = 15.5*60*60; 
 
-% Assuming we get a even distribution of 1 visitor per minute 
+% Assuming we get an even distribution of 1 visitor per minute 
 % from 8 am to 15:30
 global_info.time_between_visitors = 5*60; %1*60;
 global_info.num_of_visitors_at_each_fire = 1; 
 
-% Study Case includes 5 staff, 
-% each available for 7,5 hours of work during the simulation
-% since they have a 0.5 hours break in one work day.
+% Number of health staff at duty.
 global_info.num_of_staff = 1; %5;
 
-% Study Case includes 10 health works, 
-% each available for 7,5 hours of work during the simulation
-% since they have a 0.5 hours break in one work day.
+% Number of health workers at duty.
 global_info.num_of_health_workers = 2; %10;
 
-% Study Case includes 5 waiting rooms to be used 
-% for observation after vaccination
+% Number of available waiting rooms to be used 
+% for observation after vaccination.
 global_info.num_of_waiting_rooms = 6; %30;
 
 pns = pnstruct('Centralized_Vaccination_pn_pdf');
