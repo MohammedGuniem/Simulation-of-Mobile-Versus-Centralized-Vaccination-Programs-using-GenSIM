@@ -24,21 +24,22 @@ function cell = construct_set(type, num_of_staff, num_of_health_workers, num_of_
     global global_info;
     
     if strcmp(type, 'firing_times')
-        cell = FT(num_of_staff, num_of_health_workers, num_of_waiting_rooms);
+        cell = FT(global_info.time_between_visitors,...
+            num_of_staff, num_of_health_workers, num_of_waiting_rooms);
     elseif strcmp(type, 'transitions')
         cell = TS(num_of_staff, num_of_health_workers, num_of_waiting_rooms);
     elseif strcmp(type, 'arcs')
-        cell = AS(global_info.num_of_visitors_each_minute,...
-        num_of_staff, num_of_health_workers, num_of_waiting_rooms);
+        cell = AS(global_info.num_of_visitors_at_each_fire,...
+            num_of_staff, num_of_health_workers,num_of_waiting_rooms);
     end
 end
 
-function [ft] = FT(num_of_staff, num_of_health_workers, num_of_waiting_rooms)
+function [ft] = FT(time_between_visitors, num_of_staff, num_of_health_workers, num_of_waiting_rooms)
     
     ft = cell(1, 0);
     
     ft{end+1} = 'tVISITOR';
-    ft{end+1} = 1*60;
+    ft{end+1} = time_between_visitors;
 
     for s = 1:num_of_staff
         ft{end+1} = ['tREGISTRATION_',num2str(s)];
@@ -77,13 +78,13 @@ function [Ts] = TS(num_of_staff, num_of_health_workers, num_of_waiting_rooms)
 
 end
 
-function [set_of_As] = AS(num_of_visitors_each_minute, num_of_staff, num_of_health_workers, num_of_waiting_rooms)
+function [set_of_As] = AS(num_of_visitors_at_each_fire, num_of_staff, num_of_health_workers, num_of_waiting_rooms)
     
     set_of_As = cell(1, 0);
     
     set_of_As{end+1} = 'tVISITOR';
     set_of_As{end+1} = 'p1';
-    set_of_As{end+1} = num_of_visitors_each_minute;
+    set_of_As{end+1} = num_of_visitors_at_each_fire;
     
     % to tREGISTRATION_*
     for s = 1:num_of_staff

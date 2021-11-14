@@ -16,33 +16,37 @@ global_info.STOP_RECEIVING_VISITORS_AT = 15.5*60*60;
 
 % Assuming we get a even distribution of 1 visitor per minute 
 % from 8 am to 15:30
-global_info.num_of_visitors_each_minute = 1; 
+global_info.time_between_visitors = 5*60; %1*60;
+global_info.num_of_visitors_at_each_fire = 1; 
 
 % Study Case includes 5 staff, 
 % each available for 7,5 hours of work during the simulation
 % since they have a 0.5 hours break in one work day.
-global_info.num_of_staff = 5;
+global_info.num_of_staff = 1; %5;
 
 % Study Case includes 10 health works, 
 % each available for 7,5 hours of work during the simulation
 % since they have a 0.5 hours break in one work day.
-global_info.num_of_health_workers = 10;
+global_info.num_of_health_workers = 2; %10;
 
 % Study Case includes 5 waiting rooms to be used 
 % for observation after vaccination
-global_info.num_of_waiting_rooms = 30;
+global_info.num_of_waiting_rooms = 6; %30;
 
 pns = pnstruct('Centralized_Vaccination_pn_pdf');
 
 % initial tokens
 
 % Here we set the number of vaccines doses available to be used,
-% Set this number very carefully to make sure 
-% there is enough vaccines to everybody.
-% This should equal the target number of visitors to process:
-% If we are planning on receiving 1 visitor each minute for 7.5 hours,
-% then we can are going to need 7.5*60 = 450 doses of vaccine.
-num_of_vaccines = 450;
+% because we would like to assume we have enough vaccine doses to everyone
+% and we know that the process of waiting for any abnormal reactions
+% is the bottle neck and it is also the longest and last process.
+% we can dynamically set this number to be equal to =
+% The number of available waiting rooms 
+% X 2(a waiting room can process 2 visitors each hour)
+% X 8(the rooms are available 8 hours per day which is the length of this simulation)
+% for 6 rooms we get 96 doses of vaccines.
+num_of_vaccines = global_info.num_of_waiting_rooms*2*8; 
 
 % The places in the topology of petri net for centralized vaccination
 % No queuing algorithm is used, but random selection of visitors from
