@@ -33,9 +33,9 @@ end
 function [ft] = FT(num_of_health_workers)
     ft = cell(1, 0);
     
-    for h = 1:(num_of_health_workers/2)
-        ft{end+1} = ['tDRIVE_',num2str(h)];
-        ft{end+1} = 5*60;
+    for h = 1:(num_of_health_workers)
+        ft{end+1} = ['tDISPATCH_',num2str(h)];
+        ft{end+1} = 15*60;
         ft{end+1} = ['tVACCINATION_',num2str(h)];
         ft{end+1} = 10*60;
         ft{end+1} = ['tCOMPLETION_',num2str(h)];
@@ -47,8 +47,8 @@ function [Ts] = TS(num_of_health_workers)
 
     Ts = cell(1, 0);
     
-    for h = 1:(num_of_health_workers/2)
-        Ts{end+1} = ['tDRIVE_',num2str(h)];
+    for h = 1:(num_of_health_workers)
+        Ts{end+1} = ['tDISPATCH_',num2str(h)];
         Ts{end+1} = ['tVACCINATION_',num2str(h)];
         Ts{end+1} = ['tCOMPLETION_',num2str(h)];
     end
@@ -61,38 +61,38 @@ function [set_of_As] = AS(num_of_health_workers)
 
     set_of_As = cell(1, 0);
     
-    % to tDRIVE_*
-    for h = 1:(num_of_health_workers/2)
+    % to tDISPATCH_*
+    for h = 1:(num_of_health_workers)
         
         set_of_As{end+1} = 'p1';
-        set_of_As{end+1} = ['tDRIVE_',num2str(h)];
-        set_of_As{end+1} = 2;
+        set_of_As{end+1} = ['tDISPATCH_',num2str(h)];
+        set_of_As{end+1} = 1;
         
         set_of_As{end+1} = 'p2';
-        set_of_As{end+1} = ['tDRIVE_',num2str(h)];
+        set_of_As{end+1} = ['tDISPATCH_',num2str(h)];
         set_of_As{end+1} = 1;
         
         set_of_As{end+1} = 'p3';
-        set_of_As{end+1} = ['tDRIVE_',num2str(h)];
+        set_of_As{end+1} = ['tDISPATCH_',num2str(h)];
         set_of_As{end+1} = 1;
         
     end
         
-    % from tDRIVE_*
-    for h = 1:(num_of_health_workers/2)
+    % from tDISPATCH_*
+    for h = 1:(num_of_health_workers)
         
-        set_of_As{end+1} = ['tDRIVE_',num2str(h)];
+        set_of_As{end+1} = ['tDISPATCH_',num2str(h)];
         set_of_As{end+1} = 'p4';
-        set_of_As{end+1} = 2;
+        set_of_As{end+1} = 1;
         
-        set_of_As{end+1} = ['tDRIVE_',num2str(h)];
+        set_of_As{end+1} = ['tDISPATCH_',num2str(h)];
         set_of_As{end+1} = 'p5';
         set_of_As{end+1} = global_info.residents_per_street;
         
     end
     
     % to tVACCINATION_*
-    for h = 1:(num_of_health_workers/2)
+    for h = 1:(num_of_health_workers)
         
         set_of_As{end+1} = 'p4';
         set_of_As{end+1} = ['tVACCINATION_',num2str(h)];
@@ -109,7 +109,7 @@ function [set_of_As] = AS(num_of_health_workers)
     end
     
     % from tVACCINATION_*
-    for h = 1:(num_of_health_workers/2)
+    for h = 1:(num_of_health_workers)
         
         set_of_As{end+1} = ['tVACCINATION_',num2str(h)];
         set_of_As{end+1} = 'p4';
@@ -122,11 +122,11 @@ function [set_of_As] = AS(num_of_health_workers)
     end
     
     % to tCOMPLETION_*
-    for h = 1:(num_of_health_workers/2)
+    for h = 1:(num_of_health_workers)
         
         set_of_As{end+1} = 'p4';
         set_of_As{end+1} = ['tCOMPLETION_',num2str(h)];
-        set_of_As{end+1} = 2;
+        set_of_As{end+1} = 1;
         
         set_of_As{end+1} = 'p7';
         set_of_As{end+1} = ['tCOMPLETION_',num2str(h)];
@@ -135,15 +135,15 @@ function [set_of_As] = AS(num_of_health_workers)
     end
     
     % from tCOMPLETION_*
-    for h = 1:(num_of_health_workers/2)
+    for h = 1:(num_of_health_workers)
 
         set_of_As{end+1} = ['tCOMPLETION_',num2str(h)];
         set_of_As{end+1} = 'p1';
-        set_of_As{end+1} = 2;
+        set_of_As{end+1} = 1;
         
         set_of_As{end+1} = ['tCOMPLETION_',num2str(h)];
         set_of_As{end+1} = 'p3';
-        set_of_As{end+1} = global_info.residents_per_street;
+        set_of_As{end+1} = 1;
         
         set_of_As{end+1} = ['tCOMPLETION_',num2str(h)];
         set_of_As{end+1} = 'p8';

@@ -16,18 +16,18 @@ global_info.STOP_RECEIVING_VISITORS_AT = 15.5*60*60;
 
 % Assuming we get an even distribution of 1 visitor per minute 
 % from 8 am to 15:30
-global_info.time_between_visitors = 5*60; %1*60;
-global_info.num_of_visitors_at_each_fire = 1; 
+global_info.time_between_visitors = 1*60; %1*60;
+global_info.num_of_visitors_at_each_fire = 2; 
 
 % Number of health staff at duty.
-global_info.num_of_staff = 1; %5;
+global_info.num_of_staff = 8; %5;
 
 % Number of health workers at duty.
-global_info.num_of_health_workers = 2; %10;
+global_info.num_of_health_workers = 16; %10;
 
 % Number of available waiting rooms to be used 
 % for observation after vaccination.
-global_info.num_of_waiting_rooms = 6; %30;
+global_info.num_of_waiting_rooms = 48; %30;
 
 pns = pnstruct('Centralized_Vaccination_pn_pdf');
 
@@ -103,3 +103,4 @@ plotp(sim, {'p1','p2','p3','p4','p5'});
 % Uncomment to print the schedualed resource use.
 %prnschedule(sim);
 
+% Final Current State: 180p1 + 696p4 + 48p5
