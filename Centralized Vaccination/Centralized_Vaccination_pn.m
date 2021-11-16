@@ -5,33 +5,32 @@ clc;
 
 global global_info
 
-% Start simulations at 8:00 AM
+% Starts the simulation at 8:00 AM
 global_info.START_AT = [8 0 0]; 
-
-% Stop  simulations at 16:00
+% Stops the simulation at 16:00
 global_info.STOP_AT  = [16 00 0];
-
 % Reception is closed at 15:30
 global_info.STOP_RECEIVING_VISITORS_AT = 15.5*60*60; 
 
-% Assuming we get an even distribution of 1 visitor per minute 
-% from 8 am to 15:30
-global_info.time_between_visitors = 1*60; %1*60;
-global_info.num_of_visitors_at_each_fire = 2; 
+% Determines the time between vistors.
+global_info.time_between_visitors = 5*60;
 
-% Number of health staff at duty.
-global_info.num_of_staff = 8; %5;
+% Sets how many visitors are arriving at the same time.
+%global_info.num_of_visitors_at_each_fire = 1; %Example with simple minimum resources.
+global_info.num_of_visitors_at_each_fire = 8; %Example with realistic resources.
 
-% Number of health workers at duty.
-global_info.num_of_health_workers = 16; %10;
+% Number of staff at duty, staff are responsible for registration.
+%global_info.num_of_staff = 1; %Example with simple minimum resources.
+global_info.num_of_staff = 8; %Example with realistic resources.
+
+% Number of health workers at duty, health workers handles the vaccination.
+%global_info.num_of_health_workers = 2; %Example with simple minimum resources.
+global_info.num_of_health_workers = 16; %Example with realistic resources.
 
 % Number of available waiting rooms to be used 
 % for observation after vaccination.
-global_info.num_of_waiting_rooms = 48; %30;
-
-pns = pnstruct('Centralized_Vaccination_pn_pdf');
-
-% initial tokens
+%global_info.num_of_waiting_rooms = 6; %Example with simple minimum resources.
+global_info.num_of_waiting_rooms = 48; %Example with realistic resources.
 
 % Here we set the number of vaccines doses available to be used,
 % because we would like to assume we have enough vaccine doses to everyone
@@ -41,12 +40,14 @@ pns = pnstruct('Centralized_Vaccination_pn_pdf');
 % The number of available waiting rooms 
 % X 2(a waiting room can process 2 visitors each hour)
 % X 8(the rooms are available 8 hours per day which is the length of this simulation)
-% for 6 rooms we get 96 doses of vaccines.
 num_of_vaccines = global_info.num_of_waiting_rooms*2*8; 
 
+pns = pnstruct('Centralized_Vaccination_pn_pdf');
+
+% Initial tokens
 % The places in the topology of petri net for centralized vaccination
 % No queuing algorithm is used, but random selection of visitors from
-% the next transition.
+% the next firing transition.
 % p1 = Place for visitors upon arrival before registration.
 % p2 = Place for registered visitors waiting for vaccination.
 % p3 = Place for vaccinated visitors waiting to access a waiting room.
@@ -68,11 +69,11 @@ dyn.ft = construct('firing_times',...
 
 % The resources are
 % Staff who works with registration, 
-% available (7.5 hours), break (0.5 hour)
-% Health workers who works with vaccination, 
-% available (7.5 hours), break (0.5 hour)
-% waiting rooms to be used for observation., 
-% available the entire day (Inf), no break
+% available (7.5 hours), each get a break of (0.5 hour) each day.
+% Health workers who work with vaccination, 
+% available (7.5 hours), each get a break of (0.5 hour) each day.
+% Waiting rooms to be used for observation, 
+% available to be occupied the entire day (Inf)
 dyn.re = {
     'Staff',global_info.num_of_staff,7.5*60*60,...
     'Health_Workers',global_info.num_of_health_workers,7.5*60*60,...
@@ -95,12 +96,11 @@ plotp(sim, {'p1','p2','p3','p4','p5'});
 %cotree(pni, 1, 1) 
 
 % Uncomment to view the occupancy of resources by transistions
-%occupancy(sim, {'tREGISTRATION', 'tVACCINATION', 'tWAITING'});
+% Change the number "1" to the number of the transitions you are examining. 
+%occupancy(sim, {'tREGISTRATION_1', 'tVACCINATION_1', 'tWAITING_1'});
 
 % Uncomment to plot the Gantt chart of the occupancy of resources
 %plotGC(sim); % plot the Gantt Chart
 
 % Uncomment to print the schedualed resource use.
 %prnschedule(sim);
-
-% Final Current State: 180p1 + 696p4 + 48p5

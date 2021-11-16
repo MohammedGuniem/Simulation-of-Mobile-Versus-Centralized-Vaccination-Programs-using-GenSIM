@@ -1,0 +1,32 @@
+* Running the simulation for the minimum number of resources:
+-> 1 Staff is able to register up to 
+1*12(per hour)*8(hours)=96 visitors during the simulation. 
+-> 2 Health Workers are able to vaccinate up to 
+2*6(per hour)*8(hours)=96 visitors during the simulation. 
+-> 6 Waiting Rooms can be occupied by up to 
+6*2(per hour)*8(hours)=96 visitors during the simulation.
+
+-> Final State at 15:55:00 PM.
+
+**    Time: 15:55:00   **
+State: 356
+Fired Transition: tWAITING_2
+Current State: 86p4 + 6p5   
+Virtual tokens: 4p3   
+
+-------------------------------------------------------------------------
+* Running the simulation for a realistic scenario of available resources:
+-> 8 Staff is able to register up to 
+8*12(per hour)*8(hours)=768 visitors during the simulation. 
+-> 16 Health Workers are able to vaccinate up to 
+16*6(per hour)*8(hours)=768 visitors during the simulation. 
+-> 48 Waiting Rooms can be occupied by up to 
+48*2(per hour)*8(hours)=768 visitors during the simulation.
+
+-> Final State at 15:55:00 PM.
+
+**    Time: 15:55:00   **
+State: 2218
+Fired Transition: tWAITING_11
+Current State: 688p4 + 48p5   
+Virtual tokens: 32p3  

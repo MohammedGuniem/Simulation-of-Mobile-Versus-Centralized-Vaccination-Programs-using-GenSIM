@@ -1,4 +1,4 @@
-%%Uncooment this section of code from line 3 to 14 to test the results of
+%%Uncooment this section of code from line 3 to 19 to test the results of
 %%methods in this file.
 % clear all;
 % clc;
@@ -7,15 +7,21 @@
 % num_of_health_workers = 4;
 % num_of_waiting_rooms = 8;
 % 
+% global global_info;
+% 
+% global_info.time_between_visitors = 1;
 % ft = construct_set('firing_times', num_of_staff, num_of_health_workers, num_of_waiting_rooms);
+% 
 % Ts = construct_set('transitions', num_of_staff, num_of_health_workers, num_of_waiting_rooms);
-% global global_info
+% 
 % global_info.num_of_visitors_each_minute = 1;
+% global_info.num_of_visitors_at_each_fire = 2;
 % set_of_As = construct_set('arcs', num_of_staff, num_of_health_workers, num_of_waiting_rooms);
+
 
 % A bundle method that can be used to dynamically construct:
 % type = 'firing_times': The firing times of transitions 
-% by calling the FT method down below
+% by calling the FT method down below.
 % type = 'transitions': The set of transitions in the petri net of
 % centralized vaccination by calling the TS method down below
 % type = 'arcs': The set of arcs in the petri net of

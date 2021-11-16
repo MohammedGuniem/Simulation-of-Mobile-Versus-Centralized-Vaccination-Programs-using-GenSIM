@@ -1,26 +1,29 @@
-%%Uncooment this section of code from line 3 to 14 to test the results of
+%%Uncooment this section of code from line 3 to 16 to test the results of
 %%methods in this file.
 % clear all;
 % clc;
 % 
-% num_of_staff = 2;
-% num_of_health_workers = 4;
-% num_of_waiting_rooms = 8;
-% 
-% ft = construct_set('firing_times', num_of_staff, num_of_health_workers, num_of_waiting_rooms);
-% Ts = construct_set('transitions', num_of_staff, num_of_health_workers, num_of_waiting_rooms);
 % global global_info
+% 
+% global_info.num_of_health_workers = 4;
+% 
+% ft = construct_set('firing_times', global_info.num_of_health_workers);
+% 
+% Ts = construct_set('transitions', global_info.num_of_health_workers);
+% 
 % global_info.num_of_visitors_each_minute = 1;
-% set_of_As = construct_set('arcs', num_of_staff, num_of_health_workers, num_of_waiting_rooms);
+% global_info.residents_per_street = 25;
+% set_of_As = construct_set('arcs', global_info.num_of_health_workers);
+
 
 % A bundle method that can be used to dynamically construct:
 % type = 'firing_times': The firing times of transitions 
 % by calling the FT method down below
 % type = 'transitions': The set of transitions in the petri net of
-% centralized vaccination by calling the TS method down below
+% mobile vaccination by calling the TS method down below
 % type = 'arcs': The set of arcs in the petri net of
-% centralized vaccination by calling the AS method down below
-function cell = construct(type, num_of_health_workers)
+% mobile vaccination by calling the AS method down below
+function cell = construct_set(type, num_of_health_workers)
     if strcmp(type, 'firing_times')
         cell = FT(num_of_health_workers);
     elseif strcmp(type, 'transitions')

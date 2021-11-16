@@ -7,17 +7,17 @@ function [] = COMMON_POST(transition)
         
     % Postprocessor for the tREGISTRATION transistions.
     elseif contains(transition.name, 'tREGISTRATION')
-        %release the resources after registration.
+        %release the occupied staff resource after registration is complete.
         release();
         
     % Postprocessor for the tVACCINATION transistions.
     elseif contains(transition.name, 'tVACCINATION')
-        %release the resources after vaccination.
+        %release the occupied health worker resource after vaccination is complete. 
         release();
      
     % Postprocessor for the tWAITING transistions.  
     elseif contains(transition.name, 'tWAITING')
-        %release the resources after waiting for any abnormal reaction.
+        %release the the occupied room resource after waiting for any abnormal reaction.
         release();
         
     end

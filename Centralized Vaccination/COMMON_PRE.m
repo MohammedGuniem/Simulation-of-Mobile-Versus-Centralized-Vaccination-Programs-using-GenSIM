@@ -17,7 +17,7 @@ function [fire, transition] = COMMON_PRE(transition)
         end;
         
     % Preprocessor for the tREGISTRATION transistions.
-    elseif contains(transition.name, 'tREGISTRATION')
+    elseif contains(transition.name, 'tREGISTRATION_')
         
         % One staff is needed to register one visitor
         granted = requestSR({'Staff',1});
@@ -26,7 +26,7 @@ function [fire, transition] = COMMON_PRE(transition)
         fire = granted; 
         
     % Preprocessor for the tVACCINATION transistions.
-    elseif contains(transition.name, 'tVACCINATION')
+    elseif contains(transition.name, 'tVACCINATION_')
         
         % One health worker is needed to register one visitor
         granted = requestSR({'Health_Workers',1});
@@ -35,7 +35,7 @@ function [fire, transition] = COMMON_PRE(transition)
         fire = granted; 
         
     % Preprocessor for the tWAITING transistions.
-    elseif contains(transition.name, 'tWAITING')
+    elseif contains(transition.name, 'tWAITING_')
         
         % One waiting room is needed to observe for any negative effects 
         % of the vaccine on the vaccinated person.

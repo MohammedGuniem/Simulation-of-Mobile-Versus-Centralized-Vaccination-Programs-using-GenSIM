@@ -1,0 +1,27 @@
+* Running the simulation for the minimum number of resources:
+-> 1 Health Worker
+-> 1 Vaccination Bus can be used by the 1 health worker.
+-> Each street assumed to have an average of 25 residents.
+-> The average number of residents per street in Stavanger is 70.
+
+-> Final State at 15:57:00 PM.
+
+**    Time: 15:57:00   **
+State: 48
+Fired Transition: tVACCINATION_1
+Current State: 97p2 + p4 + 17p5 + 2457p6 + 3p7 + 40p8   
+Virtual tokens: (no tokens)
+
+-------------------------------------------------------------------------
+* Running the simulation for a realistic scenario of available resources:
+-> 16 Health Worker
+-> 16 Vaccination Bus can be used by the 1 health worker.
+-> The average number of residents per street in Stavanger is 70.
+
+-> Final State at 15:57:00 PM.
+
+**    Time: 15:57:00   **
+State: 754
+Fired Transition: tVACCINATION_11
+Current State: 74p2 + 2p4 + 1018p5 + 1768p6 + 19p7 + 700p8   
+Virtual tokens: p1 + p2 + p3 + 13p4 + 13p5 + 13p6  
