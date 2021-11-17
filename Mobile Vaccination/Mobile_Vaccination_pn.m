@@ -12,11 +12,11 @@ global_info.STOP_AT  = [16 0 0];
 
 % Set the number of available health workers at duty, 
 % health workers handles the vaccination.
-%global_info.num_of_health_workers = 1; %Example with simple minimum resources.
+%global_info.num_of_health_workers = 2; %Example with simple minimum resources.
 global_info.num_of_health_workers = 16; %Example with realistic resources.
 
 % Set the number of available vaccination busses with their drivers.
-%global_info.num_of_busses = 1; %Example with minimum simple resources.
+%global_info.num_of_busses = 2; %Example with minimum simple resources.
 global_info.num_of_busses = 16; %Example with realistic resources.
 
 % Sets the number of residents to be vaccinated during the simulation.
@@ -29,7 +29,7 @@ global_info.num_of_streets = 100; % Example: 2021 unique streets in Stavanger
 % Assuming all streets have the same number of residents.
 % which is set to be the average number of residents between all streets.
 % make sure this is an integer.
-%global_info.residents_per_street = 20; % Simple example: 20 residents on each street.
+%global_info.residents_per_street = 20; % Simple Example: 20 residents on each street.
 global_info.residents_per_street = 70; % Example: ~70 residents on each street in Stavanger.
 
 % Assuming we have enough vaccines to everybody, 
