@@ -1,15 +1,16 @@
 -> Writing Plan
 
 - Abstract - 
-- Keywords - 
-- Motivation - 
-I- Introduction - 
-II- Centralized vs. Mobile Vaccination Programs - 
-III- Simulation Setup of A Centralized Vaccination Program - 
-IV- Experimental Simulation of a Centralized Vaccination Program using GPenSIM in Matlab - 
-V- Simulation Setup of A Mobile Vaccination Program - 
-VI- Experimental Simulation of a Mobile Vaccination Program using GPenSIM in Matlab - 
-VII- A Performance Comparsion between the centralized and mobile vaccination programs - 
+- Keywords - Done
+- Motivation - Done
+I- Introduction - Done
+II- Related Work - 
+III- Centralized vs. Mobile Vaccination Programs - Done
+IV- Simulation Setup of A Centralized Vaccination Program - 
+V- Experimental Simulation of a Centralized Vaccination Program using GPenSIM in Matlab - 
+VI- Simulation Setup of A Mobile Vaccination Program - 
+VII- Experimental Simulation of a Mobile Vaccination Program using GPenSIM in Matlab - 
+VIII- A Performance Comparsion between the centralized and mobile vaccination programs - 
 - Conclusion - 
 - Acknowledgment - 
 - References - 
