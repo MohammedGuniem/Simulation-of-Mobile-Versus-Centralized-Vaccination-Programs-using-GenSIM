@@ -10,23 +10,23 @@
 
 **    Time: 15:55:00   **
 State: 356
-Fired Transition: tWAITING_2
+Fired Transition: tWAITING_6
 Current State: 86p4 + 6p5   
-Virtual tokens: 4p3   
+Virtual tokens: 4p3
 
 -------------------------------------------------------------------------
 * Running the simulation for a realistic scenario of available resources:
--> 8 Staff is able to register up to 
-8*12(per hour)*8(hours)=768 visitors during the simulation. 
--> 16 Health Workers are able to vaccinate up to 
-16*6(per hour)*8(hours)=768 visitors during the simulation. 
--> 48 Waiting Rooms can be occupied by up to 
-48*2(per hour)*8(hours)=768 visitors during the simulation.
+-> 7 Staff is able to register up to 
+7*12(per hour)*8(hours)=768 visitors during the simulation. 
+-> 14 Health Workers are able to vaccinate up to 
+14*6(per hour)*8(hours)=768 visitors during the simulation. 
+-> 42 Waiting Rooms can be occupied by up to 
+42*2(per hour)*8(hours)=768 visitors during the simulation.
 
 -> Final State at 15:55:00 PM.
 
 **    Time: 15:55:00   **
-State: 2218
-Fired Transition: tWAITING_11
-Current State: 688p4 + 48p5   
-Virtual tokens: 32p3  
+State: 1952
+Fired Transition: tWAITING_41
+Current State: 602p4 + 42p5   
+Virtual tokens: 28p3  

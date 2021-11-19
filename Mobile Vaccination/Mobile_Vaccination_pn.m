@@ -10,14 +10,18 @@ global_info.START_AT = [8 0 0];
 % Stops the simulation at 16:00
 global_info.STOP_AT  = [16 0 0];
 
+% Gives the simulation a name, so it can be used in the resulted plots.
+%global_info.simulation_name = "Simple Simulation"; %Example with simple minimum resources.
+global_info.simulation_name = "Realistic Simulation"; %Example with simple minimum resources.
+
 % Set the number of available health workers at duty, 
 % health workers handles the vaccination.
 %global_info.num_of_health_workers = 2; %Example with simple minimum resources.
-global_info.num_of_health_workers = 16; %Example with realistic resources.
+global_info.num_of_health_workers = 14; %Example with realistic resources.
 
 % Set the number of available vaccination busses with their drivers.
 %global_info.num_of_busses = 2; %Example with minimum simple resources.
-global_info.num_of_busses = 16; %Example with realistic resources.
+global_info.num_of_busses = 14; %Example with realistic resources.
 
 % Sets the number of residents to be vaccinated during the simulation.
 global_info.num_of_residents = 2500; % Example: 141000 residents in Stavanger
@@ -81,8 +85,8 @@ sim = gpensim(pni);
 prnss(sim);
 
 % Plots the results 
-%plotp(sim, {'p1','p2','p3','p4','p5','p6','p7','p8'});
-plotp(sim, {'p7', 'p8'});
+plotp(sim, {'p1','p2','p3','p4','p5','p7','p8'}); % removing vaccine place p6 to make the plot more readable.
+title(global_info.simulation_name, ['Using ', num2str(global_info.num_of_busses), ' busses with their drivers & ', num2str(global_info.num_of_health_workers), ' Health Workers & ', num2str(global_info.residents_per_street), ' Residents per Street'])
 
 % Uncomment to Print the reachability tree, text disp and graphical disp
 %cotree(pni, 1, 1) 

@@ -15,22 +15,26 @@ global_info.STOP_RECEIVING_VISITORS_AT = 15.5*60*60;
 % Determines the time between vistors.
 global_info.time_between_visitors = 5*60;
 
+% Gives the simulation a name, so it can be used in the resulted plots.
+%global_info.simulation_name = "Simple Simulation"; %Example with simple minimum resources.
+global_info.simulation_name = "Realistic Simulation"; %Example with simple minimum resources.
+
 % Sets how many visitors are arriving at the same time.
 %global_info.num_of_visitors_at_each_fire = 1; %Example with simple minimum resources.
-global_info.num_of_visitors_at_each_fire = 8; %Example with realistic resources.
+global_info.num_of_visitors_at_each_fire = 7; %Example with realistic resources.
 
 % Number of staff at duty, staff are responsible for registration.
 %global_info.num_of_staff = 1; %Example with simple minimum resources.
-global_info.num_of_staff = 8; %Example with realistic resources.
+global_info.num_of_staff = 7; %Example with realistic resources.
 
 % Number of health workers at duty, health workers handles the vaccination.
 %global_info.num_of_health_workers = 2; %Example with simple minimum resources.
-global_info.num_of_health_workers = 16; %Example with realistic resources.
+global_info.num_of_health_workers = 14; %Example with realistic resources.
 
 % Number of available waiting rooms to be used 
 % for observation after vaccination.
 %global_info.num_of_waiting_rooms = 6; %Example with simple minimum resources.
-global_info.num_of_waiting_rooms = 48; %Example with realistic resources.
+global_info.num_of_waiting_rooms = 42; %Example with realistic resources.
 
 % Here we set the number of vaccines doses available to be used,
 % because we would like to assume we have enough vaccine doses to everyone
@@ -91,6 +95,7 @@ prnss(sim);
 
 % Plots the results 
 plotp(sim, {'p1','p2','p3','p4','p5'});
+title(global_info.simulation_name, ['Using ', num2str(global_info.num_of_staff), ' Staff & ', num2str(global_info.num_of_health_workers), ' Health Workers & ', num2str(global_info.num_of_waiting_rooms), ' Waiting Rooms'])
 
 % Uncomment to Print the reachability tree, text disp and graphical disp
 %cotree(pni, 1, 1) 
