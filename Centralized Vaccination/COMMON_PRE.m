@@ -1,3 +1,5 @@
+% Common Pre-precessor File for Centeralized Vaccination Program
+
 function [fire, transition] = COMMON_PRE(transition)
     global global_info;
     

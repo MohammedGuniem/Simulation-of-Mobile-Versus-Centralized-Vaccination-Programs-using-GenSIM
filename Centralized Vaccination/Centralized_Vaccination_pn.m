@@ -1,4 +1,4 @@
-% MSF: Centeralized Vaccination Program
+% Main Simulation File (MSF) for Centeralized Vaccination Program
 
 clear all;
 clc;
@@ -12,12 +12,12 @@ global_info.STOP_AT  = [16 00 0];
 % Reception is closed at 15:30
 global_info.STOP_RECEIVING_VISITORS_AT = 15.5*60*60; 
 
-% Determines the time between vistors.
-global_info.time_between_visitors = 5*60;
-
 % Gives the simulation a name, so it can be used in the resulted plots.
 %global_info.simulation_name = "Simple Simulation"; %Example with simple minimum resources.
 global_info.simulation_name = "Realistic Simulation"; %Example with simple minimum resources.
+
+% Determines the time between vistors.
+global_info.time_between_visitors = 5*60;
 
 % Sets how many visitors are arriving at the same time.
 %global_info.num_of_visitors_at_each_fire = 1; %Example with simple minimum resources.

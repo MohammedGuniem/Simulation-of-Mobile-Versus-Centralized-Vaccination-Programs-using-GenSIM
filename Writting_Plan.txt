@@ -7,10 +7,10 @@ I- Introduction - Done
 II- Related Work - 
 III- Centralized vs. Mobile Vaccination Programs - Done
 IV- Simulation Setup of A Centralized Vaccination Program - Done
-V- Experimental Simulation of a Centralized Vaccination Program using GPenSIM in Matlab - 
+V- Implementation of Centralized Vaccination Program using GPenSIM - Done 
 VI- Simulation Setup of A Mobile Vaccination Program - 
-VII- Experimental Simulation of a Mobile Vaccination Program using GPenSIM in Matlab - 
-VIII- A Performance Comparsion between the centralized and mobile vaccination programs - 
+VII- Implementation of a Mobile Vaccination Program using GPenSIM - 
+VIII- Study Case and Scaled Performance Comparsion between the centralized and mobile vaccination programs - 
 - Conclusion - 
 - Acknowledgment - 
 - References - 

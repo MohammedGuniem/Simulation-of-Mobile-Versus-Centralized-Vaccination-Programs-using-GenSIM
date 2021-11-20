@@ -1,3 +1,6 @@
+% This file holds a series of methods that helps in making in scaling the
+% implemented simulation of the Centeralized Vaccination Program.
+
 %%Uncooment this section of code from line 3 to 19 to test the results of
 %%methods in this file.
 % clear all;

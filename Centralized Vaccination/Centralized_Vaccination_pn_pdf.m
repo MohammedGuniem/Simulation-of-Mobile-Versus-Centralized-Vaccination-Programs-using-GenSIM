@@ -1,4 +1,4 @@
-% PDF: Centeralized Vaccination Program
+% Petri net Definition File (PDF) for Centeralized Vaccination Program
 
 function [png] = Centralized_Vaccination_pn_pdf()
 png.PN_name = 'Centeralized Vaccination Program';
