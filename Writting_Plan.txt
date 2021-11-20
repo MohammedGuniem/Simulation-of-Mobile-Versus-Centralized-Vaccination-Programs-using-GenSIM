@@ -1,16 +1,40 @@
 -> Writing Plan
 
-- Abstract - 
+"Wednesday" - Abstract - 
 - Keywords - Done
 - Motivation - Done
 I- Introduction - Done
-II- Related Work - 
+"Tuesday" - II- Related Work - 
 III- Centralized vs. Mobile Vaccination Programs - Done
 IV- Simulation Setup of A Centralized Vaccination Program - Done
 V- Implementation of Centralized Vaccination Program using GPenSIM - Done 
-VI- Simulation Setup of A Mobile Vaccination Program - 
-VII- Implementation of a Mobile Vaccination Program using GPenSIM - 
+VI- Simulation Setup of A Mobile Vaccination Program - Done 
+"Sunday" - VII- Implementation of a Mobile Vaccination Program using GPenSIM - 
+"Monday" - VIII- Study Case and Scaled Performance Comparsion between the centralized and mobile vaccination programs - 
+"Monday" - IX- Future Improvements - 
+"Wednesday" - Conclusion - 
+"Wednesday" - Acknowledgment - 
+"Tuesday" - References - 
+
+------------ Day plan ------------
+"Sunday 21.11.2021"
+VII- Implementation of a Mobile Vaccination Program using GPenSIM -
+
+"Monday 22.11.2021"
 VIII- Study Case and Scaled Performance Comparsion between the centralized and mobile vaccination programs - 
-- Conclusion - 
-- Acknowledgment - 
-- References - 
+IX- Future Improvements 
+
+"Tuesday 23.11.2021"
+II- Related Work
+- References
+
+"Wednesday 24.11.2021"
+- Conclusion
+- Acknowledgment
+- Abstract
+
+"Thursday 25.11.2021"
+- Total read review with grammarly correction
+
+"Friday 26.11.2021"
+- Backup, cleaning of github repo, and submission.
