@@ -1,4 +1,7 @@
-%%Uncooment this section of code from line 3 to 16 to test the results of
+% This file holds a series of methods that helps in making in scaling the
+% implemented simulation of the Mobile Vaccination Program.
+
+%%Uncooment this section of code from line 6 to 19 to test the results of
 %%methods in this file.
 % clear all;
 % clc;

@@ -1,4 +1,4 @@
-% PDF: Mobile Vaccination Program
+% Petri net Definition File (PDF) for Mobile Vaccination Program
 
 function [png] = Mobile_Vaccination_pn_pdf()
     png.PN_name = 'Mobile Vaccination Program';

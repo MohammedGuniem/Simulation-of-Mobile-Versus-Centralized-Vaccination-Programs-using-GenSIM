@@ -1,4 +1,4 @@
-% MSF: Mobile Vaccination Program
+% Main Simulation File (MSF) for Mobile Vaccination Program
 
 clear all; 
 clc;
@@ -24,7 +24,7 @@ global_info.num_of_health_workers = 14; %Example with realistic resources.
 global_info.num_of_busses = 14; %Example with realistic resources.
 
 % Sets the number of residents to be vaccinated during the simulation.
-global_info.num_of_residents = 2500; % Example: 141000 residents in Stavanger
+global_info.num_of_residents = 2000; % Example: 141000 residents in Stavanger
 
 % Sets the number of streets to be visited inside a city
 % or the area of the simulation.
