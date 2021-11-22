@@ -23,18 +23,19 @@ global_info.num_of_health_workers = 14; %Example with realistic resources.
 %global_info.num_of_busses = 2; %Example with minimum simple resources.
 global_info.num_of_busses = 14; %Example with realistic resources.
 
-% Sets the number of residents to be vaccinated during the simulation.
-global_info.num_of_residents = 2000; % Example: 141000 residents in Stavanger
-
-% Sets the number of streets to be visited inside a city
-% or the area of the simulation.
-global_info.num_of_streets = 100; % Example: 2021 unique streets in Stavanger
-
 % Assuming all streets have the same number of residents.
 % which is set to be the average number of residents between all streets.
 % make sure this is an integer.
 %global_info.residents_per_street = 20; % Simple Example: 20 residents on each street.
 global_info.residents_per_street = 70; % Example: ~70 residents on each street in Stavanger.
+
+% Sets the number of streets to be visited inside a city
+% or the area of the simulation.
+global_info.num_of_streets = 100; % Example: 2021 unique streets in Stavanger
+
+% Sets the number of residents to be vaccinated during the simulation.
+% Example: 141000 residents in Stavanger
+global_info.num_of_residents = global_info.num_of_streets*global_info.residents_per_street;
 
 % Assuming we have enough vaccines to everybody, 
 % we set the number of vaccine doses to equal the number of residents.

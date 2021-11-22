@@ -8,7 +8,7 @@
 **    Time: 15:57:00   **
 State: 96
 Fired Transition: tVACCINATION_2
-Current State: 94p2 + 2p4 + 34p5 + 2414p6 + 6p7 + 80p8   
+Current State: 94p2 + 2p4 + 34p5 + 1914p6 + 6p7 + 80p8   
 Virtual tokens: (no tokens)
 
 -------------------------------------------------------------------------
@@ -21,6 +21,6 @@ Virtual tokens: (no tokens)
 
 **    Time: 15:55:00   **
 State: 658
-Fired Transition: tVACCINATION_13
-Current State: 78p2 + 6p4 + 904p5 + 1864p6 + 68p7 + 560p8   
+Fired Transition: tVACCINATION_2
+Current State: 78p2 + 6p4 + 904p5 + 6364p6 + 68p7 + 560p8   
 Virtual tokens: 8p4 + 8p5 + 8p6 
