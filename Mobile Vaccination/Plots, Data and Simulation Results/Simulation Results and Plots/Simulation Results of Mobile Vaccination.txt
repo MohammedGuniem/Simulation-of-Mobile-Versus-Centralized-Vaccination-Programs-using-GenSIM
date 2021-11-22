@@ -17,10 +17,11 @@ Virtual tokens: (no tokens)
 -> 14 Vaccination Busses, each bus can be used by 1 health worker.
 -> The average number of residents per street in Stavanger is 70.
 
--> Final State at 15:55:00 PM.
+-> Final State at 15:57:00 PM.
 
-**    Time: 15:55:00   **
-State: 658
-Fired Transition: tVACCINATION_2
-Current State: 78p2 + 6p4 + 904p5 + 6364p6 + 68p7 + 560p8   
-Virtual tokens: 8p4 + 8p5 + 8p6 
+**    Time: 15:57:00   **
+State: 659
+Fired Transition: tVACCINATION_11
+Current State: 78p2 + p4 + 964p5 + 6658p6 + 45p7 + 584p8   
+Virtual tokens: 13p4 + 13p5 + 13p6  
+

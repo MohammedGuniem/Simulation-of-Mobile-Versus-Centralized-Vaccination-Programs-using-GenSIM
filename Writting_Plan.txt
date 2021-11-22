@@ -10,7 +10,7 @@ IV- Simulation Setup of A Centralized Vaccination Program - Done
 V- Implementation of Centralized Vaccination Program using GPenSIM - Done 
 VI- Simulation Setup of A Mobile Vaccination Program - Done 
 VII- Implementation of a Mobile Vaccination Program using GPenSIM - Done
-"Monday" - VIII- Study Case and Scaled Performance Comparsion between the centralized and mobile vaccination programs - 
+VIII- Results & Analysis Using The Municipality of Stavanger As a Study Case - Done
 "Monday" - IX- Future Improvements - 
 "Wednesday" - Conclusion - 
 "Wednesday" - Acknowledgment - 
@@ -18,7 +18,6 @@ VII- Implementation of a Mobile Vaccination Program using GPenSIM - Done
 
 ------------ Day plan ------------
 "Monday 22.11.2021"
-VIII- Study Case and Scaled Performance Comparsion between the centralized and mobile vaccination programs - 
 IX- Future Improvements 
 
 "Tuesday 23.11.2021"

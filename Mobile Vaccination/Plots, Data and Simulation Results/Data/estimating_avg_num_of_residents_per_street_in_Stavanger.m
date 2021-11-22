@@ -21,9 +21,15 @@ for k=1:numel(data.features)
    end
 end
 
-number_of_streets_in_dataset
-number_of_streets_in_stavanger
+disp(['Number of street addresses in Stavanger: ', num2str(number_of_streets_in_dataset)]);
+disp(['Number of unique streets in Stavanger: ', num2str(number_of_streets_in_stavanger)]);
 
-residents_of_stavanger = 141000;
+% According to central bureau of statistics in Norway
+% https://www.ssb.no/kommunefakta/stavanger
+% by the 3rd quarter of 2021
+% there are 144515 residents in norway
+residents_of_stavanger = 144515;
 
-average_per_street = residents_of_stavanger/number_of_streets_in_stavanger
+average_per_street = residents_of_stavanger/number_of_streets_in_stavanger;
+
+disp(['Average number of residents per street: ', num2str(average_per_street)]);

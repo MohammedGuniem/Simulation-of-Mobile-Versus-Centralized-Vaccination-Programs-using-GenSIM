@@ -27,7 +27,7 @@ global_info.num_of_busses = 14; %Example with realistic resources.
 % which is set to be the average number of residents between all streets.
 % make sure this is an integer.
 %global_info.residents_per_street = 20; % Simple Example: 20 residents on each street.
-global_info.residents_per_street = 70; % Example: ~70 residents on each street in Stavanger.
+global_info.residents_per_street = 73; % Example: ~70 residents on each street in Stavanger.
 
 % Sets the number of streets to be visited inside a city
 % or the area of the simulation.
