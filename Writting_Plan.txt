@@ -4,7 +4,7 @@
 - Keywords - Done
 - Motivation - Done
 I- Introduction - Done
-"Tuesday" - II- Related Work - 
+II- Related Work - Done
 III- Centralized vs. Mobile Vaccination Programs - Done
 IV- Simulation Setup of A Centralized Vaccination Program - Done
 V- Implementation of Centralized Vaccination Program using GPenSIM - Done 
@@ -14,13 +14,9 @@ VIII- Results & Analysis Using The Municipality of Stavanger As a Study Case - D
 IX- Future Improvements - Done
 "Wednesday" - Conclusion - 
 "Wednesday" - Acknowledgment - 
-"Tuesday" - References - 
+References - Done
 
 ------------ Day plan ------------
-"Tuesday 23.11.2021"
-II- Related Work
-- References
-
 "Wednesday 24.11.2021"
 - Conclusion
 - Acknowledgment
