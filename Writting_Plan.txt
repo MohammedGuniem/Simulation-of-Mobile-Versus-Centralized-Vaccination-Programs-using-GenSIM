@@ -12,13 +12,12 @@ VI- Simulation Setup of A Mobile Vaccination Program - Done
 VII- Implementation of a Mobile Vaccination Program using GPenSIM - Done
 VIII- Results & Analysis Using The Municipality of Stavanger As a Study Case - Done
 IX- Future Improvements - Done
-"Wednesday" - Conclusion - 
+Conclusion - Done 
 "Wednesday" - Acknowledgment - 
 References - Done
 
 ------------ Day plan ------------
 "Wednesday 24.11.2021"
-- Conclusion
 - Acknowledgment
 - Abstract
 
