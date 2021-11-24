@@ -1,6 +1,6 @@
 -> Writing Plan
 
-"Wednesday" - Abstract - 
+Abstract - Done  
 - Keywords - Done
 - Motivation - Done
 I- Introduction - Done
@@ -13,14 +13,10 @@ VII- Implementation of a Mobile Vaccination Program using GPenSIM - Done
 VIII- Results & Analysis Using The Municipality of Stavanger As a Study Case - Done
 IX- Future Improvements - Done
 Conclusion - Done 
-"Wednesday" - Acknowledgment - 
+Acknowledgment - Done 
 References - Done
 
 ------------ Day plan ------------
-"Wednesday 24.11.2021"
-- Acknowledgment
-- Abstract
-
 "Thursday 25.11.2021"
 - Total read review with grammarly correction
 
