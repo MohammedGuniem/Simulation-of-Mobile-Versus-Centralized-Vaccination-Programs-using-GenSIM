@@ -1,5 +1,15 @@
 % Main Simulation File (MSF) for Mobile Vaccination Program
 
+%%%
+% Run this script as it is to simulate a more complex mobile 
+% vaccination program with reasltic resources.
+% 
+% To run a simple simulation of this mobile vaccination program
+% with minumum resources:
+% Comment lines 25, 30, 34, and 40 and uncomment lines 24, 29, 33, and 39, 
+% then run this script.
+%
+%%%
 clear all; 
 clc;
 

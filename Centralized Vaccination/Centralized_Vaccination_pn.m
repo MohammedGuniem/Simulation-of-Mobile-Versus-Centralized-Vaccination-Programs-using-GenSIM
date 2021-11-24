@@ -1,5 +1,15 @@
 % Main Simulation File (MSF) for Centeralized Vaccination Program
 
+%%%
+% Run this script as it is to simulate a more complex centralized 
+% vaccination program with reasltic resources.
+% 
+% To run a simple simulation of this centralized vaccination program
+% with minumum resources:
+% Comment lines 27, 34, 38, 42 and 47 and uncomment lines 26, 33, 37, 41
+% and 46, then run this script.
+%
+%%%
 clear all;
 clc;
 
